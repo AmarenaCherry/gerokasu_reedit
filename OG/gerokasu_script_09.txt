@@ -1,0 +1,123 @@
+# 09_epilogue
+6129	Fuuka@r@vfuuka1058."Then, it's decided?!"
+6130	Karin@r@vkarin1084."Kuu-chan's big recovery celebration trip is deciiiiiideeeeed!!"
+6131	@rThe four people and one critter jump for joy.
+6132	Doremi@r@vdoremi1023."It was great of your parents to allow this, Mina."
+6133	Mina@r@vmina1010."Yeah! It's because Mina did her best on the piano recital, eheheh."
+6134	@rIt was an accident bad enough for him to drift on the boundary between life and death.
+6135	@rBut after that, Kuu-chan recovered right before their eyes. There are no after effects, and he even seems healthier than before.
+6136	@rThe owner of the car that caused the accident admitted his error and apologized so much to them that they started to apologize back.
+6137	@rAnd he covered not only the treatment costs but, would you believe it, even a rather pricey travel voucher for them to celebrate the recovery.
+6138	Karin@r@vkarin1085."You did it, Kuu-chan! Getting us a travel voucher with one car hit!"
+6139	Doremi@r@vdoremi1024."Immodest as usual I see, hehe."
+6140	Fuuka@r@vfuuka1059."But I truly am glad… he got well enough for us to laugh about it."
+6141	Mina@r@vmina1011."That day… Mina and her friends… said some really shameful things to each other in the clinic's hallway."
+6142	Mina@r@vmina1012."Mina worried that those things would reach Kuu-chan's ears, and he wouldn't be able to hang on and would end up dying…"
+6143	Karin@r@vkarin1086."…It must've been the opposite."
+6144	Karin@r@vkarin1087."Maybe Kuu-chan, seeing us looking so pathetic… was spurred on by that and felt like he had to hang on for us."
+6145	Doremi@r@vdoremi1025."Back then… I guess we really were pathetic."
+6146	Fuuka@r@vfuuka1060."But… that's only part of the whole picture."
+6147	Fuuka@r@vfuuka1061."We're only human. That's what I think."
+6148	Karin@r@vkarin1088."Hm? Don't exclude Kuu-chan from the group!"
+6149	Doremi@r@vdoremi1026."That's right. Kuu-chan is our friend. He encouraged us at our most pathetic and restored our friendship."
+6150	Mina@r@vmina1013."…If Kuu-chan hadn't gotten better… maybe it would have been over with Mina and her friends."
+6151	Fuuka@r@vfuuka1062."………"
+6152	Doremi@r@vdoremi1027."Hm? Are you worried about our friendship?"
+6153	Karin@r@vkarin1089."You're worried it might break again, because it reached the edge of collapse? Is that it?"
+6154	Fuuka@r@vfuuka1063."…Pfft."
+6155	Everyone@r@vmix0003.@z172."AHAHAHAHAHAHAHAHAHAHAHAHAHAHA."
+6156	@rAlthough Kuu-chan made everyone sincerely worried about him, now they can laugh about it nonchalantly, which is a little bewildering to him.
+6157	Mina@r@vmina1015."There's no need to worry, Kuu-chan. Girls are even more robust than he thinks!"
+6158	Fuuka@r@vfuuka1065."To think that we would get into such a big argument in a veterinary clinic, to the point that everything becomes hazy…"
+6159	Karin@r@vkarin1091."Sometimes it's better to just vomit it all out like ‘blegh,’ am I right?"
+6160	Doremi@r@vdoremi1029."When that happens, it becomes a good opportunity to look back on it and realize you were holding a grudge over something more stupid than you thought."
+6161	Mina@r@vmina1016."Even though you might not forget what the other person did to you, no matter how small it is,"
+6162	Fuuka@r@vfuuka1066."You can end up cleanly forgetting what it is that you did."
+6163	Doremi@r@vdoremi1030."Even if there's something you don't want to forgive for as long as you live,"
+6164	Karin@r@vkarin1092."You could, like, be making someone else feel the same way without even realizing it yourself."
+6165	Fuuka@r@vfuuka1067."Sometimes a girl has to really clean up all those little thorns inside her heart."
+6166	Doremi@r@vdoremi1031."Hehe. Of course, at times like that, you can get pretty hostile. I guess it's not uncommon to get into a big fight at that point."
+6167	Karin@r@vkarin1093."Hm? Kuu-chan, it's okay. No need to worry."
+6168	Mina@r@vmina1017."Um, y'know? Girls will only spit out those thorns in their hearts to friends they really, truly love."
+6169	Doremi@r@vdoremi1032."Shouldn't it be obvious? Because you really, truly love them, and you think you want to keep on loving them dearly, you brace yourself for a fight and spit those thorns out."
+6170	Fuuka@r@vfuuka1068."You wouldn't do that if it's someone you don't love or anything, am I wrong?"
+6171	Karin@r@vkarin1094."Right, right. Girls are, well, the opposite of boys. Boys will only fight people they hate, right?"
+6172	Mina@r@vmina1018."But girls will only fight someone they really love."
+6173	Doremi@r@vdoremi1033."Since I guess fighting some person you hate would just complicate things even further, and it would be a pain."
+6174	Karin@r@vkarin1095."That's why girls can hang out with someone they don't care about and be all smiley with them on the surface, without fighting them."
+6175	Fuuka@r@vfuuka1069."Of course, they'll still badmouth them behind their back!"
+6176	Everyone@r@vmix0002.@z172."AH-HAHAHAHAHAHAHA."
+6177	@rKuu-chan initially stared in amazement, but partway through, he started to look at them as if impressed by their robustness.
+6178	Fuuka@r@vfuuka1071."Girls, you see, they don't fight people they hate."
+6179	Karin@r@vkarin1097."When you really love someone but you have reservations about them, you'll think it's better to vomit those out so you can go on really loving them, so you fight."
+6180	Mina@r@vmina1020."It's only the friends you have faith in. The ones who, even if you fight them, you can always go back to getting along with them like before. Those are the ones that you fight."
+6181	Doremi@r@vdoremi1035."Men fight to defeat their enemies. Women fight to repair their friendships."
+6182	@rKuu-chan nods awfully meekly.
+6183	@rTo his male self, fighting is the ultimate war, fought in order to protect his territory or hierarchy.
+6184	@rHe only has claws and fangs himself, but… if he had a more terrifying weapon than that, he might not even shy away from killing his opponent.
+6185	@rBut the fights they're talking about are completely different.
+6186	@rIt's exactly because they're best friends who will always be close that they can end up fighting, having faith in each other that their relationship can always go back to the way it was.
+6187	Mina@r@vmina1021."In other words, it's kinda like… cleaning out your heart?"
+6188	Fuuka@r@vfuuka1072."But I think even a boy could definitely understand something like this."
+6189	Karin@r@vkarin1098.@z92."In those hot-blooded mangas, they'll beat each other up in the schoolyard in the rain, and when it's over there's a scene where their friendship forms again after they got all the weight off their shoulders, right?"
+6190	Doremi@r@vdoremi1036."Right. That's how I imagine it. I guess Kuu-chan can understand it like this, huh?"
+6191	@r…It's not like those males beat each other up so they can make up with each other, right?
+6192	@rBut picturing it as vomiting it all out on each other, and as a result, feeling refreshed and making up with each other, is something even males themselves can understand.
+6193	Karin@r@vkarin1099."But still, weren't we crazy back then? Ah-hahahahahaha."
+6194	Doremi@r@vdoremi1037."I can't believe that all of us were holding grudges from so long ago, all the way back to elementary school."
+6195	Fuuka@r@vfuuka1073."Eh? What do you think happened?"
+6196	Mina@r@vmina1022."Mina and her friends, had a big argument a little while ago!"
+6197	Fuuka@r@vfuuka1074."To be frank, we were a hundred times crazier than we were back in the veterinary clinic."
+6198	Doremi@r@vdoremi1038."Eheheh. Back then, I thought it was over for us."
+6199	Karin@r@vkarin1100."But, like… I think it felt real good to spit it all out."
+6200	Mina@r@vmina1023."Yeah. We got out thorns that Mina was certain she thought she could never take out. …It really was refreshing after all, wasn't it?"
+6201	Doremi@r@vdoremi1039."So, the conclusion the four of us have reached… is that rain is the worst."
+6202	@rRain…?
+6203	Karin@r@vkarin1101."When I lost to Butagawa, it was because the rain had me out of sorts! If only it weren't raining, I totally would've kicked his ass that day!"
+6204	Karin@r@vkarin1102."Actually, to begin with, it hadn't rained, my clothes wouldn't have gotten wet and my parents wouldn't have gotten angry at me!"
+6205	@rOh, by the way, she lost that day but the day after, Karin went right back for round two, and she made him apologize and say he would never take other people's things again.
+6206	Mina@r@vmina1024."Yeah, yeah! It's all the rain's fault! Since if it hadn't rained, Mina would've been able to wait for Doremi-chan to come back home."
+6207	Mina@r@vmina1025."And, if it hadn't rained, Sora-kun's present to Doremi-chan wouldn't have gotten all wet, either."
+6208	Doremi@r@vdoremi1040."That's it. The rain is at fault."
+6209	Doremi@r@vdoremi1041."If it hadn't rained, I could've come home from Fuuka's house without getting soaking wet."
+6210	Fuuka@r@vfuuka1075."…If it hadn't rained,"
+6211	Fuuka@r@vfuuka1076."Sora-kun wouldn't have caught a cold… and he'd still be healthy now, I suppose."
+6212	Fuuka@r@vfuuka1077."…Eh? What was that just now, Kuu-chan?"
+6213	Karin@r@vkarin1103."I think he's saying ‘don't worry about that.’"
+6214	@rRight. …I don't want you to worry about me.
+6215	@rThat was that. All of it was the rain's fault.
+6216	@rIf it hadn't rained, I definitely wouldn't have caught a cold, and I probably would've been able to show everyone a splendid performance onstage.
+6217	@rThat's that. All of it was the rain's fault.
+6218	@rBut… I was surprised after all.
+6219	@rThat big fight, that looked to me like them wringing each other's necks in the depths of hell, that torture… was, to them, not to destroy, but to renew their friendships.
+6220	@rI guess girls really are amazing.
+6221	@rThey're such charming yet mysterious entities. I don't think I want to be one after all, I guess.
+6222	@rBeing close to them like this, like gazing into a kaleidoscope, is what's most fun.
+6223	Doremi@r@vdoremi1042."The rain was at fault."
+6224	Mina@r@vmina1026."Yeah! It was all the rain's fault!"
+6225	Karin@r@vkarin1104."The rain was to blame!"
+6226	Fuuka@r@vfuuka1078.@z172."IT WAS AAAAALL THE RAIN'S FAULT!!"
+6227	@rThe four people and one critter's voices resound energetically into the perfectly clear blue sky…
+6228	@rEveryone, however well they get along with their friends, as long as they're alive, will still drive thorns into each other.
+6229	@rAt times, they just have to spit out those thorns on each other.
+6230	@rAnd this serves not to separate, but to restore.
+6231	@rIf I could be a human one more time… I'd want to meet wonderful friends who can fight like this again.
+6232	@rAnd, if possible, I'd like to meet these girls again.
+6233	@rMan, I'm looking forward to our trip as a group of five good friends.
+6234	Doremi@r@vdoremi1043."This is great. Looks like there's even a hot spring where you can bring pets."
+6235	Fuuka@r@vfuuka1079."What is it, Kuu-chan? You hate baths?"
+6236	Mina@r@vmina1027."No need to be scared! Mina and her friends will all be together!"
+6237	Karin@r@vkarin1105."Hmmmmmmm? Fuuka, lemme borrow Kuu-chan for a sec~"
+6238	Karin@r@vkarin1106."Heave-ho."
+6239	Fuuka@r@vfuuka1080."Wh-wha…"
+6240	Doremi@r@vdoremi1044."Oh. And I thought you'd always stay a kitten."
+6241	Mina@r@vmina1028."K-Kuu-chan became a boy, didn't he…?"
+6242	Karin@r@vkarin1107."You did it, Kuu-chan. Nice Saint Bamboo Sword you got there, kuffufu."
+6243	Name@rTest test 1 @rtest test 2 @rtest test 3
+6244	Name@rTest test 1
+6245	→6243
+6246	→6243
+16783463	→6243
+16783464	→6243
+16783465	→6243
+16783466	→6243

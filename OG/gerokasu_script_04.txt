@@ -1,0 +1,1298 @@
+# 04_event_fuuka_1
+
+# 04_event_fuuka_2
+
+# 04_event_fuuka_3
+2097	Doremi@r@vdoremi0334."…Fuuka. About you,"
+2098	Doremi@r@vdoremi0335."For a long time… it's always been one little thing after another, piling up."
+2099	Doremi@r@vdoremi0336."We always had to be pushed around… by someone selfish like you…"
+2100	Fuuka@r@vfuuka0368."Doremi…? Wh-what are you say—"
+2101	Doremi@r@vdoremi0337.@z150."I TOLD YOU TO SHUT UP!"
+2102	Doremi@r@vdoremi0338."Right now, we're in a really, truly urgent situation."
+2103	Doremi@r@vdoremi0339."We don't have time… to give our princess everything she wants and dote on her…!!"
+2104	@rFuuka grinds her teeth and glares at Doremi with an expression you wouldn't think existed in this world.
+2105	@rShe has not lost her words. But all kinds of emotions unable to be put into words are now filling her head until she's bursting at the seams…
+2106	Karin@r@vkarin0351."C-calm down you guys… okay?"
+2107	Karin@r@vkarin0352."Haven't we been four good friends ever since elementary school…?"
+2108	Karin@r@vkarin0353."If we all cooperate and put our heads together, then I'm sure… we'll think of something…!"
+2109	Doremi@r@vdoremi0340."…I acknowledge the four of us have always been together."
+2110	Doremi@r@vdoremi0341."As to whether or not we've been good friends… I'm not so sure."
+2111	Mina@r@vmina0341."Stop it…. Hey, hey… don't say things like that…"
+2112	Doremi@r@vdoremi0342."You must have all vaguely realized it by now…"
+2113	Doremi@r@vdoremi0343."…Indeed, when we started elementary school, we sat next to each other, and we've been a group of four ever since."
+2114	Karin@r@vkarin0354."That's right… in middle school, and high school too, we were always close with each other…"
+2115	Doremi@r@vdoremi0344."…If that was the case for you… then you must have been happy, Karin."
+2116	Karin@r@vkarin0355."…What do you mean…?"
+2117	Doremi@r@vdoremi0345."Like, did you not know that Fuuka hates you…?"
+2118	Karin@r@vkarin0356."Eh…"
+2119	Fuuka@r@vfuuka0369."………"
+2120	Doremi@r@vdoremi0346."You see, you were the only one Fuuka never trusted."
+2121	Doremi@r@vdoremi0347."‘Karin is such a liar. I can't trust her.’ …That's how she really sees you, behind your back."
+2122	Karin@r@vkarin0357."Y… you're lying…"
+2123	Fuuka@r@vfuuka0370."…D-don't say such inappropriate things—"
+2124	Doremi@r@vdoremi0348.@z150."DON'T PLAY DUMB WITH ME!! DID YOU THINK NO ONE WOULD FIGURE IT OUT?!"
+2125	Mina@r@vmina0342."Doremi-chan, stop it… don't say things like that…!"
+2126	Doremi@r@vdoremi0349."Aw, poor Mina! Always looked down on by Fuuka and treated like the clumsy mascot character!"
+2127	Mina@r@vmina0343."But that's… Mina really is… stupid… and clumsy…"
+2128	Doremi@r@vdoremi0350."That's because everyone expects that kind of personality of you, so you just unconsciously read the room and give them what they want."
+2129	Doremi@r@vdoremi0351."Fuuka always treated you like that, Mina, so you'd always just keep your head down and ingratiate yourself to her without even realizing it…!"
+2130	Mina@r@vmina0344."M… Mina is…"
+2131	Doremi@r@vdoremi0352."The real Mina was a more lively and energetic kid, taking the initiative when facing any challenge, full of curiosity!"
+2132	Doremi@r@vdoremi0353."And Fuuka would always only point out your failures, Mina, and crush your curiosity, and treat you like you were just some clumsy kid!"
+2133	Doremi@r@vdoremi0354."And this kept on piling up ever since elementary school… because Mina, I knew you were being made into some stuffed animal or pet."
+2134	Mina@r@vmina0345."………"
+2135	@rMina is looking down and biting her lower lip.
+2136	@rEmotions she doesn't know how to process are overflowing inside her. But they're emotions she doesn't want to acknowledge…
+2137	Doremi@r@vdoremi0355."At some point, you've become used to being treated like a stuffed animal or something."
+2138	Doremi@r@vdoremi0356."But you don't actually like being treated like that. I've understood at least that much quite well…!"
+2139	Mina@r@vmina0346.@z132."STOP IT!! MINA DOESN'T CARE, MINA DOESN'T WANT TO HEAR IT!! MINA DOESN'T UNDERSTAND ANYTHIIIiIIIiNG!!"
+2140	Fuuka@r@vfuuka0371.@z113."CAN YOU NOT MAKE SUCH BRAZEN ASSUMPTIONS?!?! I'VE NEVER THOUGHT OF MINA-CHAN AS A STUFFED ANIMAL OR ANYTHING LIKE THAT!!"
+2141	Fuuka@r@vfuuka0372.@z122."MOREOVER, DON'T YOU THINK I'M SHOCKED MYSELF?! TO THINK YOU, DOREMI, WOULD SEE ME THAT WAY…!!"
+2142	Doremi@r@vdoremi0357."…Ever since then… for whatever reason, I've just hated you."
+2143	Doremi@r@vdoremi0358."You're always making the world revolve around you, like a princess,"
+2144	Doremi@r@vdoremi0359."But me, I always knew you were the kind of person who wouldn't listen to anything I say until when it would be convenient to."
+2145	Doremi@r@vdoremi0360."You've always looked down on Mina condescendingly while you pretended to coddle her."
+2146	Karin@r@vkarin0358."I-I said cut it out…! Fuuka's not like that…!"
+2147	Doremi@r@vdoremi0361."And you, Karin. …You've always been looked down on by Fuuka."
+2148	Fuuka@r@vfuuka0373.@z150."HOW COULD YOU POSSIBLY KNOW SOMETHING LIKE THAT!!!"
+2149	Doremi@r@vdoremi0362."Because, we're a group of four good friends, aren't we?"
+2150	Doremi@r@vdoremi0363."…I've always, always seen you up close. …That's how I know."
+2151	Doremi@r@vdoremi0364."Fuuka, you always said things like ‘I can't trust her’ and ‘she's a liar’ about Karin… so, having seen all of that, I, *I* should know all about it…!"
+2152	Karin@r@vkarin0359."…You're… lying…"
+2153	@rEven though she says that… Karin's expression clouds over.
+2154	@rFuuka, who she's known for so long… would on rare occasions let something small, very small, show… that didn't quite make sense to her.
+2155	@rBut now, she's finally able to understand it…
+2156	Fuuka@r@vfuuka0374."Doremi… I… really don't get it…"
+2157	Fuuka@r@vfuuka0375."Weren't you and I… the best of friends…? So then, why… would you even say something like that…? *sob*…"
+2158	Doremi@r@vdoremi0365."I never thought so at all."
+2159	Doremi@r@vdoremi0366."Since we friends, the four of us would always end up together, but,"
+2160	Doremi@r@vdoremi0367."While I thought of Mina and Karin as my friends… it's only you, Fuuka, who I didn't feel that way about."
+2161	Fuuka@r@vfuuka0376."…But you're lying… Doremi… we were… best friends…"
+2162	Doremi@r@vdoremi0368."The kind of best friend you're talking about is someone who is here to listen to you when it's convenient and help you when it's convenient… a menial servant to a princess like you, isn't it?"
+2163	Doremi@r@vdoremi0369."All this time, all this time… I have—we have—always been pushed around by you…"
+2164	Doremi@r@vdoremi0370."The world and its plot are always just revolving around you, its princess. Well, we aren't just your menial servants or your supporting cast!"
+2165	Doremi@r@vdoremi0371."This time, I'll say it clearly! I've always hated you. That's right! Now I can finally be honest about those feelings."
+2166	Doremi@r@vdoremi0372.@z150."FUUKA, I REALLY, TRULY HATE YOU!!!"
+
+# 04_event_fuuka_4
+
+# 04_event_fuuka_5
+
+# 04_event_fuuka_6
+2167	Doremi@r@vdoremi0373."For a long time now, any time you had something you wanted to say, you'd always just say it, without a care in the world."
+2168	Doremi@r@vdoremi0374."And I've always, always… always always always been made to go along with you, and pushed around by you!"
+2169	Doremi@r@vdoremi0375."I've always been nothing but Princess Fuuka's punching bag!"
+2170	Doremi@r@vdoremi0376."The punching bag hung up to get smacked around with all the frustration in your heart!!"
+2171	Doremi@r@vdoremi0377."If I ever didn't hang out with you, you'd throw a tantrum!!"
+2172	Doremi@r@vdoremi0378."Treating me coldly, spewing insults at me! Despairing all over it, as if you were going to kill yourself over it!!"
+2173	Doremi@r@vdoremi0379."Nobody can imagine… how much good will it has taken, how much you've forced me to me go along with you!!"
+2174	Mina@r@vmina0347."D… Doremi-chan…"
+2175	Fuuka@r@vfuuka0377."………"
+2176	@rEven Fuuka, who was raging furiously a moment ago, is speechless.
+2177	@r…It's no wonder.
+2178	@rSince, to her, Doremi has been… her unparallelled best friend, in whom she thought she could confide any kind of worry in her heart.
+2179	Doremi@r@vdoremi0380."Fuuka. For a long time now, I've reaally hated you."
+2180	Doremi@r@vdoremi0381."But guess what, I kept being your punching bag in spite of that."
+2181	Doremi@r@vdoremi0382."Since if I had dared to say out loud that I didn't want to be your punching bag anymore, it would've been a huge pain."
+2182	Fuuka@r@vfuuka0378."…Even though…"
+2183	Fuuka@r@vfuuka0379."Even though… you listened to me… with such cordiality…?"
+2184	Doremi@r@vdoremi0383."Well, if I nod along and give you the appropriate responses, it puts your heart at ease, doesn't it?"
+2185	Doremi@r@vdoremi0384."I did that much for you when I hung out with you. …Since we're supposed to be a group of four good friends."
+2186	Fuuka@r@vfuuka0380."…, ………!"
+2187	Fuuka@r@vfuuka0381."…Doremi, tell me…"
+2188	Fuuka@r@vfuuka0382."When you say you've hated me for a long time… how far back do you mean…?"
+2189	Fuuka@r@vfuuka0383."…You wouldn't mean… from the very first time we met, right…?"
+2190	Doremi@r@vdoremi0385."………"
+2191	Doremi@r@vdoremi0386."…No. At the very beginning, you were my best friend."
+2192	Doremi@r@vdoremi0387."But… probably starting that fateful day, my feelings started to change…"
+2193	Karin@r@vkarin0360."I-I don't get it! We were such a close pair, so why…!"
+2194	Doremi@r@vdoremi0388."Thinking back on it right now… I think it was a really trivial thing."
+2195	Doremi@r@vdoremi0389."…But, on that day… at that time… that thing was plenty infuriating…"
+2196	Fuuka@r@vfuuka0384."Just what… the hell did I… do to you…"
+2197	Doremi@r@vdoremi0390."………"
+2198	Doremi@r@vdoremi0391.@z111."THAT DAY, I TOLD YOU I COULDN'T LEAVE MY HOUSE!! I TOLD YOU SO MANY TIMES THAT WE COULD TALK OVER THE PHONE AND I WOULD LISTEN TO YOU!!"
+2199	Doremi@r@vdoremi0392.@z127."AND EVEN STILL, FUUKA, YOU CRIED SO HARD AT ME, SAYING HOW YOU'D DIE IF WE COULDN'T TALK IN PERSON!!"
+2200	Doremi@r@vdoremi0393.@z127."EVEN THOUGH I HAD TO STAY HOME!! YOU STILL FORCED ME TO COME OUT TO SEE YOU!!!"
+2201	Doremi@r@vdoremi0394.@z132."MY MOM WAS ANGRY AT ME!!! SHE WAS SO INSANELY FURIOUS AT ME!!! I GOT SMACKED SO MANY TIMES!!"
+2202	Doremi@r@vdoremi0395.@z116."AND IT'S NOT JUST THAT!! IF ONLY YOU HADN'T CALLED ME OVER… IF ONLY YOU HADN'T CALLED ME OVER…!!"
+2203	Doremi@r@vdoremi0396."…The rain… the rain…!"
+2204	Doremi@r@vdoremi0397.@z127."GOT IT SOPPING WET!! SO SOAKED THAT IT BROKE!! EVEN THE LETTER'S INK BLED AWAY SO I COULDN'T READ IT!!"
+2205	Doremi@r@vdoremi0398.@z132."NOT ONE THING WAS LEFT TO ME… TO REMEMBER SORA-KUN BY!! AND IT'S ALL YOUR FAULT, FUUKA!!!"
+2206	Doremi@r@vdoremi0399."Of course, it's not like it was all your fault, Fuuka. I was in error too, I guess."
+2207	Doremi@r@vdoremi0400."I should have ignored your sobbing and stayed home. Because I couldn't do that, I'm of course at fault too, I suppose!!"
+2208	Doremi@r@vdoremi0401.@z138."ANYWAY, ON THAT DAY, MY VIEW OF YOU CHANGED DRASTICALLY!!"
+2209	Doremi@r@vdoremi0402.@z116."FROM THAT DAY ONWARD, YOU WERE NO LONGER MY BEST FRIEND!! IT WAS THAT DAY! EVER SINCE THAT DAY!!"
+2210	Doremi@r@vdoremi0403.@z116."FUUKA, I REAALLY HATE YOU!! AND NOW THAT I'VE FINALLY GOTTEN THAT OUT, I FEEL RELIEVED, FROM THE BOTTOM OF MY HEART!!!"
+
+# 04_event_fuuka_7
+
+# 04_event_fuuka_8
+
+# 04_event_fuuka_9
+2211	Doremi@r@vdoremi0404."…This is a good opportunity, so allow me to spit it all out."
+2212	Doremi@r@vdoremi0405."Fuuka. For a long time now, I've always, always hated your arrogance and egotism."
+2213	Doremi@r@vdoremi0406."Always. Well before high school. Well before middle school. Ever since elementary school."
+2214	Doremi@r@vdoremi0407."I've always, always… really hated your guts!"
+2215	Fuuka@r@vfuuka0385."………"
+2216	Fuuka@r@vfuuka0386."…Ever since, elementary school…? Y-you're lying…"
+2217	Fuuka@r@vfuuka0387."Doremi, haven't you always been… my number one best friend…?"
+2218	Doremi@r@vdoremi0408."You would call your vomit bag your best friend…?"
+2219	Doremi@r@vdoremi0409."You call the bag you puke into whenever you feel like your best friend?"
+2220	Doremi@r@vdoremi0410."You call me, the one you call over without a care in the world whenever you feel like glibly puking out all those emotions inside you, like vomit, your best friend?! Huhh?!"
+2221	Fuuka@r@vfuuka0388."…Of course, since everyone else, even the teacher, supports me so much, I think it would be bad of me not to pay it forward…"
+2222	Fuuka@r@vfuuka0389."But you know, I don't even like being the class president… I actually dislike it."
+2223	Doremi@r@vdoremi0411."If that's so, then it would be better to say what you feel."
+2224	Fuuka@r@vfuuka0390."But, I certainly do want to fulfill everybody's expectations of me, but despite that, I…"
+2225	Doremi@r@vdoremi0412."If you don't like it then you should say you don't…"
+2226	Fuuka@r@vfuuka0391."That's not what I mean! But I don't think I can do anything about it, either———So that's why, but, gosh———"
+2227	Fuuka@r@vfuuka0392."……So like, I think——————That's why I always——————Still, after all, I don't like——————Like, you see—————?"
+2228	Fuuka@r@vfuuka0393."You listening? Doremi?"
+2229	Fuuka@r@vfuuka0394."After all, I——————But, I can't just give in, you know——————But gosh, I'd really like to just feel at ease——————"
+2230	Fuuka@r@vfuuka0395."Whaddya think? Doremi? You listening? Doremi?"
+2231	@rEver since we were little, the word ‘graceful’ has described you, the genius girl, more than anyone else.
+2232	@rEverywhere you went, everyone else would always ask you if you were a child actress or a model.
+2233	@rWhether it was jumping rope, or learning to ride a bike without training wheels, or doing multiplication in your head, or an art contest, you were always number one, Fuuka.
+2234	@rAnd that very same Fuuka shows me a side of herself that she doesn't show anyone else, and confesses what's really inside her heart…
+2235	@rAnd it seemed, to my little self, like a little superiority complex…
+2236	@rBut, it's strange.
+2237	@rI really did dislike you, but you confided in me about how you didn't want to betray the self everyone sees in you.
+2238	@rI was like that too.
+2239	@rI was your emotional vomit bag for you to puke into.
+2240	@rI really didn't like playing the role you needed someone to play for you, but…
+2241	@r…Always living up to expectations… is something I kept doing because I felt obligated to, exactly like you…
+2242	@rThe position of always being confided in with the worries of the number one in our class— no, the number one cutest, smartest girl of the entire year.
+2243	@rI always, always… kept enduring… being forced to keep up that sickening act…
+2244	Doremi@r@vdoremi0413."The very first incident that made me start hating you was…"
+2245	Doremi@r@vdoremi0414."…No, that's not it."
+2246	Doremi@r@vdoremi0415."That day. …The more I think about it… that day was… the day when I started to hate you to death."
+2247	Doremi@r@vdoremi0416."……Do you remember? The phone call that day."
+2248	Fuuka@r@vfuuka0396."Phone call…?"
+2249	Doremi@r@vdoremi0417."School was over. …You called me at home."
+2250	Doremi@r@vdoremi0418."Don't you remember? Your big, once-in-a-lifetime heartbreak?"
+2251	Fuuka@r@vfuuka0397."…Ah…"
+2252	@r…Doremi, can we talk?
+2253	@rSora-kun… I truly did love that kid.
+2254	→1230
+2255	@r…Yeah. …When you confessed that, all you got was an ‘I'm sorry’.
+2256	@rIt's not like you actually said that it was him who you loved.
+2257	@rBut, you know… today, I understand.
+2258	@rThat you truly love Sora-kun…
+2259	Doremi@r@vdoremi0419."Fuuka, you were crying and crying and crying… so much that it seemed like it would overflow through the receiver, you know?"
+2260	Doremi@r@vdoremi0420."And I'd become used to being your vomit bag… so I already expected it would go this far — the ultimate vomit bag."
+2261	Doremi@r@vdoremi0421."Well, in spite of that… I thought getting to hear about Gojou Fuuka's heartbreak was a perk meant only for me, so I thought I would just endure it…"
+2262	Doremi@r@vdoremi0422."But… that day, it wasn't enough for you, Fuuka."
+2263	@r…Hey, Doremi…. Will you come… over to my house?
+2264	@rIt's no good… over the phone. @rI want you to hear this from me face to face, Doremi—
+2265	@r…Eh? …Your family left you to watch the house while they were out…?
+2266	Doremi@r@vdoremi0423."They told me to be certain that I accept the delivery that was coming, so they told me to stay home no matter what…"
+2267	Doremi@r@vdoremi0424."I told you that so many times, and yet… and yet…"
+2268	@rI'm begging you, come over…. @rCome on, I'm begging you, Doremi-chan…
+2269	@rCome on, I'm begging you, so hurry up and come over! @r…Why won't you come even if I ask you so much?
+2270	@rI'm gonna die…! if you won't come, Doremi-chan, @rI'm gonna die! *sob*.
+2271	Doremi@r@vdoremi0425."Isn't that right. You can't puke all that out and feel good afterwards if it's only over the phone, isn't that right?"
+2272	Doremi@r@vdoremi0426."I guess you wanted to grasp my head tightly and belch all that vomit deep into my throat directly, isn't that right?"
+2273	Fuuka@r@vfuuka0398."…Dore… mi…"
+2274	Doremi@r@vdoremi0427."The one at fault is me. I mean, it's not like I was dragged all the way to your house."
+2275	Doremi@r@vdoremi0428."In the end, I went to your house on my own two feet. …So, I'm the one who's at fault."
+2276	Doremi@r@vdoremi0429."But, you know… if I don't go, you might actually wind up dead… that's what I was thinking."
+2277	Doremi@r@vdoremi0430."Unlike you, I was neither smart nor a beauty."
+2278	Doremi@r@vdoremi0431."And my family was broke… there wasn't even one thing about me that people could respect."
+2279	Doremi@r@vdoremi0432."But someone like me got to be the vomit bag known as the confidant to the number one pretty girl in our year."
+2280	Doremi@r@vdoremi0433."A one-sided relationship where all I did was get vomited on. That was what I was relied on for, but…"
+2281	Doremi@r@vdoremi0434."‘…Not as a vomit bag, but as your true best friend… isn't now one of those moments I have to be there for you…?’, or so I thought."
+2282	@rIn the end. I went to see you at your house.
+2283	@r…But, I could just laugh.
+2284	@rWhen I got there, all out of breath… @ryou were already halfway over it, Fuuka.
+2285	@r‘I want you to kick that promise with your family to the curb and race over here, for the sake of your heartbroken best friend!’ …That was the game you were playing.
+2286	@rAnd you won… so you were already feeling a lot better.
+2287	@rAnd then, you puked out all the rest of the vomit you had left into me, your vomit bag.
+2288	@rRubbing your eyes, all swollen and red from crying, a smile of ultimate refreshment rose to your face, and here's what came out of your mouth.
+2289	Fuuka@r@vfuuka0399.——I feel better thanks to you, Doremi.
+2290	@rYou must've felt better. @rBecause you dumped all of that vomit into me.
+2291	@rAnd then, when you'd already made someone come over for you — you said that now you'd go out by yourself.
+2292	@r‘I don't have any more regrets, so I want to protect and support Sora-kun's confession. So, I suppose I'll go out.’ …That's what came out of your mouth.
+2293	@rI saw you off, stunned, as you dashed out of the room. …You left the entryway of your house, alone.
+2294	Doremi@r@vdoremi0435."…At that point, I knew."
+2295	Doremi@r@vdoremi0436."I was the only idiot."
+2296	Doremi@r@vdoremi0437."I had felt such self-satisfaction just from getting to be a vomit bag for the girl I admired… but I was only a vomit bag."
+2297	Doremi@r@vdoremi0438."My face is ugly, and I'm stupid. And my family is broke, and my house is disgraceful."
+2298	Doremi@r@vdoremi0439."…I'd felt like just getting to be a vomit bag for the girl I admired was my reason for living… a vomit bag!"
+2299	Doremi@r@vdoremi0440."But in spite of that, I made an awful misunderstanding by thinking I might actually be your best friend, Fuuka…"
+2300	Doremi@r@vdoremi0441."So the one at fault is me. It's my fault, for being arrogant and not knowing my place."
+2301	Doremi@r@vdoremi0442."You're not the one at fault, Fuuka. …You're a cute, intelligent girl who anyone would admire."
+2302	Doremi@r@vdoremi0443."So I'm the one who's at fault, I'm at fault, I'm at fault…"
+2303	@rOn the way back, I was met with a harsh downpour. …I was soaked.
+2304	@rWhen I got back… there was a missed delivery slip in the mail slot in the entrance.
+2305	@r‘It's a really important package for work, so be certain you stay home while we're out and accept it,’ is what they told me about the package…
+2306	Doremi@r@vdoremi0444."…My parents smacked me until my cheek was swollen. But, that wasn't the only painful thing."
+2307	Doremi@r@vdoremi0445."Because no one was home after you called me over… Sora-kun left it… in front of the entrance."
+2308	@rSince my family is broke. …We don't have a nice house with an awning out front.
+2309	@rSo whatever was right in front of the entrance got completely soaked… in that downpour…
+2310	Doremi@r@vdoremi0446.@z132."THE INSIDE WAS SOAKED TOO! I COULD BARELY EVEN READ THE LETTER BECAUSE IT WAS SO SOAKED!!"
+2311	Doremi@r@vdoremi0447."Inside was the talking stuffed animal I wanted at the time."
+2312	Doremi@r@vdoremi0448."Sora-kun was incredible. Just from our casual conversations, he was able to find out exactly what I wanted."
+2313	Doremi@r@vdoremi0449.@z150."BUT GUESS WHAT, IT BROKE!! IT GOT SO SOAKED BY THE RAIN THAT IT WAS BROKEN!!!"
+2314	Doremi@r@vdoremi0450.@z150."YOU JUST HAD TO CALL ME OVER!"
+2315	Doremi@r@vdoremi0451."I could have looked after the house! I could have received the delivery, and I could have avoided my family's anger! I could've even properly gotten Sora-kun's present!!"
+2316	Doremi@r@vdoremi0452."I was the one who wanted to cry!! It must've felt nice to make me your vomit bag!! But the one who wanted to vomit the most was me!!"
+2317	Doremi@r@vdoremi0453."For the longest time, I didn't even realize what made me want to cry so much."
+2318	Doremi@r@vdoremi0454.@z90."As a group of four good friends, we had a relationship where we could confide our worries in each other. …I've been covering myself up in that, and thought there was no way I would be the vomit bag, but for so long, all that time…… I was fooling myself!"
+2319	Doremi@r@vdoremi0455.@z150."SO NOW, I'M, GONNA PUKE IT ALL OUT ON YOU!!"
+2320	Doremi@r@vdoremi0456."Ever since that day… I've… always always, always always always—"
+2321	Doremi@r@vdoremi0457.@z172."HATED YOU, I'VE REAALLY HATED YOU!!!"
+2322	Doremi@r@vdoremi0458.@z116."I, HANABUSA DOREMI, HAVE ALWAYS… REAALLY HAAATED YOU, GOJOU FUUKAaAA!!!"
+
+# 04_event_karin_1
+2323	Fuuka@r@vfuuka0400."Karin… I've never thought of you as my friend."
+2324	Fuuka@r@vfuuka0401."Maybe we were always together since we were little, and always acted friendly towards each other, but…"
+2325	Fuuka@r@vfuuka0402.@z150."FOR A LONG TIME NOW, I HAVEN'T TRUSTED YOU AT ALL!!"
+2326	Fuuka@r@vfuuka0403.@z132."YOU MAKE LIGHT OF THE FEELINGS IN PEOPLE'S HEARTS AND BETRAY THEM… THE WORST TYPE OF GIRL!!"
+2327	@rThese words stab Karin in the heart deeper than any knife could have.
+2328	@rShe turns quiet and pale, swaying her head slowly, looking rather anemic…
+2329	Karin@r@vkarin0361."………"
+2330	Karin@r@vkarin0362."…I-I don't get it…. Why…?"
+2331	Karin@r@vkarin0363."Fuuka… why would you say something like that… about me…?"
+2332	Doremi@r@vdoremi0459."S… stop, Fuuka."
+2333	Doremi@r@vdoremi0460."I understand you're shaken by this situation, but saying things like that won't achieve anything…"
+2334	Fuuka@r@vfuuka0404."Sorry, Doremi. Just shut up for a second…"
+2335	Karin@r@vkarin0364."…*sob*…"
+2336	Karin@r@vkarin0365."Even though I've… always loved you so much, Fuuka… and always been so nice to you, and shown you so much kindness…"
+2337	Karin@r@vkarin0366."And you've been so nice to me as well, and so friendly… Fuuka…"
+2338	Fuuka@r@vfuuka0405."I'm only going to tell you my feelings this one time. So I'm going to say it clearly."
+2339	Fuuka@r@vfuuka0406.@z105."EVER SINCE ELEMENTARY SCHOOL, I'VE ALWAYS HATED YOU!! YOU'RE A COLD-HEARTED GIRL WHO TELLS LIES AND TRAMPLES ON OTHER PEOPLE'S HEARTS!!"
+2340	Karin@r@vkarin0367."…Fuuka… I can't believe you would… say something like that about me…"
+2341	Karin@r@vkarin0368."Like… what lies have I told…? What did I ever do to hurt you so much…?"
+2342	Karin@r@vkarin0369."I'll apologize… I'll apologize for it all, all of it… I'll apologize for all of it, and I'll even admit you were right, Fuuka…!"
+2343	Karin@r@vkarin0370."So… tell me…"
+2344	Karin@r@vkarin0371."Just what… kind of lies are you saying I've told…"
+2345	Fuuka@r@vfuuka0407."………"
+2346	Fuuka@r@vfuuka0408."You wouldn't get it… since you don't have a human heart, Karin…"
+2347	Karin@r@vkarin0372."Tell me already, tell me already, Fuuka…"
+2348	Karin@r@vkarin0373."I'll apologize, I'll apologize no matter what, I'll apologize so much, all you want…!"
+2349	Karin@r@vkarin0374."So… tell me alreadyy… *sob*…"
+2350	@rThe normally strong-willed, energetic Karin, who has always taken a superhero's attitude to life… breaks down and lets her tears flow.
+2351	@rHer tear-soaked expression… is totally different from the Karin the others know, and looks more like that of a small animal…
+2352	Mina@r@vmina0348."S-stop it already…"
+2353	Mina@r@vmina0349."Mina doesn't like it… Mina doesn't want to listen to this…! This is all… a bad dream…"
+2354	Fuuka@r@vfuuka0409."…Mina-chan, you loved Karin, didn't you?"
+2355	Mina@r@vmina0350.@z150."MINA LOVES HER! SHE'S MINA'S DEARLY BELOVED FRIEND!"
+2356	Fuuka@r@vfuuka0410."……In that case, I may as well tell you this too."
+2357	Fuuka@r@vfuuka0411."About Karin. …You're the one she hated the most."
+2358	Mina@r@vmina0351."No way…"
+2359	Fuuka@r@vfuuka0412."Whenever you were having fun with me and Doremi… Karin was looking at you with such a cold gaze, but you had no idea, did you?"
+2360	Fuuka@r@vfuuka0413."Naturally, Karin wanted to keep it hidden… but I noticed it."
+2361	Fuuka@r@vfuuka0414."I assume you've noticed too, Doremi?"
+2362	Doremi@r@vdoremi0461."………"
+2363	Doremi@r@vdoremi0462."…N-no… I…"
+2364	Fuuka@r@vfuuka0415."See? The only one who didn't know was you, Mina-chan."
+2365	Mina@r@vmina0352."Is… is it true? Karin-chan…"
+2366	Fuuka@r@vfuuka0416."It wasn't just once or twice. It happened countless times, ever since elementary school, you know."
+2367	Fuuka@r@vfuuka0417."And, I noticed it."
+2368	Fuuka@r@vfuuka0418."I'd thought we were a group of four good friends, but… In Karin's mind, we were only ever a group of three…"
+2369	Mina@r@vmina0353."Th… That's a lie…"
+2370	Mina@r@vmina0354."Karin-chan… hating Mina…?"
+2371	Mina@r@vmina0355."It's a lie… @z150.IT'S A LIEEE…!@z100."
+2372	Fuuka@r@vfuuka0419."As expected of a liar like you, Karin. You even managed to get the Mina-chan you hate so much to say all this. I guess you're a big deal in the world of liars."
+2373	Karin@r@vkarin0375."…Stop it, Fuuka…. …Stop it…"
+2374	Karin@r@vkarin0376."We were… supposed to always be friends…"
+2375	Karin@r@vkarin0377."Hey, Fuuka…. Why are you so hard on me…? I just don't… get it…"
+2376	Fuuka@r@vfuuka0420."Enough of your crap…"
+2377	Fuuka@r@vfuuka0421.@z150."ENOUGH OF THAT CREEPY WOLF IN SHEEP'S CLOTHING ACT!!"
+2378	Fuuka@r@vfuuka0422.@z122."I REALLY HATE YOU!! I'VE REALLY HATED YOU FOR AS LONG AS I'VE KNOWN YOU!! I WON'T TRUST, A LIAR LIKE YOU, KARIN!!!"
+
+# 04_event_karin_2
+2379	→2323
+2380	→2324
+2381	→2325
+2382	→2326
+2383	→2327
+2384	→2328
+2385	→2329
+2386	→2330
+2387	→2331
+2388	→2332
+2389	→2333
+2390	→2334
+2391	→2335
+2392	→2336
+2393	→2337
+2394	→2338
+2395	→2339
+2396	→2340
+2397	→2341
+2398	→2342
+2399	→2343
+2400	→2344
+2401	→2345
+2402	→2346
+2403	→2347
+2404	→2348
+2405	→2349
+2406	→2350
+2407	→2351
+2408	→2352
+2409	→2353
+2410	→2354
+2411	→2355
+2412	→2356
+2413	→2357
+2414	→2358
+2415	→2359
+2416	→2360
+2417	→2361
+2418	→2362
+2419	→2363
+2420	→2364
+2421	→2365
+2422	→2366
+2423	→2367
+2424	→2368
+2425	→2369
+2426	→2370
+2427	→2371
+2428	→2372
+2429	→2373
+2430	→2374
+2431	→2375
+2432	→2376
+2433	→2377
+2434	→2378
+
+# 04_event_karin_3
+2435	→2323
+2436	→2324
+2437	→2325
+2438	→2326
+2439	→2327
+2440	→2328
+2441	→2329
+2442	→2330
+2443	→2331
+2444	→2332
+2445	→2333
+2446	→2334
+2447	→2335
+2448	→2336
+2449	→2337
+2450	→2338
+2451	→2339
+2452	→2340
+2453	→2341
+2454	→2342
+2455	→2343
+2456	→2344
+2457	→2345
+2458	→2346
+2459	→2347
+2460	→2348
+2461	→2349
+2462	→2350
+2463	→2351
+2464	→2352
+2465	→2353
+2466	→2354
+2467	→2355
+2468	→2356
+2469	→2357
+2470	→2358
+2471	→2359
+2472	→2360
+2473	→2361
+2474	→2362
+2475	→2363
+2476	→2364
+2477	→2365
+2478	→2366
+2479	→2367
+2480	→2368
+2481	→2369
+2482	→2370
+2483	→2371
+2484	→2372
+2485	→2373
+2486	→2374
+2487	→2375
+2488	→2376
+2489	→2377
+2490	→2378
+
+# 04_event_karin_4
+2491	Fuuka@r@vfuuka0423."Allow me to say this, just this one time."
+2492	Fuuka@r@vfuuka0424."I've always really hated you, Karin! Always, always, for a long time now!"
+2493	Karin@r@vkarin0378."B… but like, why? Are you for real…?"
+2494	Karin@r@vkarin0379."We were always… so close… weren't we…?"
+2495	Fuuka@r@vfuuka0425."Me? I was able to fake being someone's friend just as well as you."
+2496	Fuuka@r@vfuuka0426."Karin, you're able to fake being Mina-chan's friend, who you actually hate, and I can fake it just as well."
+2497	Mina@r@vmina0356."What…? What's this about…?"
+2498	Fuuka@r@vfuuka0427."So, you see, she does a good job acting like your friend on the surface, Mina-chan. But actually, she hates you."
+2499	Mina@r@vmina0357."…That's… a lie…"
+2500	Karin@r@vkarin0380."C-cut it out, Fuuka…. Why… do you hate me…?"
+2501	Karin@r@vkarin0381."I mean… I've certainly played it fast and loose with all kinds of things, and neglected and forgotten about promises and stuff…"
+2502	Karin@r@vkarin0382."But how could you have so much rage and resentment for me, even now…?"
+2503	Fuuka@r@vfuuka0428."Right. …Karin, you made a promise that you swore on your humanity you would always keep no matter what, and you broke it."
+2504	Karin@r@vkarin0383."Wh-what kind of promise was it? …I'm not an idiot. I wouldn't just have broken a promise like that…"
+2505	Fuuka@r@vfuuka0429."Wrong, you broke it. And… I was very, very hurt."
+2506	Karin@r@vkarin0384."But like, I have no idea what it could even be… gimme a break here. It must have been a really long time ago, right…?"
+2507	Fuuka@r@vfuuka0430."I can't do that. I'm not even the one you hurt."
+2508	Karin@r@vkarin0385."Theen, who are you saying I've hurt…?"
+2509	Fuuka@r@vfuuka0431.@z250."I'M TALKING ABOUT SORA-KUN!!!"
+2510	Fuuka@r@vfuuka0432.@z132."SORA-KUN WAITED, AND KEPT ON WAITING AND WAITING, AND WAITING AND WAITING AND WAITING, FOR YOU TO COME!!!"
+2511	Fuuka@r@vfuuka0433."And he was so clear to you when he said ‘make sure you come no matter what’!! And you responded, ‘It's a promise, I swear on it’!!"
+2512	Fuuka@r@vfuuka0434."And you still didn't come!! Sora-kun kept on waiting and waiting, and even when the rain came down and he got soaked he kept on waiting, for you!!"
+2513	Karin@r@vkarin0386."…S-Sora-kun… was waiting for me…?"
+2514	Karin@r@vkarin0387."I don't get it, what's this all about…? I don't even remember promising Sora-kun I'd meet up with him…"
+2515	Fuuka@r@vfuuka0435."I suppose so. I never did outright tell you that Sora-kun was waiting."
+2516	Fuuka@r@vfuuka0436."But! I did tell you very clearly, ‘make sure you come, okay? There's something very important he wants to talk about,’ didn't I?!"
+2517	Fuuka@r@vfuuka0437."You heard that, and you were very clear to me! You said, ‘I got it, I'll be there, no matter what’!!"
+2518	Karin@r@vkarin0388."Wait just a minute… like, I have no memory of this. …If it was about Sora-kun, I'd keep my promise no matter what, you feel me?"
+2519	Karin@r@vkarin0389."And like, why didn't you just say it directly, like ‘Sora-kun is waiting, so come over here,’ in the first place…!"
+2520	Fuuka@r@vfuuka0438."That… was my own cruelty."
+2521	Karin@r@vkarin0390."Hu… huh…?!"
+2522	Doremi@r@vdoremi0463."…The one Sora-kun loved the most wasn't Fuuka. It was you, Karin."
+2523	Karin@r@vkarin0391."…I-I never knew, this is the first time I've ever heard that…!"
+2524	Karin@r@vkarin0392."I mean, weren't you the one Sora-kun loved the most, Fuuka?!"
+2525	Karin@r@vkarin0393."Aren't you the one he gave the nicest present to before moving away?"
+2526	Karin@r@vkarin0394."Like, he must've hated me for always bugging him about wanting to see him fight and do backflips and stuff."
+2527	Karin@r@vkarin0395."And the fact I'm the only one of the four of us he didn't give a present to before he moved away is proof of that."
+2528	Karin@r@vkarin0396."Here's what I was thinking back then. ‘That Sora-kun sure is a dry person. He really knows what kind of kid he likes and who he can't stand.’"
+2529	Fuuka@r@vfuuka0439."…………"
+2530	Fuuka@r@vfuuka0440."…When I saw that, Karin… that day, I was convinced, ‘I guess you're the kind of girl I'll never like.’"
+2531	Fuuka@r@vfuuka0441."So, ever since then, I've always, always really hated you."
+2532	Fuuka@r@vfuuka0442."You don't have the heart of a human. And what's more, you talk so much smack about Mina-chan behind her back, calling her a pet who gets fawned over, or someone's animal!!"
+2533	Mina@r@vmina0358."…Is that… t-true…?"
+2534	Karin@r@vkarin0397."N-no… I wouldn't say shit like that. Fuuka's just making up nonsense…!"
+2535	Doremi@r@vdoremi0464."…No. …I've definitely heard it too."
+2536	Doremi@r@vdoremi0465."On a class trip back in middle school. …At night, when Mina left to go to the bathroom… you were definitely saying such things, Karin."
+2537	Karin@r@vkarin0398.@z150."I WOULDN'T SAY THAT, I WOULDN'T!! YOU'RE MISREMEMBERING, DOREMI!!"
+2538	Doremi@r@vdoremi0466."I had to do a double take… I remember being so shocked about the way you talked about Mina, as if it were natural for you…"
+2539	Fuuka@r@vfuuka0443."I also remember that. But, since Karin seemed to believe I was one of her best friends, whenever it was just the two of us, she'd go on about it more and more."
+2540	Karin@r@vkarin0399.@z150."F-FUUKA… DON'T FUCK WITH ME, DON'T FUCK WITH MEEE!!!"
+2541	Mina@r@vmina0359."…Karin-chan… no way…"
+2542	Mina@r@vmina0360."…The one who always saved Mina… like a prince… who she always… yearned for…?"
+2543	Karin@r@vkarin0400.@z150."RIGHT?! HOW DID THIS TURN INTO EVERYONE ROASTING ME?!"
+2544	Karin@r@vkarin0401.@z116."YOU KNOW THIS ISN'T THE TIME FOR THIS SHIT, RIGHT?! ARE YOUR HEADS INFESTED WITH MAGGOTS?! YOU MUST KNOW THIS ISN'T THE TIME FOR THIS!"
+2545	Fuuka@r@vfuuka0444.@z236."SHUT THE FUCK UP, KARIN!!!"
+2546	@rFuuka shouts with an expression no one has ever seen on her.
+2547	@rEven Karin is speechless at this… no, the person before her eyes is in a state that leaves her dumbfounded, wondering if it really is Gojou Fuuka…
+2548	Fuuka@r@vfuuka0445.@z130."STOP FUCKING TALKING, YOU BITCH!!! I REALLY HATE YOU!! FOR A LONG TIME NOW, I'VE ALWAYS REAALLY HATED YOU, KARIN!!!"
+2549	Karin@r@vkarin0402."F… Fuuka…"
+2550	Karin@r@vkarin0403."…You must be lying…. We're… best friends…"
+2551	Fuuka@r@vfuuka0446.@z132."YOU SHOULD BE FUCKING THANKING ME FOR PRETENDING WE WERE IF YOU COULD THINK THAT!!!"
+2552	Fuuka@r@vfuuka0447.@z132."BUT I HAVEN'T FORGIVEN YOU SINCE THAT TIME, AND I'LL NEVER, EVER FORGIVE YOU, FOR ALL ETERNITY!!"
+2553	Fuuka@r@vfuuka0448.@z132."YOU BETRAYED SORA-KUN'S FEELINGS AND MADE HIM CRY, AND I'LL NEVER, EVER FORGIVE YOU FOR THAT!!!"
+
+# 04_event_karin_5
+2554	→2491
+2555	→2492
+2556	→2493
+2557	→2494
+2558	→2495
+2559	→2496
+2560	→2497
+2561	→2498
+2562	→2499
+2563	→2500
+2564	→2501
+2565	→2502
+2566	→2503
+2567	→2504
+2568	→2505
+2569	→2506
+2570	→2507
+2571	→2508
+2572	→2509
+2573	→2510
+2574	→2511
+2575	→2512
+2576	→2513
+2577	→2514
+2578	→2515
+2579	→2516
+2580	→2517
+2581	→2518
+2582	→2519
+2583	→2520
+2584	→2521
+2585	→2522
+2586	→2523
+2587	→2524
+2588	→2525
+2589	→2526
+2590	→2527
+2591	→2528
+2592	→2529
+2593	→2530
+2594	→2531
+2595	→2532
+2596	→2533
+2597	→2534
+2598	→2535
+2599	→2536
+2600	→2537
+2601	→2538
+2602	→2539
+2603	→2540
+2604	→2541
+2605	→2542
+2606	→2543
+2607	→2544
+2608	→2545
+2609	→2546
+2610	→2547
+2611	→2548
+2612	→2549
+2613	→2550
+2614	→2551
+2615	→2552
+2616	→2553
+
+# 04_event_karin_6
+2617	→2491
+2618	→2492
+2619	→2493
+2620	→2494
+2621	→2495
+2622	→2496
+2623	→2497
+2624	→2498
+2625	→2499
+2626	→2500
+2627	→2501
+2628	→2502
+2629	→2503
+2630	→2504
+2631	→2505
+2632	→2506
+2633	→2507
+2634	→2508
+2635	→2509
+2636	→2510
+2637	→2511
+2638	→2512
+2639	→2513
+2640	→2514
+2641	→2515
+2642	→2516
+2643	→2517
+2644	→2518
+2645	→2519
+2646	→2520
+2647	→2521
+2648	→2522
+2649	→2523
+2650	→2524
+2651	→2525
+2652	→2526
+2653	→2527
+2654	→2528
+2655	→2529
+2656	→2530
+2657	→2531
+2658	→2532
+2659	→2533
+2660	→2534
+2661	→2535
+2662	→2536
+2663	→2537
+2664	→2538
+2665	→2539
+2666	→2540
+2667	→2541
+2668	→2542
+2669	→2543
+2670	→2544
+2671	→2545
+2672	→2546
+2673	→2547
+2674	→2548
+2675	→2549
+2676	→2550
+2677	→2551
+2678	→2552
+2679	→2553
+
+# 04_event_karin_7
+2680	Fuuka@r@vfuuka0449."…Karin. Allow me to say this clearly."
+2681	Fuuka@r@vfuuka0450."For a long time now, I've always hated you."
+
+# 04_event_karin_8
+2682	→2680
+2683	→2681
+
+# 04_event_karin_9
+2684	→2680
+2685	→2681
+2686	Fuuka@r@vfuuka0451.@z150."I REALLY HATE YOU!! YOU'RE A LIAR. YOU BROKE YOUR PROMISE!"
+2687	Fuuka@r@vfuuka0452.@z132."WITHOUT A CARE IN THE WORLD, YOU BROKE THE PROMISE YOU COULDN'T BREAK!!"
+2688	Karin@r@vkarin0404."Wh-what's that about…?"
+2689	Karin@r@vkarin0405."Fuuka… if it makes you so furious…"
+2690	Karin@r@vkarin0406."What promise… did I break…?"
+2691	→2688
+2692	→2689
+2693	→2690
+2694	Fuuka@r@vfuuka0453."Even if I told you, you wouldn't remember, Karin."
+2695	Fuuka@r@vfuuka0454."But okay, I'll say it. …I want to make sure you remember it."
+2696	Doremi@r@vdoremi0467."…Enough, Fuuka. You're bringing this up now…?!"
+2697	Fuuka@r@vfuuka0455.@z132."DON'T FUCKING SAY THAT NOW! WHEN ELSE WAS I SUPPOSED TO BRING IT UUUUP?! I'M BRINGING IT UP RIGHT NOWW!!"
+2698	Fuuka@r@vfuuka0456.@z132."I DON'T EVEN FUCKING CARE ABOUT LIVING OR MAKING IT OUT OF HEERE!! MIGHT AS WELL FUCKING DIE, HUH?! HUHH?!"
+2699	Fuuka@r@vfuuka0457.@z144."SO, I NEED TO SAY IT!! WHAT YOU FUCKING DID!!"
+2700	Fuuka@r@vfuuka0458.@z138."I, NEED TO, MAKE YOU REMEMBER WHAT YOU FUCKING DID BEFORE YOU DIE!!!"
+2701	Boy@r@vm_danshi0001."Check it out, that Motoki guy's hanging out with girls again."
+2702	Boy@r@vm_danshi0002."Bro, are you sure you're really a man~, are you sure you've got nuts~, wa-hahahaha!"
+2703	Karin@r@vkarin0407.@z141."SHUT IT!! IF YOU DOUCHEBAGS HAVE GOT A PROBLEM WITH US, I'LL RIP OUT YOUR BAALLS!!"
+2704	Fuuka@r@vfuuka0459."I suppose boys really don't have any tact. Jeez…"
+2705	Sora@r@vm_sora0021."…It's no big deal for me."
+2706	Sora@r@vm_sora0022."If they had any shame, boys wouldn't be the creatures they are."
+2707	Mina@r@vmina0361."Ahh, actually, the same could be said of some girls, too~"
+2708	Doremi@r@vdoremi0468."Ohh. It's great you have that self awareness, Mina."
+2709	Karin@r@vkarin0408."I can't say the same for you, Doremi, proudly stuffing yourself full of red pickled ginger at beef bowl places~"
+2710	Fuuka@r@vfuuka0460."Speak for yourself, Karin, always playing Kamen Kendo with the boys and not even realizing when your skirt is flipped up. I think it applies to you too."
+2711	Sora@r@vm_sora0023."Hahahahahahahaha."
+2712	Sora@r@vm_sora0024."But, they know the difference between when to have manners and when not to. Girls are just awesome."
+2713	Fuuka@r@vfuuka0461."Are there even times it's better not to have manners?"
+2714	Sora@r@vm_sora0025."There are. …You even told me about it, Fuuka."
+2715	Sora@r@vm_sora0026."Not long after I transferred. I'm pretty sure you said it. …I won't forget it."
+2716	Fuuka@r@vfuuka0462.——We're already friends, so @ryou don't have to force yourself to have good manners.
+2717	Fuuka@r@vfuuka0463."Did I really say something like that, teheehee…"
+2718	Sora@r@vm_sora0027."I've always been told by my family. ‘You never know when and where customers are watching. So keep good manners at all times and hold your head up high, dammit.’"
+2719	@rBecause he stubbornly maintains that attitude, wherever he travels, he's undoubtedly enshrouded in a scary image to the boys at school.
+2720	@rHe can laugh about it so naturally now, so surely, at the next school he transfers to, he should be able to make friends with the boys there…
+2721	@rLately, Sora-kun has finally been smiling like he's in a good mood.
+2722	@rEveryone is happy to see this nice change in him.
+2723	@rAt some point, we stopped being a group of four good friends and became a group of five…
+2724	Sora@r@vm_sora0028."Everyone, and especially you, Fuuka. I'm incredibly grateful to you."
+2725	Sora@r@vm_sora0029."I never knew… that school could be a nice place like this where I can let the tension out of my shoulders…"
+2726	Fuuka@r@vfuuka0464."…I suppose you'll have to transfer again soon."
+2727	Sora@r@vm_sora0030."I've been used to this life ever since preschool. I never felt, even once, that I didn't like transferring, but,"
+2728	Sora@r@vm_sora0031."For the first time in my life… at this school, in this class… I feel like I don't want to leave the people I'm with now."
+2729	Fuuka@r@vfuuka0465."Maybe you can come to this town again sometime…?"
+2730	Sora@r@vm_sora0032."I dunno. …I've never come back to a town I've been to before, not even once."
+2731	Fuuka@r@vfuuka0466."Come back to this town, okay? Make sure you do."
+2732	Sora@r@vm_sora0033."I wonder, if I do, will be able to rejoin you as a group of five good friends?"
+2733	Fuuka@r@vfuuka0467."Of course you can! Absolutely!"
+2734	Sora@r@vm_sora0034."I'm glad I was able to meet you all. And especially you, Fuuka."
+2735	Sora@r@vm_sora0035."…I still feel like men are simple-minded and stupid, but,"
+2736	Sora@r@vm_sora0036."You've taught me that at least not all humans are like that, and that's a very precious thing to me."
+2737	Fuuka@r@vfuuka0468."Hahahaha. Sora-kun, you idealize girls wayy to much."
+2738	Sora@r@vm_sora0037."That's not true, though."
+2739	Sora@r@vm_sora0038."They're deeply prudent, and intelligent. They have compassion."
+2740	Sora@r@vm_sora0039."On the other hand, I really feel like it'd be better if all men were just exterminated."
+2741	Fuuka@r@vfuuka0469."But theen, you'd be exterminated too, Sora-kun, ahahaha."
+2742	@r…I'm the one who should be thankful to you. Sora-kun.
+2743	@rIf it is like Sora-kun feels, that girls are deeply prudent and have compassion,
+2744	@rIt can only be that way because the people around him are all of the opposite sex.
+2745	@rBy becoming conscious of the opposite sex, girls, including me… can grow a lot.
+2746	@rThe day he moves away is already next Monday.
+2747	@rOn Saturday, Sora-kun's troupe will hold their final performance, and then on Monday, while we go to school, they'll depart from this town.
+2748	@r…There's no time left.
+2749	@rAnd also, there's absolutely no guarantee that there will ever be another opportunity.
+2750	@rI'm certain… that if we part ways like this, I'll regret it for the rest of my life…
+2751	Sora@r@vm_sora0040."You have perfect timing. Fuuka, there's something I'd like to talk to you about."
+2752	Fuuka@r@vfuuka0470."Eh? You do, Sora-kun…? With me?"
+2753	Fuuka@r@vfuuka0471."Te… teheehee… what could it be…?"
+2754	Sora@r@vm_sora0041."Let's save it for later. Anyway, what did you want with me?"
+2755	Fuuka@r@vfuuka0472."Oh, it's fine, it's fine! You can go on ahead, Sora-kun…"
+2756	Sora@r@vm_sora0042."Gotcha. …Alriight, I have…"
+2757	Sora@r@vm_sora0043."You know, uh… for Karin…"
+2758	Fuuka@r@vfuuka0473."Eh? Karin…?"
+2759	Sora@r@vm_sora0044."Uh, for Karin. …Don't mention my name, but today after school…"
+2760	Sora@r@vm_sora0045."…I'll be at the usual empty lot… so if you could send her over there for me…"
+2761	@rWhen I heard that…
+2762	@r…All the resolve I'd worked up for today, and all my feelings… spilled out of me and scattered like sand…
+2763	@rThe letter that I wrote last night and rewrote over and over, so many times, and read and reread, and sealed in the envelope just before it was time to go to school…
+2764	@rIt was still in my pocket… but it no longer had any meaning…
+2765	@r…In spite of that, I… in order to give my feelings the last rites they deserved… I said it.
+2766	@rI understand Sora-kun's response quite well.
+2767	@rBut, when it came from his mouth… I wanted him to just deal the finishing blow to my heart already…
+2768	Fuuka@r@vfuuka0474."…Karin."
+2769	Karin@r@vkarin0409.@z132."WHAT WAS THAT, YOU BASTARD!! THE SAINT BAMBOO SLASH IS TOOTALLY INVINCIBLE!! A-HA-HA-HAA!"
+2770	Fuuka@r@vfuuka0475.@z150."KARIN!"
+2771	Karin@r@vkarin0410."Oh, what is it? What's wrong? Watcha making that face for, you got a stomach ache?"
+2772	Fuuka@r@vfuuka0476."…Well, umm. Please hear me out."
+2773	Fuuka@r@vfuuka0477."Today, after school. …I want you at the usual vacant lot, alone."
+2774	Karin@r@vkarin0411."Oh? What's this all about? You wanna duel?! I'm totally on fire!"
+2775	Fuuka@r@vfuuka0478.@z150."STOP MESSING AROUND AND LISTEN TO ME!"
+2776	Karin@r@vkarin0412."O-oh. Fine, I'm listening, for real."
+2777	Karin@r@vkarin0413."What's up with you? What's got you acting all weird today?"
+2778	Fuuka@r@vfuuka0479."Karin. …So, I. I have always, always loved you, that's what."
+2779	Fuuka@r@vfuuka0480."So."
+2780	Fuuka@r@vfuuka0481."Make sure you come, okay? Can you promise me…?"
+2781	@rI at least want to accomplish… the job Sora-kun had enough faith to entrust to me.
+2782	@rI'll accomplish it… filled with the feelings of thankfulness from Sora-kun's heart.
+2783	Karin@r@vkarin0414."If there's something you'd like to say, I'd rather you just say it here and now. …Why bother doing it after school?"
+2784	Fuuka@r@vfuuka0482."Like I said! Just make sure you come, okay? You have to come!"
+2785	Karin@r@vkarin0415."You got it, understood."
+2786	Fuuka@r@vfuuka0483."And then. …You didn't come."
+2787	Fuuka@r@vfuuka0484."…Did you not come because I didn't mention Sora-kun's name?"
+2788	Fuuka@r@vfuuka0485."No, it doesn't matter. I told you over and over that it is very important, and that you must come no matter what."
+2789	Fuuka@r@vfuuka0486.@z150."YOU EVEN SAID YOU GOT IT, KARIN! YOU SHOULDN'T HAVE ANY EXCUSES!!"
+2790	@rI didn't understand… what Sora-kun loved about Karin.
+2791	@rSora-kun said he didn't like the childishness of boys, but he was a fine young man himself.
+2792	@rWhenever he happily, merrily re-enacted Kamen Kendo together with Karin, he seemed very relaxed.
+2793	@rNow that I think about it… back then, his smile was something he showed only to Karin…
+2794	@r…So Sora-kun kept on waiting…
+2795	@rSora-kun gave every one of us a parting gift. …Karin, you always whined about how you were the only one who didn't get a present from him, right?
+2796	Fuuka@r@vfuuka0487.@z150."OF COURSE YOU DIDN'T! BECAUSE YOU NEVER CAME, KARIN!"
+2797	@rNaturally, I'd thought he was going to give Karin the Saint Bamboo Sword from Kamen Kendo as a present, since she gets so excited about playing Kamen Kendo.
+2798	@rBut something that small would have been child's play, so it wasn't that, but something much bigger and nicer.
+2799	@rIt was, naturally, a much more valuable present than the ones the rest of us got.
+2800	@r…Of course it was, right? …Since the one who Sora-kun loves is you, Karin.
+2801	Karin@r@vkarin0416."…Man, I didn't… know anything about that…"
+2802	Karin@r@vkarin0417."Haha… this is the first I'm hearing… about Sora-kun… loving me…"
+2803	Fuuka@r@vfuuka0488."That's because Sora-kun was a fair person. When all of us were together, he never favored any one specific person."
+2804	Fuuka@r@vfuuka0489."It wasn't wrong of you to not realize it, but…"
+2805	Fuuka@r@vfuuka0490."I can't forgive you… for breaking that important promise… that Sora-kun made to convey his feelings…!!"
+2806	Fuuka@r@vfuuka0491."…Karin, don't tell me… you don't remember…?"
+2807	Karin@r@vkarin0418."………"
+2808	Karin@r@vkarin0419."…Ha… haha…"
+2809	→2801
+2810	→2802
+2811	→2803
+2812	→2804
+2813	→2805
+2814	→2806
+2815	→2807
+2816	→2808
+2817	Fuuka@r@vfuuka0492.@z150."SORA-KUN KEPT WAITING, YOU KNOW?! HE JUST KEPT ON WAITIING!!!"
+2818	Fuuka@r@vfuuka0493.@z150."AS THE SKY BECAME DARK! AS THE RAIN CAME DOWN!! EVEN AS HE WAS SOAKED!!"
+2819	Fuuka@r@vfuuka0494.@z132."DON'T YOU KNOW THAT ALL THAT TIME, HE KEPT WAITING FOR YOU, KARIN, BELIEVING THAT YOU'D COME?!?!"
+2820	@rI wanted to at least get Sora-kun's feelings across, but all I could do was watch from the sidelines.
+2821	@rI watched him, wet with the rain, something other than raindrops welling up in his eyes and spilling out, and I couldn't even call out to him with my voice…!
+2822	Fuuka@r@vfuuka0495.@z150."AND EVEN STILL, EVEN STILL!! YOU DIDN'T COME!!"
+2823	Fuuka@r@vfuuka0496.@z150."DON'T YOU KNOW SORA-KUN CRIED AS HE WENT HOME?!?!"
+2824	Fuuka@r@vfuuka0497.@z132."YOU HURT SORA-KUN, AND YOU HURT ME, TOO!! AND ON TOP OF THAT, YOU DON'T EVEN REMEMBER IT!!"
+2825	Fuuka@r@vfuuka0498."You did say it, you definitely said it! ‘Yep, I got it.’ …You definitely did…!"
+2826	Fuuka@r@vfuuka0499.@z132."BUT YOU DIDN'T COME, YOU FUCKING BIIITCH!!! EVEN THOUGH I TOLD YOU IT WAS AN IMPORTANT PROMISE!!!"
+2827	Fuuka@r@vfuuka0500.@z116."YOU DON'T EVEN FUCKING REMEMBER!!! YOU BIG, FAT LIAR WHO BREAKS HER PROMISES!! THAT'S WHAT YOU ARE, YOU FUCKING BIIIIIIIITCH!!!"
+2828	Fuuka@r@vfuuka0501."…*Huff*… *huff*… *huff*"
+2829	Fuuka@r@vfuuka0502."Go fucking die. …Die, painfully!!"
+2830	Fuuka@r@vfuuka0503."You hurt Sora-kun… you betrayed his feelings… you made him cry!! …I'll make fucking sure I don't let you die so fucking easilyyyyyyyyy!!!"
+2831	Karin@r@vkarin0420."…*sob*…"
+2832	Fuuka@r@vfuuka0504."…*Huff*, *huff*…"
+2833	Fuuka@r@vfuuka0505."…*Huuff*…"
+
+# 04_event_mina_1
+
+# 04_event_mina_2
+
+# 04_event_mina_3
+2834	Karin@r@vkarin0421."You may have been very attached to me, and even thought of me as your best friend, but,"
+2835	Karin@r@vkarin0422."The truth is, for a long time now, I haven't thought of you as my best friend at all!"
+2836	Mina@r@vmina0362."…N…"
+2837	Mina@r@vmina0363."…No. That's… a lie…"
+2838	Mina@r@vmina0364."…To think the Karin-chan I love so much has… always hated me…"
+2839	Mina@r@vmina0365."It's a lie… you're lying, it's a lie…"
+2840	Mina@r@vmina0366.@z150."IT'S A LIEeee…! aaAah… WAaaAaaaaH…!"
+2841	Fuuka@r@vfuuka0506."Karin, this isn't the time to say things like—"
+2842	Karin@r@vkarin0423."Fuuka. And you too, Doremi. …Don't be fooled."
+2843	Karin@r@vkarin0424."Whenever she cries, you forgive her, whenever she acts spoiled, you coddle her. …All she does is act on her own fundamental instincts, to serve herself."
+2844	Karin@r@vkarin0425."…She's just an animal."
+2845	Karin@r@vkarin0426."When it acts spoiled, you fawn over it, you pamper it. She's an animal that only wants to stay where it gets that the most."
+2846	Mina@r@vmina0367."…That's cruel… that's so crueel… waaaaaaah…"
+2847	Doremi@r@vdoremi0469."………"
+2848	Karin@r@vkarin0427."No need to worry about it. …All this crying is also nothing more than an animal's fundamental instincts."
+2849	Karin@r@vkarin0428."It doesn't have feelings like a human or anything. All this is, all it is, is it following its fundamental animal instincts."
+2850	Karin@r@vkarin0429."You… have never been anything more than our plushy mascot, the pet we take care of…"
+2851	Karin@r@vkarin0430."Ever since elementary school… I've never thought of you as a human friend!"
+2852	Mina@r@vmina0368."…But that's… that's just…"
+2853	Mina@r@vmina0369."How could you… *sob*… how… could you… *sob*…"
+2854	Fuuka@r@vfuuka0507."Karin…"
+2855	Karin@r@vkarin0431."Fuuka. There's no need for sympathy."
+2856	Karin@r@vkarin0432."You too, Doremi. No, especially for you. There's no need for sympathy."
+2857	Doremi@r@vdoremi0470."…What do you mean…?"
+2858	Karin@r@vkarin0433."Well, you see… Mina has always secretly, greatly hated you."
+2859	Mina@r@vmina0370.@z150."THAT'S A LIE…!!!"
+2860	Karin@r@vkarin0434.@z180."I'M NOT FUCKING LYING!! DON'T GIVE ME THAT CRAP!!!"
+2861	Karin@r@vkarin0435."Did you think I never noticed?! Even in elementary school! And middle school, too! Even now!!"
+2862	Karin@r@vkarin0436."This is nothing more than an animal that only cares about serving itself! It's not a fucking human!!"
+2863	Mina@r@vmina0371."…Save me… please save me…"
+2864	Karin@r@vkarin0437."No one would save something like you!!"
+2865	Mina@r@vmina0372."You're wrong…!! She wouldn't treat me like this…!!"
+2866	Karin@r@vkarin0438."…Huhh…?"
+2867	Mina@r@vmina0373."Save me… please save me!!"
+2868	Mina@r@vmina0374."The one who always comes to save me… who's always been dependable and kind, and truly strong… Karin-chan……!!"
+2869	Mina@r@vmina0375."The one who's always saved me from getting bullied, Karin-chan…"
+2870	Mina@r@vmina0376."She was really cool! She was Mina's superhero…!!"
+2871	Mina@r@vmina0377."You can hear me, right? Karin-chan…!! I'm begging you… come and… come and…"
+2872	Mina@r@vmina0378.@z150."COME AND SAVE MEeEEEEeEEE…!!!"
+2873	Karin@r@vkarin0439."………"
+2874	Karin@r@vkarin0440."Guess you're right, Mina. …I guess for a long time, you've always gotten tangled up with the bullies, huh."
+2875	Karin@r@vkarin0441."It was probably that you were just so cute… so the boys couldn't help but mess with you, Mina."
+2876	Karin@r@vkarin0442."But, they'd take away your toys and hide your papers and stuff. You didn't like it at all, that kind of thing."
+2877	Mina@r@vmina0379."At times like those, you always came to save me, Karin-chan! …Always, always…!"
+2878	Karin@r@vkarin0443."I guess I really did wallop the one who stole your scented eraser, didn't I, Mina?"
+2879	Mina@r@vmina0380."Karin-chan would even fight off the boys who played catch with Mina's pencil case…"
+2880	Karin@r@vkarin0444."I guess I probably gave the boy who drew obscene things in your textbook some kind of punishment, didn't I, Mina?"
+2881	Mina@r@vmina0381."You were always, always… my superhero, Karin-chan…"
+2882	Karin@r@vkarin0445."Okay then, do you remember?"
+2883	Karin@r@vkarin0446."The transformation stick from Magical Fashion Star: Layers Five."
+2884	Mina@r@vmina0382."…Eh?"
+2885	Karin@r@vkarin0447."I sure won't forget."
+2886	Karin@r@vkarin0448."You… betrayed me."
+2887	Karin@r@vkarin0449."That time… you showed me your true animal nature."
+2888	Karin@r@vkarin0450."Ever since then… I've never thought you had any value aside from just being a cute animal to play around with."
+2889	Mina@r@vmina0383."K… Karin-chan… listen…"
+2890	Karin@r@vkarin0451."Nah, I don't wanna hear any of it."
+2891	Karin@r@vkarin0452."Or, rather…"
+2892	Karin@r@vkarin0453.@z147."DON'T TALK TO ME IN HUMAN WORDS, YOU FILTHY FUCKING ANIMAL!!!"
+
+# 04_event_mina_4
+
+# 04_event_mina_5
+
+# 04_event_mina_6
+2893	Karin@r@vkarin0454."I'm gonna say it clearly this time."
+2894	Karin@r@vkarin0455."I hate you, Yuasa Mina."
+2895	Karin@r@vkarin0456."You somehow got the position of our damn mascot. But I could read the room, so I was willing to go along with it on the surface."
+2896	Karin@r@vkarin0457."I've always hated you, ever since elementary school."
+2897	Karin@r@vkarin0458."I really fucking hate you. I hate you so much. I don't even think of you as a fucking human."
+2898	Karin@r@vkarin0459."I mean. You have no value other than rolling over and showing us your belly like a fucking dog, you animal."
+2899	Mina@r@vmina0384."………"
+2900	Mina@r@vmina0385."…Eh…? …What are… you saying…?"
+2901	@rFor Mina, this is difficult to believe.
+2902	@rEven more than being caught up in this unreal death game, much more, so much more…
+2903	@r…To think such words could come from the mouth of Karin, her number one best friend, who always protected her from the boys who bullied her…
+2904	@rMina's face has gone pale, and she has even forgotten to close her mouth.
+2905	Doremi@r@vdoremi0471."What are… you saying…?"
+2906	Doremi@r@vdoremi0472."I refuse to believe you've hated Mina all this time, when you've been so close with her…"
+2907	Karin@r@vkarin0460."Of course, it's not like I hated her from the start."
+2908	Karin@r@vkarin0461."When we first met, I loved Mina too. Just like you, Doremi."
+2909	Karin@r@vkarin0462."But guess what, I got to know Mina's true nature soon after."
+2910	Karin@r@vkarin0463."And then I understood. …That she is just an animal that greedily devours people's affection."
+2911	Karin@r@vkarin0464."It messes around, rolls over, curries adoration, and extracts affection from others just to devour it."
+2912	Karin@r@vkarin0465."…That's not even a mammal. It's a bug. A parasite."
+2913	Mina@r@vmina0386."…How could… how… c…"
+2914	Karin@r@vkarin0466."But since we became more or less a group of four good friends, I tried to fit in on the surface."
+2915	Karin@r@vkarin0467."Don't you think it's incredible? That even though I had such antipathy toward you and only had a superficial relationship with you,"
+2916	Karin@r@vkarin0468."You never realized it yourself, Mina."
+2917	Karin@r@vkarin0469."…I wonder if I have acting talent? Nah, probably not. It's just that she's not human, so she wouldn't get it."
+2918	Doremi@r@vdoremi0473."…Karin…"
+2919	Fuuka@r@vfuuka0508."Can I ask you something? …What happened for you to hate Mina-chan so much…?"
+2920	Mina@r@vmina0387."What did Mina even do to Karin-chan?!"
+2921	Mina@r@vmina0388.@z150."WHAT DID MINA DO TO MAKE KARIN-CHAN HATE HER SO MUCH?!"
+2922	Mina@r@vmina0389."Mina is begging… tell heer…"
+2923	Mina@r@vmina0390."Mina will apologize, she'll absolutely apologize no matter what…. So, forgive her…!"
+2924	Karin@r@vkarin0470."If you still don't remember at this point then I don't plan on forgiving you at all. But,"
+2925	Karin@r@vkarin0471."I feel like it wouldn't be fair not to tell you, either, so I'll just tell you."
+2926	Karin@r@vkarin0472."Do you remember? That annoying boy back in elementary school. Butagawa."
+2927	Karin@r@vkarin0473."I forgot his real name. I only remember him by his nickname, @bPig.@<Buta@>gawa."
+2928	Karin@r@vkarin0474."You must not have forgotten him either, right, Mina? I mean, he bullied you all the time."
+2929	@rButagawa would often steal people's toys by force; this guy was a real archetypical bully ringleader.
+2930	@rHe didn't steal toys because he wanted them. It was more because he couldn't allow anyone to have a toy that made them smile.
+2931	@rFrom what they heard later on, his situation at home seems to have been complicated in a lot of ways, but the children he made his victims wouldn't have had any idea about that.
+2932	Karin@r@vkarin0475."Your family's always been rich, Mina, so whenever there's been a new toy or something, they've always bought it for you right away, am I wrong?"
+2933	Karin@r@vkarin0476."I'm sure Butagawa was subconsciously envious of your happy household."
+2934	Fuuka@r@vfuuka0509."…I remember. It's true that his family members were known to be troublesome people in the neighborhood."
+2935	Doremi@r@vdoremi0474."Neither his family nor the teachers wanted to get involved when they heard about his bullying, so it must always have been ignored…"
+2936	Karin@r@vkarin0477."I guess, like, you eventually became Butagawa's main target back then, Mina."
+2937	Karin@r@vkarin0478."…So, Mina, do you remember what toy Butagawa took from you back then?"
+2938	Mina@r@vmina0391."………"
+2939	Mina@r@vmina0392."…The transformation… stick…?"
+2940	Karin@r@vkarin0479."Bingo. The transformation stick from Magical Fashion Star: Layers Five."
+2941	Karin@r@vkarin0480."It was your favorite toy, Mina. I remember you really loved it."
+2942	Karin@r@vkarin0481."You'd take it with you to the park and play Layers Five with your neighborhood friends."
+2943	@rYou ran into Butagawa, and it got taken away.
+2944	@rI remember that the next day at school, you confided in me about having your number one treasure taken from you.
+2945	@rAt that point, I felt a real sense of friendship from you, that you'd confide in me about what was hurting you the most.
+2946	Karin@r@vkarin0482."But I was way off."
+2947	Karin@r@vkarin0483."You were only scheming to get me fired up about this, and make me take back your treasure."
+2948	Mina@r@vmina0393."M… Mina didn't mean it that way at all…"
+2949	Karin@r@vkarin0484.@z250."OKAY, THEN!!!!"
+2950	Karin@r@vkarin0485.@z150."THEN!! WHY DIDN'T YOU COME?!"
+2951	Karin@r@vkarin0486.@z150."I TRUSTED YOU, I KEPT ON WAITING, DIDN'T YOU KNOW?!?!"
+2952	Karin@r@vkarin0487.@z150."AND THEN, AND THEN… YOU NEVER CAME, YOU NEVER CAME…!!"
+2953	Karin@r@vkarin0488."…Hng… hnnnng!!!"
+2954	@rKarin, no longer able to put her feelings into words, continues to belch out something that can neither be described as a moan nor a groan…
+2955	Karin@r@vkarin0489."…*Huff*. …*Huff*…"
+2956	Karin@r@vkarin0490."Weell, whatever. I really don't give a crap anymore."
+2957	Karin@r@vkarin0491."But it's not like I'm all better now, either. If you let me spit it all out, then I'll feel refreshed."
+2958	Karin@r@vkarin0492."…Mina."
+2959	Karin@r@vkarin0493."I hate you. I really hate you."
+
+# 04_event_mina_7
+
+# 04_event_mina_8
+
+# 04_event_mina_9
+2960	Karin@r@vkarin0494."…Mina. I loved everything about you, you know…?"
+2961	Karin@r@vkarin0495."Your casual attitude. Your careless, innocent attitude. …You totally really love everyone, absolutely everyone, don't you…?"
+2962	Karin@r@vkarin0496."And yet… it somehow feels the same as if you were pretending that you're a cute puppy or kitten."
+2963	Karin@r@vkarin0497."Even until today. The affection I felt for you, Mina, the affection you made me feel for you, all of it… felt exactly the same as the feelings you'd have for a pretend kitten."
+2964	Mina@r@vmina0394."M… Mina doesn't get what that means…"
+2965	Karin@r@vkarin0498."Of course you don't…. I'll say it clearly so even someone with an animal-level intellect like yours can understand."
+2966	Karin@r@vkarin0499."Here's how it is. All this time, Yuasa Mina, I've really hated you in particular, as a human being."
+2967	Karin@r@vkarin0500."Maybe to outsiders it's looked like I was hanging out with you because we're best friends, but… that was all nothing more than me messing around with you."
+2968	Karin@r@vkarin0501."So, having totally given up on you as a human being, I started to think of you as an animal!"
+2969	Mina@r@vmina0395."………"
+2970	Mina@r@vmina0396."…Y-you're… lying…"
+2971	Mina@r@vmina0397."K-Karin-chan, who has been so kind, and cool… has thought of… M-Mina like that…?"
+2972	Karin@r@vkarin0502."I'm not lying. Anyway, you should thank me for being able to think of me that way."
+2973	Karin@r@vkarin0503."…You should fucking thank me for making you almost feel like an equal, you, the pet who can only think of kissing up to everyone to win their favor!!"
+2974	Mina@r@vmina0398."………!!"
+2975	Mina@r@vmina0399."…It, it's a lie… Mina doesn't get it… she doesn't get it…"
+2976	Fuuka@r@vfuuka0510."…Did you know about this, Doremi?"
+2977	Doremi@r@vdoremi0475."Vaguely… kinda."
+2978	Fuuka@r@vfuuka0511."I suppose Mina-chan never realized it, did she…"
+2979	Karin@r@vkarin0504."That's because she really, truly is just an animal."
+2980	Karin@r@vkarin0505."Like, I'm pretty sure all she thinks about is… spreading her affection all over the place to serve her own fucking intereests."
+2981	Mina@r@vmina0400."…No way… it can't be… Karin-chan wouldn't talk about Mina like that… she wouldn't…"
+2982	Doremi@r@vdoremi0476."…Karin. I know it's not a great time, but can I ask you something…?"
+2983	Doremi@r@vdoremi0477."You don't seem like the type of person to hold a grudge. …So what did Mina ever do to make even someone like you hold such an intense grudge on her…?"
+2984	Karin@r@vkarin0506."………"
+2985	Karin@r@vkarin0507."…Remember Butagawa?"
+2986	Doremi@r@vdoremi0478."…Eh?"
+2987	Fuuka@r@vfuuka0512."I remember. …Although I forgot his real name."
+2988	Fuuka@r@vfuuka0513."He'd take people's things and break them as he pleased. He was a big, violent kid."
+2989	@rThat's him. Butagawa. That douche.
+2990	@rIt was a more generous and carefree era, wasn't it? So, like, elementary school was pretty much legally extraterritorial, or something.
+2991	@rWhat was done in the classroom would have been, in the words of the adult world, a parade of unreported crimes, including assault, coercion, theft, and vandalism.
+2992	@rBut in the world of elementary school, all of that was swept under the rug and dismissed, smilingly, as just the work of little rascals or class bullies…
+2993	Karin@r@vkarin0508."Don't you know it's an unwritten law of manhood not to lay another fucking hand on a kid who's already cryiing!!"
+2994	Karin@r@vkarin0509.@z150."YO, YOU HEAR ME, BUTAGAWA! HEY, WAIT! GODDAMMIIT!"
+2995	Sora@r@vm_sora0046."…Give it a rest. There's nothing to be gained from getting riled up by a guy like him."
+2996	Karin@r@vkarin0510."But turning a blind eye to it does nothing but give more power to that douche."
+2997	Karin@r@vkarin0511."Turning a blind eye to villain types is the water that first makes their bud sprout!"
+2998	@rI was only reciting a Kamen Kendo line, but it seemed to have made a strong impression on Sora-kun.
+2999	Sora@r@vm_sora0047."Even if we told the teacher, nothing would be done about it, you know?"
+3000	Karin@r@vkarin0512."That douche's family, over at his place, are fucking unbelievable. Everyone at school, and in the neighborhood, tries not to get involved with them."
+3001	Karin@r@vkarin0513."But, hey. I know this and I'm still not doing anything about it, so I'm just one more person turning a blind eye to it, myself. And that's the same as being complicit with evil!"
+3002	Karin@r@vkarin0514."Next time… I'm not just gonna keep quiet and watch…. Next time, I'll show him my courage and justice!"
+3003	Sora@r@vm_sora0048."…Man, you really are cool, Karin."
+3004	Sora@r@vm_sora0049."I have to hold my head high and keep up appearances for my job, so… justice or not, I can't get into a fight."
+3005	Sora@r@vm_sora0050."It feels like I'm just making excuses for my own cowardice… I'm furious at myself as well."
+3006	Karin@r@vkarin0515."There's nothing to worry about, Sora-kun! One who stands up for justice must be a chosen one!"
+3007	Karin@r@vkarin0516."You're not a chosen one, that's all it is."
+3008	Karin@r@vkarin0517."But! Your love for justice and your detest of evil add to my strength!"
+3009	@rRight. I am cool.
+3010	@rI am the hero who must strike at that fiend in our class, Butagawa.
+3011	@rEven at the kendo dojo, I've never lost a fight with a boy.
+3012	@rIt's by my hand that judgement will be passed and justice will be done. Just like in Kamen Kendo…
+3013	Mina@r@vmina0401."…Yesterday, when Mina was playing with it… it got taken away by Butagawa… *sob*…"
+3014	Karin@r@vkarin0518."Do you mean your favorite toy of them all, the Layers Five transformation stick?!"
+3015	@rThat day after school was when Mina finally told me about it, sulking with her head down.
+3016	@rHer classmates were saying their goodbyes as they dashed out of the classroom, but I realized only Mina was acting strange.
+3017	@rThe reason Mina didn't want to talk to me about it was probably because it would feel like surrendering to Butagawa.
+3018	@rWhen I realized this, I understood the time had finally come for me to set off my exploding righteous fury.
+3019	Karin@r@vkarin0519."…Mina! You've done well, telling me about this. I've got respect for the little bit of courage that took."
+3020	Mina@r@vmina0402."But, Mina already gave up…"
+3021	Mina@r@vmina0403."When Butagawa takes something, he'll never give it back no matter what…"
+3022	Karin@r@vkarin0520."I'm sure Butagawa thinks that as well… that the things he took for himself will never be taken back no matter what."
+3023	Mina@r@vmina0404."Eh?"
+3024	Karin@r@vkarin0521."Mina! Now is the time to carry out justice! This time, I'll make that damn Butagawa take the divine wrath that's coming to him!"
+3025	Karin@r@vkarin0522."You know how I go to the kendo dojo, right?! I've never lost a fight with the boys there!"
+3026	Mina@r@vmina0405."Mina knows about that, but… but, no matter how hard Karin-chan tries… if it's Butagawa…"
+3027	Karin@r@vkarin0523."Do you think I won't win?! Nope, I'm gonna win, because justice will always prevail!"
+3028	Karin@r@vkarin0524."And anyway, no matter what kind of superhero you are, if you're fighting alone, your strength still won't amount to much."
+3029	Karin@r@vkarin0525."Isn't it the same for villains? If they're alone, their strength won't amount to much! In other words,"
+3030	Karin@r@vkarin0526."Let's fight together!"
+3031	Mina@r@vmina0406.@z150."Eh?!"
+3032	Karin@r@vkarin0527."I'm not worried about losing, even alone! But like, I want you to muster up some courage too, Mina!"
+3033	Karin@r@vkarin0528."If you say stuff like, ‘we can't win against Butagawa,’ ‘there's nothing we can do,’ ‘all we can do is give up,’ we'll have already lost!"
+3034	@rAll of this is her imitating Kamen Kendo.
+3035	@rIf a superhero fights alone, they can't achieve a complete victory.
+3036	@rOnly once those who have given up out of powerlessness start rising again and combining all their strength, will the villains be destroyed.
+3037	Karin@r@vkarin0529."Let's go back home, leave our backpacks, and then go right to Butagawa's house! Then, we'll say, with dignity, ‘you give back that transformation stick!’"
+3038	Karin@r@vkarin0530."And then, if he doesn't give it back… right then! We'll hit him head on with the wrath of justice!"
+3039	Mina@r@vmina0407."B-but… Mina has never been in a fight…"
+3040	Karin@r@vkarin0531."Of course, I'll take the lead! But look. Don't you wanna take back your own transformation stick?! You have to show some courage too!"
+3041	Karin@r@vkarin0532."Let's fight, Mina! Together!! It's okay if all you do is protect my back! Even that much will make me a million times stronger…!!"
+3042	@rAnd then. I went back to my house, left my backpack in the entryway, and ran. You know, to Butagawa's house.
+3043	@rThe burning flames of justice had been rising inside me all for that day, I guess I felt like it was fate.
+3044	@rI waited… in the shadow of the telephone pole… in front of Butagawa's house.
+3045	@rFor the time of our decisive battle. …That is, for you to come, Mina.
+3046	Karin@r@vkarin0533."But, you didn't come."
+3047	Karin@r@vkarin0534."So much time went by, but you never came…!"
+3048	Karin@r@vkarin0535."But I waited. I kept waiting! ‘Mina must be scared, I'm sure of it, so I'm sure she's mustering up that little bit of courage!’"
+3049	Karin@r@vkarin0536."‘So I should keep waiting! I should keep waiting for Mina to come! Then, I'll absolutely meet that courage of Mina's by beating the crap out of Butagawa…!’"
+3050	Karin@r@vkarin0537."The sky kept getting darker, and rain suddenly came down in big drops, but, I waited! I believed in you and waited!!"
+3051	Karin@r@vkarin0538.@z150."BUT IN THE END, YOU… NEVER CAME AFTER ALL!!"
+3052	Fuuka@r@vfuuka0514."…So then… what happened?"
+3053	Karin@r@vkarin0539."Mina never showed up. But, Butagawa showed up with an umbrella, to go off and hang out somewhere."
+3054	@rI came here to get back Mina's transformation stick.
+3055	@rMina herself isn't here, but… I have to fight. I'll do it myself, right now, even alone!"
+3056	Doremi@r@vdoremi0479."…Did you win…?"
+3057	Karin@r@vkarin0540."…I did what I learned from Kamen Kendo."
+3058	→3035
+3059	@rOnly once those who have given up out of powerlessness start rising again and combining all their strength, will the villains be destroyed…
+3060	Mina@r@vmina0408."………!"
+3061	Karin@r@vkarin0541."If only you came, Mina, then I'd have won!! If only you came, if only you came!!"
+3062	@rIf Mina comes, then… even if I were to lose…!
+3063	@rFor Mina, for my best friend! I'd feel proud that we fought together…!
+3064	@rI was mercilessly beaten, kicked, and thrown around by that Butagawa douche!
+3065	@rMy clothes got all muddy, and when I got home, even my family was super angry at me! And it's all your fault, Mina, all of it!!
+3066	Karin@r@vkarin0542."…Well, those were my childish thoughts…"
+3067	Karin@r@vkarin0543.@z95."Butagawa was a boy, and a thug, and aside from that he was really heavy. …And whether you'd been there or not, Mina, you were just one person and it's not like it would have changed which side won."
+3068	Karin@r@vkarin0544."So that's why thinking I lost the fight because you didn't come, Mina… was all wrong to begin with. I'm able to see that now."
+3069	Karin@r@vkarin0545."But, you know… on Monday. I met you at school. …And that was when I knew. …I was convinced."
+3070	@rYou… wouldn't apologize for, or even regret, not coming that day, Mina…
+3071	@r…You were in a good mood, like nothing happened. You didn't show any concern for me at all.
+3072	@rMina. It was the Miracle Transformation Stick you'd always wanted. The post-Miracle Evolution one.
+3073	@rYou said you got it as a present… I remember you were ecstatic about it, and you were bragging about it to everyone around you.
+3074	@rI don't care exactly how you got it, but,
+3075	@rUltimately… your friendship with me, justice and righteous fury, honor and humanity, none of that stuff matters to you at all, Mina.
+3076	Karin@r@vkarin0546."…At that point, inside of me… I started to understand the true nature of the girl called Yuasa Mina."
+3077	Karin@r@vkarin0547."That she is only an animal that spreads its affection around in order to suit its own needs."
+3078	@rConfiding in me about the transformation stick may even have been just so I'd get it back for you.
+3079	@rTo you, Mina, charm is just the flower seeds you scatter around, to get something you need in return.
+3080	@rAnd I'm a convenient flowerbed that'll protect you from the usual bullies.
+3081	@rThat's all.
+3082	@rThat time, it wasn't me, but another flowerbed besides me, where you got your convenient flowers to blossom.
+3083	@rAnd like that, you were happy. …You had no interest in the flowerbed called ‘Karin’, where those flowers didn't blossom at the time.
+3084	@rBut, that said, you wouldn't abandon me or anything.
+3085	@rAfter all, for now, I'm still a good, convenient flowerbed for you to sprinkle your seeds around in…
+3086	Karin@r@vkarin0548."So, here's what I'm getting at. On that day…"
+3087	Karin@r@vkarin0549."…I started to cool off about that lone human being called Yuasa Mina."
+3088	Karin@r@vkarin0550."But, geez, that Mina sure is cute. And affectionate, and bouncy, and fluffy. Almost like a puppy or a kitten. Like a pet."
+3089	Karin@r@vkarin0551."So I decided. From that day on, I'd play around with you like the adorable animal I've started to see you as, if you catch my drift…"
+3090	Mina@r@vmina0409."But… that's…"
+3091	Mina@r@vmina0410."…Not… true…"
+3092	Karin@r@vkarin0552."Are you still not able to understand? You ARE an animal, after all…"
+3093	Karin@r@vkarin0553."Alright, I'll say it clearly once again."
+3094	Karin@r@vkarin0554."Mina. For a long time now, I've always, always really hated you."
+3095	Karin@r@vkarin0555."Is that still not enough to get through to a fucking animal like you? I'm gonna say it one more time."
+3096	Karin@r@vkarin0556."I've reaally hated you for a long time!! I've hated you, I've hated you, I've really hated you, you animal!!! Aah, it's so refreshing, finally being able to say that!!!"
+
+# 04_event_doremi_1
+
+# 04_event_doremi_2
+
+# 04_event_doremi_3
+3097	Mina@r@vmina0411."Mina will say it clearly this one time."
+3098	Mina@r@vmina0412."Mina has… always, always hated Doremi-chan."
+3099	Mina@r@vmina0413."Because, she's a liar."
+3100	Mina@r@vmina0414."She was the kind of girl who'd make a precious, important promise and then break it without a care in the world, and then forget all about it and talk like it never happened."
+3101	Fuuka@r@vfuuka0515."D… Doremi isn't the kind of girl to break her promises…"
+3102	Mina@r@vmina0415."Ah, the dutiful Fuuka-chan, who faithfully keeps her promises, no matter how small!"
+3103	Mina@r@vmina0416."And the dependable Karin-chan, who keeps her promises with all her strength, no matter how unreasonable!"
+3104	Mina@r@vmina0417."But Doremi-chan is different! Doremi-chan doesn't keep them. She never did!"
+3105	Mina@r@vmina0418."She never even understood what it means to make an important promise… that airhead, that waste of humanity!"
+3106	Doremi@r@vdoremi0480."…I… I don't get it…"
+3107	Doremi@r@vdoremi0481."Is this… a dream…?"
+3108	Doremi@r@vdoremi0482."Why would you, Mina… who I'm so close to… say something like that…?"
+3109	Karin@r@vkarin0557."I-I have no idea what happpened, but… Mina, please, take it down a notch…"
+3110	Mina@r@vmina0419.@z127."DO YOU KNOW HOW MANY MINUTES ARE LEFT?! IF YOU DO, LET'S STOP PRETENDING TO BE FRIENDS!"
+3111	Mina@r@vmina0420."Normally, since we're a group of four good friends, I'd pretend to get along with you."
+3112	Mina@r@vmina0421."You're good at acting like that too, Doremi-chan."
+3113	Mina@r@vmina0422."But now isn't the time for that. It's time for us to say what we really think!"
+3114	Mina@r@vmina0423."So I'll say it clearly! I'll say it again! I'll say it from the bottom of my heart!!"
+3115	Mina@r@vmina0424.@z132."I REAALLY HATE YOU, DOREMI-CHAN!! SOMETIMES I'VE EVEN THOUGHT THAT YOU SHOULD JUST DIE!!"
+3116	Doremi@r@vdoremi0483."…You're lying… you're lying…"
+3117	Doremi@r@vdoremi0484."Mina, you… wouldn't say… something like that…"
+3118	Fuuka@r@vfuuka0516."………"
+3119	Karin@r@vkarin0558."…Well… It's not like I don't know what she's getting at."
+3120	Fuuka@r@vfuuka0517."Eh?"
+3121	Karin@r@vkarin0559."Sometimes, in the course of conversation, there are times when people say things like ‘You have to trust me’, right?"
+3122	Karin@r@vkarin0560."Mina, when that happens, you have an unconditionally trusting attitude, with most people."
+3123	Karin@r@vkarin0561."…But it was only when Doremi told you things like that… that you intentionally… didn't express that trust."
+3124	Mina@r@vmina0425."So you realized it too, huh, Karin-chan."
+3125	Mina@r@vmina0426."Yeah. It's true. …Even if, say, I'm lying to not ruin the mood,"
+3126	Mina@r@vmina0427."I'd absolutely never say, ever, no matter what… that I trust Doremi-chan!"
+3127	Fuuka@r@vfuuka0518."Why…?"
+3128	Fuuka@r@vfuuka0519."What did Doremi ever do… to make you say such things about her, Mina-chan…?"
+3129	Mina@r@vmina0428."………"
+3130	Mina@r@vmina0429."So you forgot… but,"
+3131	Mina@r@vmina0430."You said it to me, unbelievably bluntly, on that Monday, Doremi-chan…"
+3132	Mina@r@vmina0431."‘How come you weren't there?’ I asked you. You thought it over for a minute, like you just couldn't remember what I was talking about,"
+3133	Mina@r@vmina0432."And then finally, just one thing came out of your mouth: ‘I forgot.’"
+3134	Mina@r@vmina0433."So it doesn't matter what kind of promise you made, since you'd just have forgotten about it no matter what it is…"
+3135	Karin@r@vkarin0562."J-just what kind of promise did she even break…?"
+3136	Mina@r@vmina0434."At this point, it's no big deal."
+3137	Mina@r@vmina0435."It was just a promise made carelessly in elementary school. Talking about it at this point, it's really just a boring, stupid promise."
+3138	Doremi@r@vdoremi0485."………"
+3139	Mina@r@vmina0436."But… to me back then… it was a really, really important promise…"
+3140	Mina@r@vmina0437."I trusted you, Doremi-chan… and kept on waiting and waiting, and waiting and waiting…"
+3141	Mina@r@vmina0438."And all you had to say for yourself was that one phrase, ‘I forgot.’ …Not even an ‘I'm sorry’!"
+3142	Doremi@r@vdoremi0486."…Alright, I'll apologize right now…. Sorry, Mina."
+3143	Doremi@r@vdoremi0487."Like, I really, really can't remember what promise I made at all, but even still. Sorry, Mina, really."
+3144	Doremi@r@vdoremi0488."Whatever stupid promise or two I might have made back in elementary school that you're still holding a grudge over, I'll give you my sincerest apologies, alright!!"
+3145	Doremi@r@vdoremi0489."Like giving you a stupid keychain, or maybe a scented eraser, I guess it's a promise of about that level, huh?!"
+3146	Doremi@r@vdoremi0490."You were aaalways getting stupid junk from me, weren't you?! What are you, a dog?!"
+3147	Doremi@r@vdoremi0491."And to think, your family has always been so rich! And we've always been broke!!"
+3148	Doremi@r@vdoremi0492.@z127."WHEN DID YOU EVER, EVEN ONCE, GIVE ME ANYTHING?! ALL YOU DID WAS TAKE THINGS FROM ME!! YOU DAMN THIEF!!!"
+3149	Fuuka@r@vfuuka0520."S-stop it already, Doremi! Don't say things like that!"
+3150	Mina@r@vmina0439."It's okay, Fuuka-chan. Since now is the time to talk about what we really think."
+3151	Mina@r@vmina0440."So, I guess I'll say it one more time as well."
+3152	Mina@r@vmina0441.@z125."DOREMI-CHAN, I'VE REALLY HATED YOU FOR A LONG TIME NOW, EVER SINCE ELEMENTARY SCHOOL!! I NEVER TRUSTED YOU AT ALL!!!"
+
+# 04_event_doremi_4
+
+# 04_event_doremi_5
+
+# 04_event_doremi_6
+3153	Mina@r@vmina0442."Doremi-chan, did you know? Mina, super, super duper,"
+3154	Mina@r@vmina0443.@z146."REAALLY HAAAAAATES YOU!! @raAAH-HAHAHAHAHAHAHAHAHAHA!!!"
+3155	Karin@r@vkarin0563."M-Mina…"
+3156	Mina@r@vmina0444."Ah, sorry. Was that creepy?"
+3157	Mina@r@vmina0445."But look, Mina has always, always kept those words bottled up, always, all this time, so,"
+3158	Mina@r@vmina0446."She accidentally said it in a creepy way, hee-heehahahahahahaha."
+3159	Mina@r@vmina0447."Heehehahahahahaha, heehehehehehehe, ukkhhhpfffh~…"
+3160	Mina@r@vmina0448."………"
+3161	Mina@r@vmina0449.@z150."IT'S NOT FUCKING FUNNY AT ALL!! HANABUSA DOREMIII!!!!"
+3162	Doremi@r@vdoremi0493."………!"
+3163	Doremi@r@vdoremi0494."…I-I don't get it. Is your brain broken…?!"
+3164	Mina@r@vmina0450."Why would it be broken at all?! Rather, it's super normal right now!!"
+3165	Mina@r@vmina0451."It was broken when she pretended to be close with Doremi-chan all the time, who Mina really really reaally hates, it was really broken!!"
+3166	Doremi@r@vdoremi0495."Are you insane? When did I ever do anything to make you hate me in the first place, Mina?"
+3167	Fuuka@r@vfuuka0521."That's enough, Doremi! You too, Mina-chan, calm down…!"
+3168	Doremi@r@vdoremi0496."No, I want to get her to clear this up! What are you saying I've ever done to you to make you hate me so much, Mina!"
+3169	Mina@r@vmina0452."See, see? Doremi-chan doesn't even remember."
+3170	Mina@r@vmina0453."Weeell, maybe to Doremi-chan it was all just a game."
+3171	Mina@r@vmina0454."I believed you when you said you were out that day. Of course, that was a cruel betrayal."
+3172	Mina@r@vmina0455."And now I know I was wrong. You were there that day."
+3173	Mina@r@vmina0456."You weren't out, you were pretending to be out."
+3174	Mina@r@vmina0457."…You were really there, weren't you? Doremi-chan?"
+3175	Doremi@r@vdoremi0497."I have no idea what you're talking about!"
+3176	Mina@r@vmina0458."But you were there. And then, the rain came down, and I kept waiting regardless."
+3177	Doremi@r@vdoremi0498."I told you I have no idea what you're talking about!"
+3178	Mina@r@vmina0459."You even watched me get soaked while I kept waiting, crouched down, and you were smirking and laughing at me!!"
+3179	Doremi@r@vdoremi0499.@z138."I wasn't pretending to be out!! Don't say bullshit like that!!"
+3180	Mina@r@vmina0460.@z138."So, you were out after all!! You called me over, and then you went out!!"
+3181	Doremi@r@vdoremi0500."I called you over? And then, you're saying I forgot about it and went out?! There's no way!"
+3182	Mina@r@vmina0461.@z150."YOU DID!! AND I DON'T LIKE HOW YOU JUST FUCKING FORGOT ABOUT IT!!"
+3183	Doremi@r@vdoremi0501.@z133."I WOULDN'T FORGET! WHATEVER IT IS, IT'S SOMEWHERE IN MY MEMORY! NO MATTER WHAT!!"
+3184	Mina@r@vmina0462."Okay, I guess your memory vault won't open, then? Okayy, let's try different keys and see if we can open it!"
+3185	Doremi@r@vdoremi0502."Huh! That's a pretty tall order coming from you, Mina!"
+3186	Doremi@r@vdoremi0503."It's funny! How are you saying I'm supposed to remember something that isn't even in my memory! Give it a try!"
+3187	Mina@r@vmina0463."Okay. I'll give it a try. The magic words."
+3188	Mina@r@vmina0464."I'm certain it's in there. So, you'll remember."
+3189	Mina@r@vmina0465."And then, finally! I can get it all out on you, from the bottom of my heart…!!"
+3190	Doremi@r@vdoremi0504."You should give those magic words or whatever a try! Come on, come on!!"
+3191	@rMina leans in close to Doremi's ear… and whispers it.
+3192	Doremi@r@vdoremi0505."…Eh…"
+3193	Mina@r@vmina0466."The transformation stick from Magical Fashion Star: Layers Five."
+3194	Doremi@r@vdoremi0506."…"
+3195	Doremi@r@vdoremi0507."……"
+3196	Doremi@r@vdoremi0508."………"
+3197	Mina@r@vmina0467."So. …Do you remember now?"
+3198	Mina@r@vmina0468."You do remember, right? …You're just pretending not to know about it, right…?"
+3199	Doremi@r@vdoremi0509."………"
+3200	Mina@r@vmina0469."You must have remembered it for me. Doremi-chan, I'm so glad!"
+3201	Mina@r@vmina0470."If you hadn't remembered it for me, I would have bitten your damn nose off, right here."
+3202	Doremi@r@vdoremi0510."…Do you really resent me that much?"
+3203	Doremi@r@vdoremi0511."The very next day, weren't you jumping for joy and bragging about getting the latest Miracle Transformation Stick instead of your old one?"
+3204	Doremi@r@vdoremi0512."After all that happiness and celebration? Did you mention the older stick even once after that?"
+3205	Doremi@r@vdoremi0513."But even then, you still resented me, all this time? Haha, how hateful you are!"
+3206	Mina@r@vmina0471.@z133."HUHH?! …BITCH, THE FUCK?! WHAT THE FUCK, DID YOU JUST FUCKING SAY TO ME?!?!"
+3207	Doremi@r@vdoremi0514."In the end, didn't you get something even better than what I said I would do on the next day?"
+3208	Doremi@r@vdoremi0515."Of course, even I had things to deal with back then that I couldn't avoid. So I might not have apologized."
+3209	Doremi@r@vdoremi0516."But in the end, didn't you get a brand new stick? So why do you care about the one you lost?"
+3210	Doremi@r@vdoremi0517."If you kept waiting in front of my house, wouldn't you have only lost a few hours of time at most!"
+3211	Doremi@r@vdoremi0518."If that's all it was you've been seething about for years and years…!!"
+3212	Mina@r@vmina0472.@z132."‘ALL IT WAS’?! AaAAaLL?! YOU'RE THE ONE PERSON I DON'T WANT TO HEAR THAT FROM, YOU FUCKING CUuUUuNT!!!"
+3213	Doremi@r@vdoremi0519."That's all it was. Yup, that is stupid. It really is stupid!"
+3214	Doremi@r@vdoremi0520."For you to resent me over it all this time, I thought it must've been something horrible for sure!"
+3215	Mina@r@vmina0473."I guess so, maybe you're right!! Maybe this resentment is over something stupid from elementary school!"
+3216	Mina@r@vmina0474."But see, see see see?!?! I can't forget how I felt back then, for as long as I live, and I can't fucking forgive youuuuuuuuuuu!!!"
+
+# 04_event_doremi_7
+
+# 04_event_doremi_8
+
+# 04_event_doremi_9
+3217	Mina@r@vmina0475."So, Mina… has always, always, really hated Doremi-chan."
+3218	Mina@r@vmina0476."Ever since that day. Ever since that day when she was told a big, fat lie by Doremi-chan… Mina can never ever forgive her…"
+3219	Doremi@r@vdoremi0521."…Apologies, but, I have no memory of ever lying to you, Mina."
+3220	Mina@r@vmina0477."You wouldn't. …Rather, if you did…"
+3221	Mina@r@vmina0478."It would be so horrible… that even now, Mina would want to bite your lying tongue off…"
+3222	Doremi@r@vdoremi0522."Mina, I have no idea what I might have done to make you resent me so much."
+3223	Doremi@r@vdoremi0523."And… if all you had for me was resentment, how could you be so close to me all this time?"
+3224	Mina@r@vmina0479."Yeah. After all, you don't remember anything."
+3225	Mina@r@vmina0480."It's futile to say things to someone who doesn't remember anything…. So, I didn't say anything."
+3226	Mina@r@vmina0481."But. I won't forgive you."
+3227	Mina@r@vmina0482."In my heart, I've always, always… resented the lie from that day, the Doremi-chan from that day… from the bottom of my heart…"
+3228	Doremi@r@vdoremi0524."…Please tell me."
+3229	Doremi@r@vdoremi0525."What the hell… did I ever lie about to you?"
+3230	Doremi@r@vdoremi0526."Me lying to you… is unthinkable."
+3231	Mina@r@vmina0483."I guess so. You're right."
+3232	Mina@r@vmina0484."If I think about it now… it's super strange."
+3233	Mina@r@vmina0485."Aside from that one time, you never tricked me again, Doremi-chan."
+3234	Mina@r@vmina0486."But of course, ever since then, I haven't trusted you even once, since I knew that you're a liar."
+3235	Fuuka@r@vfuuka0522."…Mina-chan. Just what happened…? When was this?"
+3236	Mina@r@vmina0487."It was back in elementary school…"
+3237	Karin@r@vkarin0564."Even though it was so long ago… it was so big that you still can't forgive her…?"
+3238	Mina@r@vmina0488."Mhm."
+3239	Mina@r@vmina0489.I mean… I loved Doremi-chan, I loved her, I really loved her.
+3240	Mina@r@vmina0490.It's because I trusted her… from the bottom of my heart… @r…that I couldn't forgive her…
+3241	@rI'm sure no one else could ever understand. Just how much I loved Doremi-chan.
+3242	@rEver since preschool, she was my number one friend.
+3243	@rDoremi-chan grew quickly, and was always more athletic than Mina, and could remember new things more quickly.
+3244	@rWhether it was the horizontal bar or the bicycle, Doremi-chan always got the hang of it right away.
+3245	@rWhenever everyone in our class learned how to do something, I never even knew for sure if I'd even be able to do it or not.
+3246	@rAfter they learn to do something, children generally only play with other children who can do it with them.
+3247	@rThe kids who can't do it, if they don't like being left out, will desperately practice, repeating their shameful failures over and over, all so they can rejoin the circle…
+3248	@rBut in spite of that, Doremi-chan always tried to be close with Mina.
+3249	@rEven if I was bad at something and couldn't get the hang of it for a long time, she didn't ignore me. She'd always, every time, always, always stay with me to help me practice.
+3250	@rSo when I finally did learn how to do something, the very first person to celebrate with me was always Doremi-chan…
+3251	@rAnd that's not all. …She was the one who first introduced me to the taste of gummy candies.
+3252	@rAt my house, my mom was really strict, so she wouldn't ever let me eat so-called ‘candy for children’.
+3253	@rI only learned the tastes of all the various sweets from Doremi-chan, who took pity on me and shared them with me.
+3254	@rMaybe in my family, Doremi-chan was seen as poor.
+3255	@rYou could tell just from looking at my house that my family had way more money.
+3256	@rMy house had a yard and two stories, and it was a newly built single-family unit.
+3257	@rDoremi-chan's house was built decades ago and was out of shape in places. It was part of a run-down housing complex in a back alley.
+3258	@rBut, at Doremi-chan's house, they bought all kinds of things just for her, and let her try them.
+3259	@rMy family, on the other hand, would say it was too early for a child, or that it was bad for my education, so they wouldn't buy anything for me or let me try anything.
+3260	@rSo at some point… it became a relationship where the rich Doremi-chan would share with me, who was poor, and I'd be very happy.
+3261	@rMaybe for Doremi-chan, sharing things with me felt like giving treats to a pet dog.
+3262	@rMaybe I even felt almost like a pet, receiving treats from my owner and showering her with affection…
+3263	Doremi@r@vdoremi0527."…Now that you mention it, I had one too. A transformation stick."
+3264	Mina@r@vmina0491."Eh?"
+3265	Doremi@r@vdoremi0528."I actually had the same one as you, Mina. The Scarlet Stick from Layers Five."
+3266	Mina@r@vmina0492."The Scarlet one? That's the same as Mina's…"
+3267	Doremi@r@vdoremi0529."You also had the Scarlet Stick, and both of us having the Scarlet one would be strange."
+3268	Doremi@r@vdoremi0530."So that's why, when I was rearranging my room, I put it in the closet and forgot about it."
+3269	Doremi@r@vdoremi0531."It's only been collecting dust, so I can let you have it, Mina."
+3270	Mina@r@vmina0493."R-really?! Doremi-chan…!!"
+3271	Doremi@r@vdoremi0532."Wah- hey, don't suddenly jump on me like that…"
+3272	Mina@r@vmina0494."Ehehe… sorry…"
+3273	Doremi@r@vdoremi0533."………!"
+3274	Mina@r@vmina0495."Do you remember?"
+3275	Mina@r@vmina0496."The Scarlet Transformation Stick from Layers Five."
+3276	Mina@r@vmina0497."Doremi-chan, you told me… that you weren't playing with it and it was just gathering dust, so you'd give it to me."
+3277	Mina@r@vmina0498."That day, all day, the whole day when I was in school, I was thinking, ‘I can't wait for school to be over already.’"
+3278	Mina@r@vmina0499."So I dashed home, you know, and left my backpack in the entryway, and was about to take off when my mom found me."
+3279	Mina@r@vmina0500."Why did it have to be that day, that I had to get held up and lectured like, ‘what bad manners you have,’ ahahahahaha."
+3280	Mina@r@vmina0501."But you know, in my heart I was still all hyped up. After all, you were waiting for me, Doremi-chan."
+3281	@rOnce I was released from the lecture, I ran to Doremi-chan's house at top speed.
+3282	@rI felt light enough to float all the way to heaven as I ran.
+3283	@rAfter all, Doremi-chan didn't just tell me she'd let me have the toy she wasn't playing with.
+3284	@rSince Layer Scarlet was my favorite, she secretly hid her Scarlet Stick away for me…
+3285	@rI was glad, I was so fortunate, so lucky.
+3286	@rNow I won't have to fight. I was sure that if I didn't go, she'd go home without doing anything.
+3287	@rAnyway… Doremi-chan was normally always very nice to Mina, all the time.
+3288	@rI didn't realize it, but I'd received so much kindness.
+3289	@rThank you, Doremi-chan. I really love you, Doremi-chan.
+3290	@rMina should be bestest friends with Doremi-chan forever.
+3291	@rIf Doremi can do something like this for her, Mina should surely, surely repay the favor twice over someday.
+3292	@rAnd if she does that, she'll definitely fall in love with Doremi-chan more and more, without a doubt…
+3293	→1246
+3294	@rNo matter how many times Mina rang the doorbell at Doremi-chan's house… no one came out.
+3295	@rThat's strange. That lady always comes out to answer.
+3296	@rIs the doorbell broken? Mina pressed it over and over. ‘Hey, Doremi-cha~n,’ she said, over and over."
+3297	@rMaybe something came up and she went out. Mina should try waiting.
+3298	@rOr maybe… she's angry because Mina came late…
+3299	Mina@r@vmina0502."So Mina keept on waiting. Even as the sky got dark and rain came down, she kept on waiting."
+3300	Mina@r@vmina0503."She got soaked, and her body was freezing. A delivery guy suddenly came to talk to her, and he tsk-tsk'd at her, and she stiill kept waiting…!"
+3301	Mina@r@vmina0504."It was cold, and painful, and miserable, and sopping wet…!! And she stiil kept waiting!!"
+3302	Doremi@r@vdoremi0534."…So then,"
+3303	Mina@r@vmina0505."Eh?"
+3304	Doremi@r@vdoremi0535."How come you didn't look for someplace to take shelter from the rain?"
+3305	Mina@r@vmina0506."…Eh?"
+3306	Doremi@r@vdoremi0536."The main thing you're resentful about is that you got soaked, right? So how come you didn't look for a place where you could take shelter from the rain?"
+3307	Mina@r@vmina0507."…Doremi-chan's house was shabby and didn't have an awning."
+3308	Doremi@r@vdoremi0537."Well then, it would've been better if you'd looked for a place where you could wait out the rain."
+3309	Doremi@r@vdoremi0538."Why'd you keep standing there like a fool, in the middle of the rain, for all that time? Did someone order you to not move even one millimeter away or something like that?"
+3310	Doremi@r@vdoremi0539."To begin with, you said you were gonna come to my house but you came late, so you were the one at fault, Mina."
+3311	Doremi@r@vdoremi0540."You should've at least made one phone call to contact me and told me ‘I'm going to be late, but I'm coming over now.’ If you had done that, you would have known I was out."
+3312	Mina@r@vmina0508."………"
+3313	Mina@r@vmina0509.@z150."…A-HAHAHAHAHAHAHA!"
+3314	Mina@r@vmina0510."Yeah, that's right. What can you do, we were just elementary schoolers."
+3315	Doremi@r@vdoremi0541."But look, I think even an elementary schooler should have enough intellect to think of looking for a place where they can wait out the rain."
+3316	Doremi@r@vdoremi0542."It seems like the crux of your resentment against me is that I kept you waiting out in the rain and you got soaked…"
+3317	Doremi@r@vdoremi0543."You were too stupid to think of taking shelter from the rain, so isn't it just the consequences of your own actions."
+3318	Mina@r@vmina0511."Hahahahahahaha."
+3319	Doremi@r@vdoremi0544."Ha-hahahahahahahahahahahahaha…"
+3320	Mina@r@vmina0512.@z105."YOU CUNT, FFFFUUUUUCK THIS, AAAAAAaH!! DHAaAAaaH, NNGRAAAaAAAAAaAAAH!!!"
+3321	Karin@r@vkarin0565."Enough, cut it out! Both of you, stop it!"
+3322	Mina@r@vmina0513.@z122."DOREMIiIIIi!!! EVER SINCE THAT DAY, I'VE ALWAYS, ALWAYS, AALWAYS, ALWAYS, ALWAYyYYyS!!!!"
+3323	Mina@r@vmina0514.@z150."REAALLY FUCKING HATED YOU, YOU BIiIIIiIIIIIIIIITCH!!!"

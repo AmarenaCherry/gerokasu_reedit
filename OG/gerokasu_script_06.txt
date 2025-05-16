@@ -1,0 +1,196 @@
+# 06_intB01_01_初めての風華イベント時 (after the first Fuuka event)
+4716	Fuuka@r@vfuuka0811."Seems like another day of nice, warm weather~"
+4717	Doremi@r@vdoremi0826."…Yeah. Nice and warm…"
+4718	Fuuka@r@vfuuka0812."………"
+4719	Fuuka@r@vfuuka0813."…Say, Doremi."
+4720	Doremi@r@vdoremi0827."What is it…"
+4721	Fuuka@r@vfuuka0814."About yesterday… thank you for listening to what I had to say."
+4722	Doremi@r@vdoremi0828."Talking about it helps with processing your feelings."
+4723	Doremi@r@vdoremi0829."All I did is listen to you and relax. I'm glad to be of help…"
+4724	Fuuka@r@vfuuka0815."You know… for a long time now, I've felt like you're the only one I can really talk to about anything."
+4725	Doremi@r@vdoremi0830."I know."
+4726	Doremi@r@vdoremi0831."…You've always been working so hard. But you're very shy about other people seeing what goes into that."
+4727	Fuuka@r@vfuuka0816."I… always only hear from everybody about how smart I am and how good I am at studying."
+4728	Fuuka@r@vfuuka0817."But I'm not really that smart. …But, since they all tell me I am…"
+4729	Fuuka@r@vfuuka0818."I'm scared of what they might say if I betray those expectations… I always have been, always…"
+4730	Doremi@r@vdoremi0832."…You don't have to overexert yourself, or push yourself past your limit, or smile and bear it, or anything like that in front of me."
+4731	Doremi@r@vdoremi0833."So, for now, just be your natural self…"
+4732	Fuuka@r@vfuuka0819."………"
+4733	Fuuka@r@vfuuka0820."Thank you, Doremi."
+
+# 06_intB01_02_初めての火凛イベント時 (after the first Karin event)
+4734	Fuuka@r@vfuuka0821."Karin, you're incredible! I guess you really are a true ally of justice!"
+4735	Karin@r@vkarin0890."The spirit of Kamen Kendo always remains in my heart, y'know?"
+4736	Karin@r@vkarin0891."That spirit whispers to me."
+4737	Karin@r@vkarin0892."That as long as I believe the blade of justice will be victorious in striking down evil, victory will surely await me, y'know?"
+4738	Fuuka@r@vfuuka0822."Then I suppose you're invincible, Karin!"
+4739	Karin@r@vkarin0893."But hey, Fuuka."
+4740	Karin@r@vkarin0894."Isn't believing in victory kinda harder than it sounds?"
+4741	Fuuka@r@vfuuka0823."Is it? Aren't those fighters always brimming with confidence?"
+4742	Karin@r@vkarin0895."There are times when you've gotta fight, even if you've got no confidence…"
+4743	Fuuka@r@vfuuka0824."………"
+4744	Fuuka@r@vfuuka0825."Are you trying to say something deep or are you just trying too hard to look cool? I don't get it."
+4745	Karin@r@vkarin0896."Well… there are times I say deep stuff, too. I mean…"
+4746	Fuuka@r@vfuuka0826."I don't quite get it but if you're aiming to be an ally of justice,"
+4747	Fuuka@r@vfuuka0827."Then you'll definitely make it as one."
+4748	Karin@r@vkarin0897."Then, how 'bout this? If you're ever in a pinch, I'll come rushing to save you no matter what!"
+4749	Fuuka@r@vfuuka0828."But I don't want to get in a pinch in the first place~"
+4750	Fuuka@r@vfuuka0829."But I'm glad nonetheless. …When that time comes, come and save me, okay."
+4751	Karin@r@vkarin0898."Yeah, of course. It's a promise."
+4752	Karin@r@vkarin0899."If you're ever in a pinch, I'll come to save you no matter what!"
+4753	Karin@r@vkarin0900."Oh, I know! Here, as proof of this, I present you this card!"
+4754	Fuuka@r@vfuuka0830."What's this? …A Kamen Kendo card?"
+4755	Karin@r@vkarin0901."That's right! If you always keep this close to your heart from now on, the spirit of Kamen Kendo will help you for sure!"
+4756	Fuuka@r@vfuuka0831."…Th-thank you. …Is this, perchance, a valuable card?"
+4757	Karin@r@vkarin0902."Uh… nah. It was only 100 yen at the card shop."
+4758	Fuuka@r@vfuuka0832."…Ha, hahahahahahahahahahaha! You really are funny!"
+
+# 06_intB01_03_初めての水無イベント時 (after the first Mina event)
+4759	Karin@r@vkarin0903."Eh? What's this all of a sudden?"
+4760	Mina@r@vmina0836."Thank you for always saving Mina."
+4761	Mina@r@vmina0837."Here, have this! A present for Karin-chan."
+4762	Karin@r@vkarin0904."What's this? …Some kinda card?"
+4763	Mina@r@vmina0838."Well, yesterday, Karin-chan became Kamen Kendo just for Mina."
+4764	Karin@r@vkarin0905."What's all of this, all of a sudden…? Jeez, did something happen?"
+4765	Mina@r@vmina0839."Ahahahaha, no, nothing like that. There's no deeper meaning at all."
+4766	Karin@r@vkarin0906."I'm glad and all, but suddenly being given a gift like this really puts me on the spot… haha."
+4767	Mina@r@vmina0840."Mina, um… had a dream last night. About elementary school."
+4768	Mina@r@vmina0841."…Ever since that time, Mina would get bullied by boys all the time. And Karin-chan would aalways save her."
+4769	Mina@r@vmina0842."Mina always gets saved by Karin-chan. And that makes her reaaally glad."
+4770	Karin@r@vkarin0907."Hahaha, well, you must be getting pretty used to me saving your butt every day."
+4771	Mina@r@vmina0843."It's like Karin-chan always used to say… about how Mina gets bullied because she isn't confident enough."
+4772	Mina@r@vmina0844."But, um… still, Mina really loves it so much that Karin-chan always comes to save her."
+4773	Mina@r@vmina0845."It may be true that Mina… may have been fine with getting bullied like this, as long as Karin-chan comes to help."
+4774	Karin@r@vkarin0908."Wait, huh? So you'd rather just let yourself get bullied since you know I'll come to help?"
+4775	Mina@r@vmina0846."Not exactly on purpose. But now, if Mina really thinks about it, maybe she does feel that way…"
+4776	Mina@r@vmina0847."So, um, that's why Mina maybe would like to show her gratitude to Karin-chan even more. …She thinks so, anyway."
+4777	Mina@r@vmina0848."So, um! So, um! Mina saw that the card Karin-chan wanted showed up for cheap on Mericar!"
+4778	Karin@r@vkarin0909."Th-thank you. This isn't quite the card I wanted, but still… I'm glad!"
+4779	Mina@r@vmina0849."Eh? R-really?"
+4780	Mina@r@vmina0850."And Mina even thought it was a little weird that the cards that looked similar to this one were all listed for over 10,000 yen, even though this one was only 100 yeen."
+4781	Karin@r@vkarin0910."Haha, ha, even if it's only 100 yen's worth of gratitude, I'm still glad…"
+4782	Mina@r@vmina0851."Later, byebye Karin-cha~n!!"
+
+# 06_intB01_04_初めての土麗美イベント時 (after the first Doremi event)
+4783	Mina@r@vmina0852."Okay so, you hit the buttons to match the notes in time with the music as they come!"
+4784	Doremi@r@vdoremi0834."…So then, when do the enemies come out and attack?"
+4785	Mina@r@vmina0853."There aren't any obstacles like that. You only compete by comparing scores."
+4786	Doremi@r@vdoremi0835."…So it's a game about breaking notes?"
+4787	Mina@r@vmina0854."That's not it. It's a game about dancing in time to the notes and performing a live show!"
+4788	Doremi@r@vdoremi0836."…A game where you line them up in your sights and make them dance among the blood splatters, so basically Dead Or Live…"
+4789	Mina@r@vmina0855."And then, you get looots of wonderful items, and you can show off your unique personality!"
+4790	Doremi@r@vdoremi0837."…Trigger happy gameplay with an extended-magazine rapid-fire light machine gun."
+4791	Mina@r@vmina0856."See, right now, Mina's using an outfit she put together with all the cute, flashy, sporty equipment she got!"
+4792	Doremi@r@vdoremi0838."…And right now, I'm using stealth knifer equipment."
+4793	Mina@r@vmina0857."And then guess what? Once the game is over, cards come out that you can use for your outfit,"
+4794	Mina@r@vmina0858."But no matter how many times Mina playys, she just can't get the super rare ones she wants…!!"
+4795	Doremi@r@vdoremi0839."…And no matter how many times I play, I can't get the assault commando trophy I want."
+4796	Mina@r@vmina0859."See, um… here, this is the outfit card Mina's looking for!"
+4797	Doremi@r@vdoremi0840."…Is this card with the picture of the swimsuit looking thing the one you want, Mina?"
+4798	Doremi@r@vdoremi0841."So if I find this card for you, it'll make you happy, right?"
+4799	Mina@r@vmina0860."W-well of course it would, but… this is a really rare card!"
+4800	Mina@r@vmina0861."Mina can't find anyone who has it, so it's hard to even trade for it…"
+4801	Doremi@r@vdoremi0842."In that case, that just makes it even more worth looking for."
+4802	Doremi@r@vdoremi0843."In fact, it's worth even more than that. Since I guess it would make my beloved Mina happy."
+4803	Mina@r@vmina0862."…Doremi-chan…"
+4804	Doremi@r@vdoremi0844."For a long time now, no matter how often my heart gets broken and shattered, no matter how many times, you've always healed it for me."
+4805	Doremi@r@vdoremi0845."With that in mind, it won't be enough to repay you, but I'll look for it. …So just stay put and wait for me."
+4806	Mina@r@vmina0863."…Doremi-chan…"
+4807	Mina@r@vmina0864."Whether Doremi-chan finds it or not, Mina will still be glad, you know?"
+4808	Mina@r@vmina0865."Mina really loves Doremi-chan!"
+
+# 06_intB02_01_それ以外時のイベント（１回目） (after any other event, 1st time)
+4809	→1192
+4810	@r…I can't take this anymore…
+4811	@rWhy do I have to… keep being shown something like this…
+
+# 06_intB02_02_それ以外時のイベント（２回目） (after any other event, 2nd time)
+4812	@rThis is a false dream, created out of malice.
+4813	@rIf it weren't, there'd be no reason for those girls, who are so kind and overflowing with compassion, to display such ugliness.
+4814	@rThat's exactly it. I mustn't be tricked. I musn't believe this.
+4815	@rIsn't it exactly because we're in a nightmare that everyone's behavior, personality, perspective, and thoughts are all wrong?
+4816	@rThere's no reason for it. The writer of these nightmare scenarios is third rate. The characters are all over the place.
+4817	@rI can't acknowledge this. I can't acknowledge this.
+4818	@rScrew this, just screw this…
+
+# 06_intB02_03_それ以外時のイベント（３回目） (after any other event, 3rd time)
+4819	@rGod… enough of this…!
+4820	@rStop disgracing… everyone I love so much…!!
+4821	@rFuuka, Karin, Mina, and Doremi aren't these kinds of girls!!
+4822	@rThere's absolutely no way they'd display such ugliness, such ugly insults, twisting their faces into such ugly expressions!!
+4823	@rThey— The girls—
+4824	@rAre always overflowing with kindness, overflowing with compassion, filled with affection. I know that for sure…!
+4825	@rThey'd never show such ugly expressions, no matter what!
+4826	@rSuch ugly words wouldn't come out of their mouths, they wouldn't display such ugly infighting, no matter what!
+4827	@rThey'd absolutely never…!!
+
+# 06_intB02_04_それ以外時のイベント（４回目） (after any other event, 4th time)
+4828	Voice@r@vm_koe0152."I suppose you must think I'm hateful, to keep showing you such ugliness from them."
+4829	@rYou ARE hateful! Showing me such ugliness from everyone I love so much, defiling my memories of them, you're hateful!
+4830	Voice@r@vm_koe0153."Well then… I suppose you mean that I have no qualification or right to show you such ugliness from them."
+4831	@r…Eh…?
+4832	Voice@r@vm_koe0154."You've admired these girls — no, all women — as entities overflowing with kindness and compassion."
+4833	Voice@r@vm_koe0155."You've seemed to think that your praise is deserved."
+4834	Voice@r@vm_koe0156."At the same time, isn't that the same as saying you won't even allow them to have the emotions they naturally ought to be allowed to have as humans?"
+4835	@r…Emotions they… naturally ought to be allowed to have… as humans…?
+4836	Voice@r@vm_koe0157."Give it some thought, boy."
+4837	Voice@r@vm_koe0158."This marks the 8th tragedy I've prepared for you."
+4838	Voice@r@vm_koe0159."The end is near…"
+
+# 06_intB02_05_それ以外時のイベント（５回目） (after any other event, 5th time)
+4839	@r……That guy's words haven't left my ears.
+4840	@rEmotions they naturally ought to be allowed to have as humans…?
+4841	@rWhat does it mean? …Does he mean that Fuuka, Karin, Mina, and Doremi… have a right to display such ugliness?
+4842	@rIs something like that a right? He's making fun of me. This is ridiculous.
+4843	@r…But.
+4844	@rIf I were in their shoes… there would be a few things to think about.
+4845	@rLike, say… if I were a girl.
+4846	@rLet's suppose that a boy admired me for my kindness and compassion, and for how wonderful I am.
+4847	@rBut that would of course be… only because I did my best and tried to behave that way.
+4848	@rBut there'd be no way I could always keep up that ideal around the clock…
+4849	@rSo many times, I've done things that deserve at least a ‘tsk-tsk’.
+4850	@rI've even called people names and shrugged my shoulders at them, many times.
+4851	@r…But I don't think I should be blamed for those things.
+4852	@rI'm only human, so it's only natural things like that happen.
+4853	@rThat's how it is for men, but women are different.
+4854	@rI mean, the world of girls is overflowing with kindness and compassion, and full of sincerity and devotion… tongue-clicking and insults just don't exist.
+4855	@rThey don't exist. There's no way they would. Since girls are different from ugly men.
+4856	@r…Is this what… that guy was talking about?
+4857	@rThat while I think I revere girls… I'm not allowing them to have emotions as humans…?
+4858	@rIn other words… I'm not… treating them like… humans…?
+
+# 06_intB02_06_それ以外時のイベント（６回目） (after any other event, 6th time)
+4859	@rStill, there's one thing I don't get…
+4860	@rWhy do the girls change so much every time their roles in the tragedy are reassigned?
+4861	@rAt first, I was thinking it was just the whims of a malicious tragedy scenario writer, making a show out of how the tragedies repeat over and over.
+4862	@rAfter all, he wouldn't be able to show the same girls changing so much between the different tragedies otherwise.
+4863	@r…I thought that was it at first, but…
+4864	@rAt a glance, it looks like their personalities change with every tragedy but… the parts deep down in their hearts are actually consistent.
+4865	@rFor example… on the surface, they're a group of four good friends.
+4866	@rHowever, they all each still hang onto the feeling that they can't forgive someone else, because of some incident a long time ago.
+4867	@rThose emotions, and that incident as their cause… are consistent no matter what tragedy takes place.
+4868	@r…It's like a kaleidoscope.
+4869	@rEvery time you look into one, it shows a different world.
+4870	@rJust like every time a tragedy unfolds, it shows a different tragedy.
+4871	@rOn the one hand, every time you look into it, it shows you a different world. But on the other hand, the multicolored stardust inside the kaleidoscope does not change.
+4872	@rIn other words… even if the world you're shown is different every time,
+4873	@rThe kaleidoscope that shows it to you, as well as what's inside it, will never change…
+4874	@r…Are all of these infinitely varying tragedies individual worlds that can arise from those four girls?
+4875	@rDoes this mean I've only been one-sidedly admiring one part of them, the one that shines on the surface?
+4876	@rIs he telling me to become disillusioned with the girls?
+4877	@rNo, that wouldn't be it. It's not that.
+4878	@r…There must be… some kind of very important thing I have to remember, and realize…
+4879	@rI won't run away from this tragedy.
+4880	@rI'll take in the whole thing, all of it, and on top of that I'll realize that something…!
+
+# 06_intB02_07_それ以外時のイベント（７回目） (after any other event, 7th time)
+4881	@r…Fuuka, Karin, Mina, Doremi.
+4882	@rThe root of their antagonism, the start of it all.
+4883	@rIt was like a thorn, always, always… causing them pain.
+4884	@rWhat is the cause? Who is the cause?
+4885	@rI'll take out that thorn… I'll remember that something…!!
+
+# 06_intB02_08_それ以外時のイベント（８回目） (after any other event, 8th time)
+4886	@r…That's it…
+4887	@rI get it. I realized it. Finally…
+4888	@rI was able to remember what kind of sin I committed…!!

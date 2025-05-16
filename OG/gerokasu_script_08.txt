@@ -1,0 +1,1149 @@
+# 08_intZ01_01_初めての風華イベント時 (after the first Fuuka event)
+5003	Karin@r@vkarin0911.@z146."EHHHHHHH?! You messing with me, you've gotta be messing with me, it's such a waste!!"
+5004	Mina@r@vmina0866.@z150."Isn't it someone really cool?! It's so nice, it's so nice, Mina is jealous!"
+5005	Fuuka@r@vfuuka0833."Teeheehee… though I had to decline."
+5006	Mina@r@vmina0867."How come, how come?! Is there by chance someone Fuuka-chan's heart is already set on?!"
+5007	Fuuka@r@vfuuka0834."That's not it…"
+5008	Fuuka@r@vfuuka0835."It's just, I'm not the kind of pretty girl he's expecting me to be."
+5009	Karin@r@vkarin0912."Jeez, you're so modest it almost seems sarcastic."
+5010	Karin@r@vkarin0913.@z150."WHAT PART OF THIS CUTE CINNAMON ROLL OF A GIRL ISN'T A TOTAL CUTIE!"
+5011	Fuuka@r@vfuuka0836.@z150."STOP IT, STOP IT, THAT HURTS!"
+5012	Karin@r@vkarin0914."Mina, you take that side! Squish her all you want!"
+5013	Mina@r@vmina0868.@z150."HNGHUUU!! FUUKA-CHAN, TURNING DOWN HOT GUYS GETS YOU SQUISHED!"
+5014	Fuuka@r@vfuuka0837.@z150."FNnOOOO, FtOppIt, YoU gUyYYYS!"
+5015	Doremi@r@vdoremi0846."…Are you doing a tug-of-war with Fuuka's cheeks?"
+5016	Mina@r@vmina0869."Doremi-chan, listen to this!"
+5017	Karin@r@vkarin0915."She got a confession from a tootal hottie, and she hecking turned him down!"
+5018	Mina@r@vmina0870."A confession from a tootal hottiee! On the soccer team! In the next class over!"
+5019	Fuuka@r@vfuuka0838."Like I said — Owowowowoww!"
+5020	Fuuka@r@vfuuka0839."I'm sure there's… someone much better for him than me!"
+5021	Doremi@r@vdoremi0847."…You two, if you keep that up, Fuuka's going to become a bulldog."
+5022	Doremi@r@vdoremi0848."…I'm happy for you, Fuuka."
+5023	Fuuka@r@vfuuka0840."About what?"
+5024	Doremi@r@vdoremi0849."…Congrats on getting a confession from a hot guy."
+5025	Fuuka@r@vfuuka0841."Stop it. My cheeks still hurt from being pinched by these two."
+5026	Doremi@r@vdoremi0850."…Did you think he wasn't suited for the real Fuuka…?"
+5027	Fuuka@r@vfuuka0842."………"
+5028	Fuuka@r@vfuuka0843."…Yeah."
+5029	Fuuka@r@vfuuka0844."…Can I… talk some things over with you…?"
+5030	Doremi@r@vdoremi0851."As usual, all I can do is listen, but,"
+5031	Doremi@r@vdoremi0852."If it puts your heart at ease, then I'm glad to be of help."
+5032	Fuuka@r@vfuuka0845."…Thank you."
+5033	Fuuka@r@vfuuka0846."So, I was glad to get a confession but that boy was someone I'd never even spoken to before at all, so,"
+5034	Fuuka@r@vfuuka0847."I asked him…. ‘What do you like about me?’"
+5035	Doremi@r@vdoremi0853."………"
+5036	Fuuka@r@vfuuka0848."He said a lot of things, but… everything he said, all of it,"
+5037	Doremi@r@vdoremi0854."It was about… the Fuuka everyone around you expects you to be… is that it?"
+5038	Fuuka@r@vfuuka0849."…Yeah."
+5039	Fuuka@r@vfuuka0850."He loves my ‘ladylike aura’ and that I'm ‘someone quiet that he can feel like he wants to protect’…"
+5040	Doremi@r@vdoremi0855."…Haha. That all sounds pretty far off from the real Fuuka."
+5041	Fuuka@r@vfuuka0851."Right. The Dark Fuuka inside me started whispering in my ears."
+5042	Fuuka@r@vfuuka0852."‘You people just want to believe in my ladylike self, so I'm trying as hard as I can not to betray those damn expectations of yours!’"
+5043	Fuuka@r@vfuuka0853."‘But if you fall in love with that version of myself then I'll be stuck acting out forever! Dumbass!’"
+5044	Fuuka@r@vfuuka0854."…Something like that. Teeheehee."
+5045	Doremi@r@vdoremi0856."I see. That sounds awful."
+5046	Doremi@r@vdoremi0857."However, if you acted out that role forever with no end, you would also be a big dumbass."
+5047	Fuuka@r@vfuuka0855."…I suppose it's like being stuck on a railroad."
+5048	Fuuka@r@vfuuka0856."I can't change my route so quickly, you know?"
+5049	Fuuka@r@vfuuka0857."I think I'll take it little by little, but… in the end, I'd like to let myself stop acting and just relax and go back to my natural self already."
+5050	Doremi@r@vdoremi0858."…Then instead,"
+5051	Doremi@r@vdoremi0859."What if you make it your true self?"
+5052	Doremi@r@vdoremi0860."If you do, you can find just the boyfriend for you, and you'll get your happy ever after…"
+5053	Fuuka@r@vfuuka0858."I've thought so too."
+5054	Fuuka@r@vfuuka0859."But… the self I'm acting out couldn't become my actual self in the end."
+5055	Doremi@r@vdoremi0861."So you mean…"
+5056	Doremi@r@vdoremi0862."The real Fuuka will be the Dark Fuuka inside your heart."
+5057	Fuuka@r@vfuuka0860."Teehee? It's true, teeheehee."
+5058	Fuuka@r@vfuuka0861."Oh, that's right. I'm actually Dark Fuuka, so maybe it should be more like this?"
+5059	Doremi@r@vdoremi0863."…I see. That certainly is dark."
+5060	Doremi@r@vdoremi0864."If you pretend to be lovely to disguise that darkness, the darkness only grows."
+5061	Fuuka@r@vfuuka0862."Yeah, that's true. She is dark, teeheehee…"
+5062	Doremi@r@vdoremi0865."But that darkness is still you."
+5063	Doremi@r@vdoremi0866."And I think even the lovely Fuuka is still Fuuka."
+5064	Doremi@r@vdoremi0867."I think worrying about which one is the real one would be a waste of your life."
+5065	Fuuka@r@vfuuka0863."…Hmm, I see."
+5066	Fuuka@r@vfuuka0864."The lovely me, and the dark me, are both still me, aren't they?"
+5067	Doremi@r@vdoremi0868."Exactly."
+5068	Fuuka@r@vfuuka0865."Well then, if somebody won't fall in love with both sides of me, I can't accept their confession."
+5069	Doremi@r@vdoremi0869."…Finally, there's that easygoing smile."
+5070	Fuuka@r@vfuuka0866."Ah… was it somber before? Teeheehee…"
+5071	Doremi@r@vdoremi0870."…We've been together for a long time. I know you that well."
+5072	Fuuka@r@vfuuka0867."Thank you. …Like usual, whenever I talk to you, Doremi, my heart feels lighter."
+5073	Doremi@r@vdoremi0871."Don't get worked up over it. If you're dark, then I'm a black hole."
+5074	Fuuka@r@vfuuka0868."What's with that?! You're funny, ahahahaha, you're so funny!"
+5075	Doremi@r@vdoremi0872."…Hahahahaha. Fuuka, just hearing you laugh is good enough for me."
+5076	Fuuka@r@vfuuka0869."Alright then, a present from Dark Fuuka to Dark Doremi-chan, as a sign of our Dark friendship."
+5077	Doremi@r@vdoremi0873."…What? A Kamen Kendo card? Did you get this from Karin?"
+5078	Fuuka@r@vfuuka0870."Nope. My little brother. He collects these and I always have to take his duplicates off his hands, and it's annoying, so I'm just paying it forward."
+5079	Doremi@r@vdoremi0874."…I see. Actually, I don't need this kind of pushy Dark present."
+5080	Fuuka@r@vfuuka0871."Take good care if it, alright♪ Do-re-mi."
+5081	Doremi@r@vdoremi0875."Of course I will. I shall cherish it as a mark of the Dark Alliance."
+
+# 08_intZ01_02_初めての火凛イベント時 (after the first Karin event)
+5082	Karin@r@vkarin0916."I guess I'm just, a big bro's girl."
+5083	Karin@r@vkarin0917."I've always played with my big bro and his friends. So I just really love doing boy stuff."
+5084	Fuuka@r@vfuuka0872."Is pretending to be Kamen Kendo also due to their influence?"
+5085	Karin@r@vkarin0918."Yup. Well, in the past I liked him post-transformation, but lately I'm starting to like him pre-transformation as well."
+5086	Fuuka@r@vfuuka0873."Ahahahaha. You really are a girl through and through."
+5087	Karin@r@vkarin0919."I am."
+5088	Karin@r@vkarin0920."People often get it all wrong. …It's not like I want to be a boy or anything."
+5089	@rShe loves doing boy stuff, and often plays together with the boys.
+5090	@rBut she knows she is a girl… and she has never once said she doesn't aspire to be a cute girl.
+5091	Fuuka@r@vfuuka0874."I know. If that weren't so, your hair wouldn't be so long."
+5092	Karin@r@vkarin0921."It sure makes bathing and drying it all a pain in the butt!"
+5093	Karin@r@vkarin0922."But… well, even if it's only just that… I'll still defend my girlhood with my life."
+5094	Fuuka@r@vfuuka0875."Are you embarrassed of being girly?"
+5095	Karin@r@vkarin0923."I'm just, like, stuck with this persona. …It'd be embarrassing to suddenly change it after everything."
+5096	Karin@r@vkarin0924."And besides, what goes into being a cute girl is important as well. I'm totally hopeless in that regard."
+5097	Fuuka@r@vfuuka0876."I don't think it is. If a girl wants to change, she can change as much as she wants."
+5098	Karin@r@vkarin0925."…Thank you. But I'll be fine."
+5099	Karin@r@vkarin0926."Since my ideal is right here in front of me."
+5100	Fuuka@r@vfuuka0877."Eh? Me?"
+5101	Karin@r@vkarin0927."Yup. You've got everything my ideal girl's got."
+5102	Fuuka@r@vfuuka0878."………"
+5103	Fuuka@r@vfuuka0879."When you put it that way… for me, you're my ideal too."
+5104	Karin@r@vkarin0928."I am? Wait wait wait wait! That's kinda harsh for a joke!"
+5105	Fuuka@r@vfuuka0880."You and I are probably cut from the same cloth."
+5106	Fuuka@r@vfuuka0881."Both of us, ever since we first gained self-awareness, have had specific personas in the eyes of ourselves and others, haven't we?"
+5107	Fuuka@r@vfuuka0882."Karin, you really love playing together with the boys, and seem like a boyish kid at first glance,"
+5108	Fuuka@r@vfuuka0883."And I'm straightforward and honest, and listen to adults, and I seem like a girly kid at first glance,"
+5109	Karin@r@vkarin0929."…Then, Fuuka…"
+5110	Karin@r@vkarin0930."You're saying that who you are now… isn't really who you want to be?"
+5111	Karin@r@vkarin0931."Kinda harsh for a joke! And just think, you're such a cute girl~"
+5112	Fuuka@r@vfuuka0884."But I'm sure it's the same for you."
+5113	Fuuka@r@vfuuka0885."If something ever happens… and you decide you don't really want to be like this… but you think that the persona expected of you has to be like this,"
+5114	Fuuka@r@vfuuka0886."You just act out your own role faithfully anyway…"
+5115	Karin@r@vkarin0932."………"
+5116	Fuuka@r@vfuuka0887."As long as I'm the Gojou Fuuka everyone depends on… I'll be the first to take on roles, patiently explain things to people, and so on."
+5117	Fuuka@r@vfuuka0888."But in reality, this is what I think."
+5118	Fuuka@r@vfuuka0889."‘I don't wanna take on this role at all!’ or ‘read the damn textbook before asking people, you stupid dimwit!’ or something."
+5119	Karin@r@vkarin0933."………!"
+5120	Karin@r@vkarin0934."Y-yeah! I feel that way all the time…!"
+5121	Karin@r@vkarin0935."Or ‘I should've done my homework already,’ but then my big bro and his friends are still playing, so then I'll think ‘I'll just do it later I guess’ or something like that!"
+5122	Fuuka@r@vfuuka0890."Like, if you don't clean properly, the teacher will get angry at you, but the boys are playing together, and you want to join them?"
+5123	Karin@r@vkarin0936."Right, right, right, right!"
+5124	Karin@r@vkarin0937."Even though I'll know the right answer, I'll think it's not like me to get it right… so then I'll get it wrong on purpose."
+5125	Karin@r@vkarin0938."…It's always been like that. Since I'm Tamaru Karin, I have to behave like this,"
+5126	Karin@r@vkarin0939."It doesn't matter what I want… I feel like I always have to follow the instruction manual."
+5127	Fuuka@r@vfuuka0891."It's the same for me."
+5128	Fuuka@r@vfuuka0892."So even though we might be seen so differently from the outside by other people,"
+5129	Fuuka@r@vfuuka0893."It might shock them… how alike we are."
+5130	Karin@r@vkarin0940."………"
+5131	Fuuka@r@vfuuka0894."For us… both of us, the selves people expect from us might be called marionettes."
+5132	Karin@r@vkarin0941."If we were to… suddenly cut those marionette strings, they'd all get a good shock~~!!"
+5133	Fuuka@r@vfuuka0895."They'd all definitely be taken aback! Teeheeheehee!"
+
+# 08_intZ01_03_初めての水無イベント時 (after the first Mina event)
+5134	Mina@r@vmina0871."Karin-chaaan, heeeelp, aaaahn…!!"
+5135	Karin@r@vkarin0942.@z150."HOLD IIIIIIT!! YOU BOYS!! ARE YOU BULLYING MINA AGAIN?!"
+5136	Karin@r@vkarin0943."I will never excuse anyone messing with her or making fun of her or anything like that!"
+5137	Karin@r@vkarin0944."This holy sword will smash the foreheads of disgraceful boys who cause trouble for girls!!"
+5138	Karin@r@vkarin0945.@z137."BORN FROM THE HOLY BAMBOO THICKET, THE BAMBOO BLADE!! STRIKE AT EVIL!!!"
+5139	@rSwoosh, pow, smack!!
+5140	@rMina is being teased so Karin comes to save her, using Kamen Kendo's finishing move to knock them around and send them running away.
+5141	@rThe boys even seem to enjoy this part of teasing Mina.
+5142	@rAlthough the target of the teasing can't seem to stand it.
+5143	Mina@r@vmina0872."The boys, the boyys…! Said they were going to capture Mina and remodel her into a monster!"
+5144	Mina@r@vmina0873.@z150."WAAaAAaHN, IT WAS SO SCARYyYYy, WaAaAAHN…!!"
+5145	@rThe boys across from them are imitating Kamen Kendo's enemies, combatants in the Juder Army.
+5146	Karin@r@vkarin0946."Are you okay?! Wherever I hear the voices of those in trouble, I will appear!"
+5147	Mina@r@vmina0874."Ah-ha…! Karin-chan really is depeendable."
+5148	Mina@r@vmina0875."Karin-chan isn't actually a boy, is she? She isn't just a pretty boy who crossdresses, is she?"
+5149	Karin@r@vkarin0947."I'm not, I'm not! No way! Don't grope me there, I don't have one of those!"
+5150	Mina@r@vmina0876."But Mina heard that boys normally shrivel up and shrink down there. Karin-chan's must also be shriveled up and shrunken right now!"
+5151	Karin@r@vkarin0948."Cut it out, I said cut it out! It tickles, ahn, cuut it ouuut~!"
+5152	Doremi@r@vdoremi0876."…I'm starting to get the impression that Mina even enjoys being bullied."
+5153	Fuuka@r@vfuuka0896."I mean, her hero does always come to save her."
+5154	Fuuka@r@vfuuka0897."I think she must get a real thrill out of being kidnapped by evil and put in peril, as part of this whole heroine thing."
+5155	Doremi@r@vdoremi0877."…I get it. The princess getting kidnapped, the heroine finding herself in peril, and that kind of stuff you see on TV, gets her going."
+5156	Fuuka@r@vfuuka0898."D-does it now…? I wonder why. Are you saying she's wired like a princess and this stuff sends her heart all aflutter? Teeheehee…"
+5157	Karin@r@vkarin0949."This isn't a joke! You should appreciate my feelings as a hero who swoops in to save you every time!"
+5158	Mina@r@vmina0877."But, Karin-chan must certainly enjoy doing her finishing move too."
+5159	Mina@r@vmina0878."How's this? I train a whole lot, and I get a whoole lot stronger,"
+5160	Mina@r@vmina0879."and I'll eventually be as strong as Kamen Kendo V3 Storm!"
+5161	Karin@r@vkarin0950."It's V6! This will be on the test."
+5162	Mina@r@vmina0880."When Mina is being bullied by the boys, Mina will fight them off with her Saint Booboo Slash!"
+5163	Karin@r@vkarin0951."It's Saint Bamboo! The next one you get wrong, the test will be over for you!"
+5164	Mina@r@vmina0881."If Mina fights off the boys herself, Karin-chan won't get her turn to come out, will she?!"
+5165	Karin@r@vkarin0952."Nope, but that's not a problem at all!"
+5166	Karin@r@vkarin0953."Because then we'll be like Kamen Kendo Hikaru Tokyo! I'll be like Hikaru, and Mina, you'll be just like Tokyo!!"
+5167	Karin@r@vkarin0954."Say, why don't we do this for real? How about I make a costume for you, Mina?"
+5168	Mina@r@vmina0882."If Mina does cosplay, she would rather be Magical Fashion Star."
+5169	Doremi@r@vdoremi0878."It's not just Karin; Mina has loved the same stuff ever since elementary school, too…"
+5170	Fuuka@r@vfuuka0899."Sometimes I think it's actually rather wonderful, that they never change."
+5171	Doremi@r@vdoremi0879."…And here we were, just thinking they would change as they grew up."
+5172	Doremi@r@vdoremi0880."Unexpectedly… nothing about them changed, but it's not just their bodies that have gotten bigger since elementary school. Their feelings have too."
+5173	Fuuka@r@vfuuka0900_a."When you put it like that. Those two are wonderful, straightforward kids, don't you think?"
+5174	Doremi@r@vdoremi0881."I want those two to stay friends. Always…"
+5175	Mina@r@vmina0883."But that's why Mina reaaaally loves Karin-chan~!!"
+5176	Karin@r@vkarin0955."Then don't grope me there, dammit!! It tickles! I said stop it, aa~hn!!"
+
+# 08_intZ01_04_初めての土麗美イベント時 (after the first Doremi event)
+5177	Doremi@r@vdoremi0882."…Mina. I brought the card you were talking about yesterday…"
+5178	Mina@r@vmina0884."Eh! Doremi-chan really got it?! Yay, Mina really looves Doremi-chan!!"
+5179	Karin@r@vkarin0956."What kinda card?"
+5180	Fuuka@r@vfuuka0901."Look, it's a clothing card from Layers Paradise at the arcade."
+5181	Mina@r@vmina0885."Amazing, amazing, it's so cute! Of course such a super rare outfit would be cute! Let Mina see, let Mina see!"
+5182	Doremi@r@vdoremi0883."…Right. An athletic swimsuit with frills on the groin truly is nice…"
+5183	Mina@r@vmina0886."Nice, very nice! Let Mina see, let Mina see, let Mina see!"
+5184	Doremi@r@vdoremi0884."I'll take it out now. Just a sec…"
+5185	Karin@r@vkarin0957."It's super rare, so it must be worth some crazy dough, right?"
+5186	Mina@r@vmina0887."It is! It's super expensive on Mericar, and it sells out right away."
+5187	Fuuka@r@vfuuka0902."Coming across something that valuable… you're incredible, Doremi."
+5188	Doremi@r@vdoremi0885."I thought about how it would make you happy, Mina, so I tried a lot of different things…"
+5189	Doremi@r@vdoremi0886."At first, I checked on Mericar too, but it was too expensive, so I couldn't get my hands on it…"
+5190	Doremi@r@vdoremi0887."Next, I went to the arcade and played the game myself to get the card, but I didn't get anything super rare."
+5191	Mina@r@vmina0888."Of course not, you pretty much never get those."
+5192	Doremi@r@vdoremi0888."So then, I switched to a Straw Millionaire strategy…"
+5193	Karin@r@vkarin0958."Oh, I think I get it. You traded, right?"
+5194	Doremi@r@vdoremi0889."I thoroughly researched the rarity and prices of lots of different LayPara cards."
+5195	Fuuka@r@vfuuka0903."And with exams going on too… haha."
+5196	Doremi@r@vdoremi0890."And then, I had to get limited edition LayPara event cards for trading, so I went here and there and gathered them up."
+5197	Doremi@r@vdoremi0891."I stood in line in the sweltering heat, giving out candies to gullible men to dry out their throats, and gathered a bunch of super rares by trading water bottles for them…"
+5198	Doremi@r@vdoremi0892."And then, I lurked on trading forums and carefully studied market values and haggling…"
+5199	Doremi@r@vdoremi0893."Furthermore, I posed as an expert and disseminated rumors about the CosBattle parameters for certain super rares being buffed in the next version."
+5200	Mina@r@vmina0889.@z132."EHHHH?! SO THE RUMOR ABOUT THE DANCE BALL SERIES GETTING MORE POWERFUL IN THE NEXT VERSION WAS A HOAX?!"
+5201	Doremi@r@vdoremi0894."So, by manipulating the market, I was able to make trades."
+5202	Doremi@r@vdoremi0895."However, my trade scams made the valuable cards I gathered become worthless…"
+5203	Karin@r@vkarin0959.@z150."WHAT THE HELL!!"
+5204	Doremi@r@vdoremi0896.@z94."However, since I attended events over and over, I got on good terms with the development staff. So by currying their sympathy over the scam incident, I was able to easily get the desired card from them…"
+5205	Fuuka@r@vfuuka0904."That was an unbelieevably roundabout path to take…"
+5206	Karin@r@vkarin0960."You mean, just to get her hands on that one piece of paper, you went to such crazy trouble…"
+5207	Fuuka@r@vfuuka0905."She was able to do it as long as it meant getting her hands on the card that Mina-chan wanted…"
+5208	Doremi@r@vdoremi0897."…Mina, that sweet face of yours right now is just priceless."
+5209	Doremi@r@vdoremi0898."That's what I was able to put in all this effort for."
+5210	Mina@r@vmina0890."Aahn, Doremi-chan, let Mina have the card, let her have iiit~♪"
+5211	Doremi@r@vdoremi0899."…Look, look, here, right here. I'll give you the present if you bark like a doggy when you take it."
+5212	Mina@r@vmina0891."Woof, woof, arf, arf♪ Raw~r, super rare, super rare~♪"
+5213	Karin@r@vkarin0961."Mina's something. I can't believe she can go this far in throwing away her pride."
+5214	Fuuka@r@vfuuka0906."I'm kind of jealous. …To think she put in so much effort, all for Mina-chan."
+5215	Karin@r@vkarin0962."Ever since elementary school, Doremi has always adored Mina like a cat, I guess."
+5216	Doremi@r@vdoremi0900."…Look here, cute little puppy. The super rare card is right here~"
+5217	Mina@r@vmina0892."Woof, woof, woof♪ Raw~~r♪"
+5218	@rWhat Fuuka and Karin see is a heartwarming scene of this pair's relationship blossoming…
+5219	Mina@r@vmina0893."…Huh?! Isn't this a Kamen Kendo card?!"
+5220	Doremi@r@vdoremi0901."………"
+5221	Doremi@r@vdoremi0902."…I did my best, but I ended up losing everything in my trade scam…"
+5222	Doremi@r@vdoremi0903."Sorry for getting you all excited over nothing…"
+5223	Doremi@r@vdoremi0904."It's no substitute, but… this is the one and only card I have left…"
+5224	Mina@r@vmina0894."………"
+5225	Mina@r@vmina0895."Aha, it's fine! Because Doremi-chan's feelings got through!"
+5226	Mina@r@vmina0896."Mina really loves Doremi-chan!"
+
+# 08_intZ02_01_その他（１度目） (et cetera, 1st time)
+5227	Teacher@r@vm_sensei0001."From today on, you will have a new friend here in Mominoki Elementary School's second year class 1: Motoki Sora-kun."
+5228	Sora@r@vm_sora0051."………"
+5229	@rAt a first impression… he seemed somehow like a scary kid, a kid that's difficult to get close to, something like that.
+5230	@rHe didn't show any discomfort or nervousness at all about being a transfer student.
+5231	@rIf anything, I remember getting the impression that he coldly looked down on the 1st and 2nd years, like an upperclassman would.
+5232	Teacher@r@vm_sensei0002."Sora-kun. Go ahead and greet everyone."
+5233	Sora@r@vm_sora0052."………"
+5234	Sora@r@vm_sora0053."I am Motoki Sora. Our time together will be short, but it is nice to meet you all."
+5235	@rHis voice, his words, and the way he talked were all mature.
+5236	@rThere was no mistaking for any of us that he was an upperclassman. At least, that's how it was for me.
+5237	@rThinking back on it now, the way he said our time would be short gave the cold impression that he wouldn't open up to us.
+5238	Teacher@r@vm_sensei0003."Sora-kun will be your friend for only three months, due to his family's job."
+5239	Teacher@r@vm_sensei0004."Everybody get along with him for me, okay?"
+5240	@rEveryone responded with a ‘yes’ in unison.
+5241	@rWhile they still couldn't exchange words with him, his classmates got a sense from him that he would be difficult to approach…
+5242	Karin@r@vkarin0963."Ahh, I remember, I remember! Sora-kun! Man, he was such a cool kid!"
+5243	Mina@r@vmina0897."Mina was… scared of him, at first…"
+5244	Doremi@r@vdoremi0905."…I didn't think I could make friends with him so I figured there was nothing I could do."
+5245	Fuuka@r@vfuuka0907."But thanks to Sora-kun, I was able to appreciate the happiness of always continuing to live in the same place."
+5246	Mina@r@vmina0898."He was just gonna transfer in a few months, so… anyone who thought they could get close to him would soon have to say goodbye again, right?"
+5247	Karin@r@vkarin0964."There were times I couldn't help but think, ‘gosh, he's so cool,’ but…"
+5248	Karin@r@vkarin0965."I guess I didn't have a chance. He wouldn't be able to remember all the names of his classmates as he keeps transferring. Ahahaha."
+5249	Fuuka@r@vfuuka0908."A travelling troupe, huh… I guess it must be tough."
+5250	@rSora-kun's family were known as professional travelling entertainers.
+5251	@rTravelling entertainers tour different lands as a troupe, making their living acting professionally in plays, shows, and the like.
+5252	@rBack in the days before electricity, such people were very popular, the kings of mainstream entertainment.
+5253	@rHowever, their demand went into decline with the advent of TV, so now it seems like they've become a rare thing.
+5254	Karin@r@vkarin0966."Man, I wanted to see Sora-kun doing an action scene at least once."
+5255	Karin@r@vkarin0967."I begged him for that so much, but in the end he never even showed me once."
+5256	Fuuka@r@vfuuka0909."That's because Sora-kun had a strong awareness of himself as a professional. He said he couldn't ever show you that when he wasn't onstage."
+5257	Mina@r@vmina0899."But he had amazing athletic reflexes, didn't he?"
+5258	Fuuka@r@vfuuka0910."I think he said he'd been up onstage since he was one year old."
+5259	Doremi@r@vdoremi0906."…I think I remember that. I'd forgotten about it…"
+5260	Doremi@r@vdoremi0907."Fuuka, you remember it pretty well for something that happened 10 years ago…"
+5261	Fuuka@r@vfuuka0911."I won't forget about it. I mean,"
+5262	Fuuka@r@vfuuka0912."Rather than four good friends, we were five good friends back then. …It's a very precious memory."
+5263	Mina@r@vmina0900."If only he hadn't transferred, we could've always been together. He'd still be here even now, and maybe we'd still be a group of five."
+5264	Doremi@r@vdoremi0908."…A group of five adolescent high schoolers, four of them female and one of them male? …You can see the conflicts coming a mile away."
+5265	Karin@r@vkarin0968."To a 2nd grader, that maturity of his was like, kind of scary! But now in high school, wouldn't it just make him that much hotter?!"
+5266	Mina@r@vmina0901."Yeah. He seems like someone who, as a high schooler… would be juust like a prince!"
+5267	Doremi@r@vdoremi0909."…If only he were here now, maybe Sora-kun would have started going out with Fuuka."
+5268	Fuuka@r@vfuuka0913."Eh…?"
+5269	Mina@r@vmina0902."Ahh, Mina gets that sense too!"
+5270	Karin@r@vkarin0969."I know, right? Thinking about it now, Sora-kun was definitely aware of Fuuka!"
+5271	Mina@r@vmina0903."Right, right, right, Mina thinks so too now."
+5272	Fuuka@r@vfuuka0914."You're misunderstanding…. We only talked a lot as friends. I don't think Sora-kun felt that way about me."
+5273	Doremi@r@vdoremi0910."…Maybe that's how it was in elementary school, but if you went to high school together, I think he'd definitely notice your charms."
+5274	Fuuka@r@vfuuka0915."M… maybe so…"
+5275	Karin@r@vkarin0970."Definitely so! For you, Fuuka, I think I'd even hand over Sora-kun!"
+5276	Mina@r@vmina0904."Sora-kun doesn't belong to Karin-chan, he belonged to everyone."
+5277	Doremi@r@vdoremi0911."…We'd almost forgotten, but you always remembered, huh, Fuuka. …About Sora-kun."
+5278	Fuuka@r@vfuuka0916."Even though we only ever spent 3 months together… I could never forget about it."
+5279	Fuuka@r@vfuuka0917."After all, he was my first love."
+5280	Doremi@r@vdoremi0912."…Heh."
+5281	Mina@r@vmina0905."How is he doing now, I wonder?"
+5282	Karin@r@vkarin0971."He must still be traveling all over the place putting on plays."
+5283	Doremi@r@vdoremi0913."…Fuuka, did you not exchange contact information or anything?"
+5284	Fuuka@r@vfuuka0918."I think we did, but it must have gotten lost… it's the biggest, most regretful mistake of my life. Teeheehee."
+5285	Mina@r@vmina0906."Mina would like to see him again, y'know? Sora-kun."
+5286	Karin@r@vkarin0972."That's right! next time for sure, I'll get him to show me his backflips and fighting and action and stuff!"
+5287	Karin@r@vkarin0973."Well, I kept telling him to show me but in the end I couldn't get him to do it!"
+5288	Doremi@r@vdoremi0914."…It'd be so nice if he'd just come back to this town to put on another performance for us."
+5289	Fuuka@r@vfuuka0919."…Yeah…"
+5290	Fuuka@r@vfuuka0920."I suppose it would!"
+
+# 08_intZ02_02_その他（２度目） (et cetera, 2nd time)
+5291	Karin@r@vkarin0974.@z150."NOW JUMP, SPIN, ATTACK, FLASH!"
+5292	@rHyo, fgyah, kshah, fmeow!
+5293	Mina@r@vmina0907."Whoa, amazing! Kuu-chan is good at this!"
+5294	Doremi@r@vdoremi0915."…I thought he was just a cat, but he's something else alright."
+5295	Fuuka@r@vfuuka0921."Kuu-chan must think he's a human like us."
+5296	Karin@r@vkarin0975."Good job, Kuu-chan! You gonna try it with me next?!"
+5297	@rMmeowmeoww!
+5298	@rKuu-chan responds energetically, impressively standing on his hind legs to imitate Karin.
+5299	@rOur first meeting with the kitten Kuu-chan happened suddenly one day.
+5300	@rIt was on the way home. We had coincidentally noticed a kitten's cry of ‘mew, mew’ coming from this vacant lot.
+5301	@rWell, anyone would have come to take a look but, normally, it would run away if anyone approached.
+5302	@rHowever, somehow, it didn't. And when we gave it leftovers from our lunch, it instead became attached to us.
+5303	Doremi@r@vdoremi0916."…At some point, this place totally became our after school hangout."
+5304	Fuuka@r@vfuuka0922."Well, we don't exactly have the money to stop at the hamburger place on the way home every day."
+5305	Doremi@r@vdoremi0917."…We should work part-time."
+5306	Fuuka@r@vfuuka0923."No way. That'd be such a pain♪"
+5307	Doremi@r@vdoremi0918."Mhm. …No hourly wage is as valuable as having our fill of this warm weather."
+5308	Mina@r@vmina0908."Hey, hey, look, look, Kuu-chan is amazing!!"
+5309	Karin@r@vkarin0976.@z150."LET'S GO, KUU-CHAN! KAMEN KENDO V6 STORM, ON THE SCENE!!"
+5310	@rFmeow! Mmeowmeowmeow, kshah, kshakeen!
+5311	Fuuka@r@vfuuka0924."Incredible! He's completely in sync with you!"
+5312	Karin@r@vkarin0977."Well done, Kuu-chan! Now don't forget your breathing!"
+5313	Mina@r@vmina0909."Here's a reward for Kuu-chan, for doing such a good job!"
+5314	Mina@r@vmina0910."Today, y'see, Mina has some potato fries left over."
+5315	Doremi@r@vdoremi0919."…Fu-fu-fu. Looks like I have some fried chicken left, somehow."
+5316	Fuuka@r@vfuuka0925."Ah, of course Kuu-chan would be drawn more to the meat!"
+5317	Mina@r@vmina0911."That's no good, Kuu-chan! Fried chicken is unhealthy, Mina's food is more healthy!"
+5318	Karin@r@vkarin0978."No no. Fried chicken and fries are pretty similar…"
+5319	Mina@r@vmina0912."How come?! Like, aren't fries made of potato?"
+5320	Mina@r@vmina0913."Isn't a potato a vegetable? It has fiber, and vitamin C, so isn't it healthy?!"
+5321	Karin@r@vkarin0979."N-no no. I mean, aren't fried chicken and fries both fried in oil?"
+5322	Mina@r@vmina0914."That's wrong! Heh heh, Karin-chan doesn't know as much as she thinks!"
+5323	Doremi@r@vdoremi0920."…That's right! Oil may be oil, but aren't animal fat and vegetable oil different?"
+5324	Karin@r@vkarin0980."O-of course! Don't you think vegetable oil is healthier than animal fat?!"
+5325	Doremi@r@vdoremi0921."Ughh… are fries doubly healthy… compared to fried chicken?"
+5326	Fuuka@r@vfuuka0926."…Incredible. Thinking potato fries are diet food."
+5327	Karin@r@vkarin0981."So, which one are you gonna eat, Kuu-chan? Are you gonna go for the powerful fried chicken after all?! Or maybe this is the era of a health food boom?!"
+5328	@r…Mmeow~~~~~.
+5329	@rKshashasha!!
+5330	Fuuka@r@vfuuka0927."Haha… he ate both of them…"
+5331	Karin@r@vkarin0982."Nice work, Kuu-chan, that's it! To walk the path of Kamen Kendo, you gotta be able to eat anything in front of you!"
+5332	@rMmeowmeow! Chew chew chew!
+5333	Doremi@r@vdoremi0922."…Mhm. Looks like today's Kuu-chan gourmet showdown is a tie."
+5334	Mina@r@vmina0915."What does Kuu-chan wanna eat tomorroww?"
+5335	@rMmeoww, fmewmew! Meoww, roll!
+5336	Doremi@r@vdoremi0923."I see, I get it. Looks like you're a power eater."
+5337	Mina@r@vmina0916."That's not it, he said he's a light eater!"
+5338	Fuuka@r@vfuuka0928."I think either way, he'll certainly be able to get some delicious food…"
+5339	Karin@r@vkarin0983."Anyway, I think Kuu-chan's pretty amazing!"
+5340	Karin@r@vkarin0984."He might actually become the world's first cat Kamen Kendo!"
+5341	@rKuu-chan responds with a spirited ‘meow’ that sounds glad.
+5342	Doremi@r@vdoremi0924."…Is Kuu-chan actually Sora-kun?"
+5343	Fuuka@r@vfuuka0929."Eh?"
+5344	Karin@r@vkarin0985."Ahh, actually, I thought of that too! I wonder if he was named after the @bkuu.@<空@> character in @bSora.@<空@>-kun's name, or something."
+5345	Fuuka@r@vfuuka0930."Um… hmmm."
+5346	Fuuka@r@vfuuka0931."So you found me out. Teehee."
+5347	Mina@r@vmina0917."Ehh, it was because of Sora-kun?! Mina never noticed that!"
+5348	Doremi@r@vdoremi0925."In your case, I don't think you'd notice even if he were named Sora."
+5349	Fuuka@r@vfuuka0932."…Ahahaha."
+5350	Fuuka@r@vfuuka0933."See, when we met Kuu-chan, I had a feeling that maybe the fifth member of our group of five good friends became a cat and returned to us…"
+5351	Doremi@r@vdoremi0926."…Hey, don't just kill Sora-kun."
+5352	Karin@r@vkarin0986."I wonder where he is and what he's doing right about now."
+5353	Mina@r@vmina0918."Does he never come back to perfom at a town he's already been to once?"
+5354	Doremi@r@vdoremi0927."I guess if we look it up online, we could find out."
+5355	Fuuka@r@vfuuka0934."It looks like the troupe leader became sick a few years ago, and their activities have been on hiatus ever since then…"
+5356	Mina@r@vmina0919."Eh, that was written online?! Then, can we send Sora-kun an email or something?!"
+5357	Karin@r@vkarin0987."I'll beg him this time! To show me his awesome fights and action scenes!"
+5358	Karin@r@vkarin0988."And then, Kuu-chan, Sora-kun, and I will end up in a three-member battle squadron!!"
+5359	Fuuka@r@vfuuka0935."I've searched for his contact information but… I haven't found anything at all."
+5360	Fuuka@r@vfuuka0936."It looked like the representative's address was dormant too…"
+5361	Doremi@r@vdoremi0928."…I think he must still be active as an actor, even now."
+5362	Doremi@r@vdoremi0929."It's just, ever since then he had a strong professional's attitude. He probably wouldn't do something as stupid as publishing his real name online."
+5363	Karin@r@vkarin0989."Even if we could see him, I think we'd be totally surprised at how much Sora-kun changed since then~"
+5364	Mina@r@vmina0920."Even Mina and her friends have grown and changed a lot since back then, after all!"
+5365	Karin@r@vkarin0990."…What's changed about —you—, Mina?"
+5366	Mina@r@vmina0921."Mina grew a lot!! Wait, no…"
+5367	Mina@r@vmina0922."Mina thinks Sora-kun must've grown like crazy and gotten even cooler. So…!"
+5368	Fuuka@r@vfuuka0937."I suppose you're right. Even if he were to suddenly appear before our eyes one day… we might not even be able to recognize him as Sora-kun."
+5369	Doremi@r@vdoremi0930."I'd like to believe the same would be true if it were the other way around."
+5370	Karin@r@vkarin0991."…Well, I don't think our vibe has changed one bit since elementary school, if ya catch my drift."
+5371	Fuuka@r@vfuuka0938."Ah-hahahahahahahahaha…"
+5372	Mina@r@vmina0923."But, hey, Mina would definitely like to see Sora-kun again."
+5373	Fuuka@r@vfuuka0939."…I suppose seeing him again would be nice."
+5374	Mina@r@vmina0924."We'll definitely see him again. Mina's predictions don't fail!"
+5375	Karin@r@vkarin0992."Hahahaha. I just wonder what form he'll be reunited with us in."
+5376	Mina@r@vmina0925."From Mina's prediction… she thinks it will be a super unexpected reunion."
+5377	Doremi@r@vdoremi0931."…I guess your baseless predictions are often right."
+5378	Fuuka@r@vfuuka0940."Ahahahahaha…"
+5379	Fuuka@r@vfuuka0941."I suppose it'd be nice… if it came true."
+
+# 08_intZ02_03_その他（３度目） (et cetera, 3rd time)
+5380	Karin@r@vkarin0993."We're in the same group, eh? Nice to meetcha, transfer student!"
+5381	Sora@r@vm_sora0054."………"
+5382	Mina@r@vmina0926."It's wrong to just call him ‘transfer student.’"
+5383	Doremi@r@vdoremi0932."…I feel the same. Karin, call him by his name."
+5384	Fuuka@r@vfuuka0942."Well it's Karin, so won't she just end up forgetting it?"
+5385	Karin@r@vkarin0994."…Eh? Ah… I wouldn't, like… forget… hahahaha…"
+5386	Mina@r@vmina0927."Ahh, she's looking at the name tag! Cover it, cover it!"
+5387	@rWhen they realized Karin was trying to look at the name tag, everyone tried one by one to hide it from her.
+5388	@rHe —of course— would have no experience with a bunch of girls clinging to him playfully.
+5389	@rI think Sora-kun was earnestly hiding his blush. Even remembering it now, it's amusing.
+5390	Sora@r@vm_sora0055."It's Motoki. …Not that you need to remember it or anything. I mean, I'm just gonna transfer again anyway."
+5391	Mina@r@vmina0928."Um, hey! Mina is called Yuasa Mina! Call her Mina, okay?"
+5392	Fuuka@r@vfuuka0943."I'm Gojou Fuuka. It's fine if you just call me Fuuka too!"
+5393	Doremi@r@vdoremi0933."Hanabusa Doremi. Just call me Doremi too."
+5394	Karin@r@vkarin0995."And I'm Tamaru Karin! Just calling me Karin is fine with me!"
+5395	Karin@r@vkarin0996."I'm really into Kamen Kendo! Are you into that too, Sora-kun?!"
+5396	Doremi@r@vdoremi0934."…A boy would probably be more into Kidou Tenshi Gudanm, anyway."
+5397	Fuuka@r@vfuuka0944."Do you watch TV or anything, Sora-kun?"
+5398	Mina@r@vmina0929."Mina, y'see, watches Magical Fashion Star: Layers Five!"
+5399	Sora@r@vm_sora0056."…Uh, ah… um…"
+5400	@rIt was pretty cute how Sora-kun, with his cool and mature vibe, got confused when we swept him along in our excitement.
+5401	@rSora-kun's parents are actors. Because of that, they hold a performance in some area or other for a few months, and then they move on to the next area, and they keep on living like that.
+5402	@rAnd because of that, from preschool to elementary school, Sora-kun never stayed in the same place for more than 3 months.
+5403	@rWith his lifestyle, no matter what good friends he might have made, he'd always have to part ways with them.
+5404	@rSo he definitely closed his heart, there's no doubt.
+5405	@rSimply put, it was the kind of timidness a boy would have.
+5406	@rHe didn't want to get close to someone and then feel the pain of having to separate from them. This was very sweet of him.
+5407	@rEven though if, say, he were a girl, and if he was going to spend a day with someone he wouldn't be able to meet again, I absolutely think he'd want to get along with them.
+5408	@rWhen I talked about that, Sora-kun listened to me with incredibly great interest, I remember.
+5409	@rThinking back on it, I think that Sora-kun was quite mature for his age.
+5410	@rEven though he was only a 2nd grader, he had an interest in the differences between how men and women think, which he wouldn't have much of a concept of if he were a regular boy.
+5411	Doremi@r@vdoremi0935."…Thinking back on it now,"
+5412	Doremi@r@vdoremi0936."I think Sora-kun had androgynous qualities…"
+5413	Fuuka@r@vfuuka0945."I get what you mean. …He couldn't fit in with the boys acting like idiots but, even still, it's not like he was a girl."
+5414	Karin@r@vkarin0997."…I suppose maybe it was because he had to grow up quickly for the sake of his family's work."
+5415	Mina@r@vmina0930."Maybe that's why he could play with Mina and her friends without worrying about the sex differences, even though he was a boy."
+5416	Doremi@r@vdoremi0937."Weell, it's kinda like how Karin can be around boys with no inhibitions even though she's a girl."
+5417	Karin@r@vkarin0998."Between fellow Kamen Kendo lovers, your gender doesn't matter!"
+5418	Fuuka@r@vfuuka0946."One time only, I saw Sora-kun play a female role. …He didn't look like a boy at all."
+5419	Karin@r@vkarin0999."But he's really damn cool when he plays a boy! Whichever he acts as, he's so damn awesome!"
+5420	Doremi@r@vdoremi0938."…I've heard that in the field of entertainment and the arts, it's very important to have the sensibilities of both men and women."
+5421	Mina@r@vmina0931."If that's what it means, he sure was a studious person, wasn't he?"
+5422	Fuuka@r@vfuuka0947."…He asked me quite a few things, like ‘why do girls think like this at times like this? Why do they do things like this?’"
+5423	Karin@r@vkarin1000."I heard that stuff from him too! ‘Why are boys idiots? Why are they morons? Why do they always fight?’ Stuff like that!"
+5424	Doremi@r@vdoremi0939."And then when Sora-kun would feel the same as us, it was funny."
+5425	@rSora-kun seemed to have a very harsh opinion of his own sex.
+5426	@rMen are just animals, after all.
+5427	@rWho's on top, who's at the bottom? They're creatures who always instinctually size each other up like that.
+5428	@rThat's why, wherever he transfers to, the boys in his new class always make an estimate of his value.
+5429	@r…Is this transfer student above me, or below me?
+5430	@rI don't want to be seen as below him… but since he might be way above me, I can't do anything careless…
+5431	@rSora-kun was fed up with the boys' squabbles that would happen whenever he transferred to a new school.
+5432	@rBy contrast… the world of girls appeared far more ideal to him than that of boys.
+5433	Karin@r@vkarin1001."Hahahaha. I guess the grass is always greener on the other side, or however it goes."
+5434	Doremi@r@vdoremi0940."…Girls are more of a pain than Sora-kun thinks."
+5435	Mina@r@vmina0932."Girls will conceal their feelings about what they love or hate or whatever, and then just pretend to be intimate with each other."
+5436	Fuuka@r@vfuuka0948."I suppose Sora-kun may have idealized the world of girls a little too much."
+5437	Doremi@r@vdoremi0941."Seems like it. …I feel like I heard him say before that he would have wanted to be born as a girl."
+5438	Karin@r@vkarin1002."For me, being a girl is a pain, so I'll pass on it in the next life."
+5439	Mina@r@vmina0933."Mina wants to be reborn as a cat, not a human."
+5440	Doremi@r@vdoremi0942."…Even though you're already pretty much like a cat on the inside?"
+5441	Fuuka@r@vfuuka0949."Her grades lately are too, don't you think?"
+5442	Mina@r@vmina0934.@z150."FUUKA-CHAN IS A MEANIE! YOU'RE DARK FUUKA!"
+5443	Karin@r@vkarin1003."Ah-hahahaha. For real, I guess the grass is always greener."
+5444	Karin@r@vkarin1004."To us, the world of boys looks refreshingly simple, easy to understand, and carefree."
+5445	Fuuka@r@vfuuka0950."So, to Sora-kun, the world of girls must have looked like a flowery world that overflowed with friendship and compassion, I suppose."
+5446	Doremi@r@vdoremi0943."…Is Sora-kun in high school too now?"
+5447	Karin@r@vkarin1005."He must have got a girlfriend or something."
+5448	Mina@r@vmina0935."Of course. He wouldn't still be yearning for the world of girls, would he?"
+5449	Doremi@r@vdoremi0944."Like, if a boy gets a girlfriend even once, whatever weird delusions he has about it will be dispelled."
+5450	Karin@r@vkarin1006."Hahahahahaha. Back then he must've, like, at least noticed my easygoing charm!"
+5451	Fuuka@r@vfuuka0951."…I guess Sora-kun was a special person after all."
+5452	Fuuka@r@vfuuka0952."Although we were only together for just three months… he's remained in our hearts this much."
+5453	Doremi@r@vdoremi0945."…I totally forgot about him until his name came up again lately."
+5454	Fuuka@r@vfuuka0953."Uwah, and you were so close too! You're cruel, Doremi."
+5455	Mina@r@vmina0936."Fuuka-chan really, really loved Sora-kun with all her heart, didn't she?"
+5456	Karin@r@vkarin1007."Don't think that wholeheartedness beats my love for Kamen Kendo!"
+5457	Karin@r@vkarin1008."If you can reunite with Sora-kun sometime, Fuuka, you should confess right away!"
+5458	Fuuka@r@vfuuka0954."Don't mock me. …Idiot."
+
+# 08_intZ02_04_その他（４度目） (et cetera, 4th time)
+5459	@rThere is a cage with a boy inside, hanging in an eerie locked room.
+5460	@rThe boy seems to have fainted but he's regaining consciousness…
+5461	Boy@r@vm_shou0035."………"
+5462	Boy@r@vm_shou0036."………"
+5463	@rThe boy looks around languidly at his surroundings.
+5464	@rHis expression is blank.
+5465	@rThere's no understanding to be seen in him, of the situation he's found himself in…
+5466	Voice@r@vm_koe0160."You've opened your eyes, have you?"
+5467	Boy@r@vm_shou0037."………"
+5468	@rThe boy shows a slight reaction to this mysterious voice coming from somewhere.
+5469	@rBut, there's no emotion in his expression…
+5470	Voice@r@vm_koe0161."With that, let us begin your trial."
+5471	Boy@r@vm_shou0038."………"
+5472	Voice@r@vm_koe0162."There is nothing to be afraid of. There is nothing difficult."
+5473	Voice@r@vm_koe0163."From this point on, four girls will come into this room, and they will be given a trial as well."
+5474	Voice@r@vm_koe0164."Your trial is only to see their story unfold, with your own eyes, all of it, leaving nothing out."
+5475	Boy@r@vm_shou0039."………"
+5476	Voice@r@vm_koe0165."At the end of your trial, either of only two things will happen."
+5477	Voice@r@vm_koe0166."The first will be when you yield to this trial."
+5478	Voice@r@vm_koe0167."The other will be when you find a particular answer."
+5479	@rThe boy does not behave as if he understands the things being spoken.
+5480	@r…However, he seems to understand that something very important has been said to him.
+5481	@rInside the hanging cage, the boy quietly cowers, waiting for his own trial to begin…
+5482	Fuuka@r@vfuuka0955."…Hey, you there… are you okay…?!"
+5483	Mina@r@vmina0937."I-it's moving, it's alive…!"
+5484	Doremi@r@vdoremi0946."…This kid's cage… has no entrance or exit…"
+5485	Karin@r@vkarin1009."I-it's true…. But then, like, how'd he get in there?!"
+5486	Boy@r@vm_shou0040."………"
+5487	@rThe girls try to communicate with the boy in the cage, but he shows no reaction.
+5488	Karin@r@vkarin1010."If this were that kind of movie, this kid's position would actually be final boss, am I right?"
+5489	Mina@r@vmina0938."Noo, don't say things like thaat, Mina's scaaared…"
+5490	Doremi@r@vdoremi0947."…Karin's lips seem to have finally loosened…"
+5491	Fuuka@r@vfuuka0956."Hey… little boy."
+5492	Boy@r@vm_shou0041."………"
+5493	Fuuka@r@vfuuka0957."Are you, by chance… Sora-kun…?"
+5494	Karin@r@vkarin1011."Eh?"
+5495	Fuuka@r@vfuuka0958."This kid… is Motoki… Sora-kun… isn't he…?"
+5496	Doremi@r@vdoremi0948."Motoki Sora… like that transfer student that was only around for a little while back in elementary school?"
+5497	Mina@r@vmina0939."It… it does kinda… l-look like him…?"
+5498	Karin@r@vkarin1012."…No, no… that can't be."
+5499	Karin@r@vkarin1013."He has a kinda dark vibe that reminds me of him, but the face and physique and stuff are totally different."
+5500	Doremi@r@vdoremi0949."That's not all. His age is clearly wrong, too."
+5501	Doremi@r@vdoremi0950."However you look at this kid, he's about the age to start elementary school. I don't feel any of Sora-kun's maturity from him."
+5502	Mina@r@vmina0940."Could he be… Sora-kun's child… or something?"
+5503	Fuuka@r@vfuuka0959."That's not possible."
+5504	Doremi@r@vdoremi0951."How can you be so certain?"
+5505	Fuuka@r@vfuuka0960."Because it's just not possible."
+5506	Karin@r@vkarin1014."Well, that makes sense… Sora-kun is around our age."
+5507	Karin@r@vkarin1015."If this kid is about five or six, he'd have to have become a dad already in middle school."
+5508	Mina@r@vmina0941."That would definitely be a little strange…"
+5509	Doremi@r@vdoremi0952."Then, maybe he's Sora-kun's little brother who's several years younger, or something…?"
+5510	Fuuka@r@vfuuka0961."I've never heard of anyone like that."
+5511	Fuuka@r@vfuuka0962."………"
+5512	Fuuka@r@vfuuka0963."Sorry. There's just no way it could be Sora-kun. …I'm just a little shaken by these extreme circumstances."
+5513	Karin@r@vkarin1016."But, like… don't you think that… you might, unexpectedly, actually be onto something here…?"
+5514	Fuuka@r@vfuuka0964."What do you mean?"
+5515	Karin@r@vkarin1017."I mean, isn't Sora-kun from a family of traveling entertainers? In other words, he's like a celebrity."
+5516	Mina@r@vmina0942."That's it! Maybe after he transferred, he got really big?!"
+5517	Doremi@r@vdoremi0953."…I heard on TV that if you have a passionate sponsor behind the scenes, wads of money fly around like crazy."
+5518	Fuuka@r@vfuuka0965."What do you mean? So in other words, you're saying all of this was devised by Sora-kun?"
+5519	Karin@r@vkarin1018."So, like, Sora-kun got big at some point, and we didn't hear about it! And then, it's like, he set up a prank like this to totally shock us, his old friends!"
+5520	Mina@r@vmina0943."If Mina thinks of it like that, it makes sense for her! Everything about it feels like a movie set!"
+5521	Karin@r@vkarin1019."Then, like, there've gotta be cameras hidden around! Just like on a variety show!"
+5522	Mina@r@vmina0944."Yaaay, it's Yuasa Mina, is everyone watching~?"
+5523	Fuuka@r@vfuuka0966."Sora-kun did this? There's just no way."
+5524	Doremi@r@vdoremi0954."I feel the same. Isn't this situation way too forceful to be explained as just a setpiece?"
+5525	Doremi@r@vdoremi0955."Everyone's scared. …Don't make a mockery of this… or your hearts will be crushed flat."
+5526	@rKarin and Mina face the nonexistent cameras and strike courageous poses.
+5527	@rHowever they might deceive themselves, the unease overflows from every part of them…
+5528	Boy@r@vm_shou0042."………"
+
+# 08_intZ02_05_その他（５度目） (et cetera, 5th time)
+5529	Mina@r@vmina0945."Kuu-chan, Kuu-chan! Come out!"
+5530	Fuuka@r@vfuuka0967."Kuu-chan is always waiting for us here, isn't he?"
+5531	Doremi@r@vdoremi0956."A cat's territory shouldn't be that small. But still, we're always able to meet him here. I guess you're right."
+5532	Karin@r@vkarin1020."Man, he's gotten so attached to us too."
+5533	Mina@r@vmina0946."It seemed he hated the children from yesterday… Mina felt kind of bad for him."
+5534	Doremi@r@vdoremi0957."…Indeeed. I guess elementary schoolers would keep bothering him like, ‘so cute, so cute.’ Maybe that made him scared."
+5535	Fuuka@r@vfuuka0968."You think so? Even though they maintained their manners and were only petting him gently…?"
+5536	Karin@r@vkarin1021."I guess Kuu-chan's the kinda cat you can't underestimate, eh?"
+5537	Karin@r@vkarin1022."I bet he's a pervy cat who'd rather hang out with high school girls than with elementary school boys."
+5538	Doremi@r@vdoremi0958."Yeah. He sure has some cat balls. I wanna feel those."
+5539	Mina@r@vmina0947."Kyah! Eh? …Kuu-chan, don't climb on top of Mina's head!"
+5540	Fuuka@r@vfuuka0969."It seems he ran away. …He must have sensed his cat balls were in danger."
+5541	Mina@r@vmina0948."Jeez! Karin-chan and Doremi-chan, stop it. Kuu-chan is getting embarrassed!"
+5542	Karin@r@vkarin1023."Do cats get embarrassed when someone sees their cat balls?"
+5543	Doremi@r@vdoremi0959."Hmm. …If he's embarrassed, I guess Kuu-chan just needs some clothes."
+5544	Fuuka@r@vfuuka0970."Clothes! Hey, good idea! That would be cute for sure!"
+5545	Fuuka@r@vfuuka0971."If we had some cute clothes and a hat for cats, would Kuu-chan try wearing them?"
+5546	Mina@r@vmina0949."Waah! Is he that happy? Will he try wearing them? Will he try wearing them?!"
+5547	Karin@r@vkarin1024."That's it, that must be it! Then, let's look for some clothes that fit Kuu-chan!"
+5548	Karin@r@vkarin1025."There wouldn't be some Kamen Kendo costume for cats on display or anything, would there?! Let's have a look!"
+5549	Doremi@r@vdoremi0960."No, no. A cute, fluffy cat dress like a doll's would be good."
+5550	Fuuka@r@vfuuka0972."Hm? But, Kuu-chan is a boy, so wouldn't it be better to get him something cool?"
+5551	Mina@r@vmina0950."What does Kuu-chan think? Something cute or something cool, which one would be better?"
+5552	Mina@r@vmina0951."Kuu-chan says he wants to wear… both of them!"
+5553	Doremi@r@vdoremi0961."It may be sudden, but take a look at these pictures. What do you think of this outfit? It's fluffy and full of imagination!"
+5554	Fuuka@r@vfuuka0973."Look at mine too! How about these clothes? Do you think you'll like them, Kuu-chan?"
+5555	Karin@r@vkarin1026."It seems like he wants to wear them all!"
+5556	@rThe girls don't doubt that they can communicate their intentions to Kuu-chan.
+5557	@rIt must be the same for Kuu-chan as well.
+5558	@rMaybe while he was playing with everyone like this, Kuu-chan became convinced he's a human himself.
+5559	@rSo maybe when he saw the girls wearing clothes, he felt like he wanted to wear clothes himself.
+5560	@rMaybe he even thinks that since they're all girls, he'd like to try wearing cute clothes like a girl.
+5561	@rThe girls' fun time together with the cat passes in the blink of an eye…
+5562	@rAlthough he has become so attached to them, Kuu-chan has never been the kind of cat that's friendly with people.
+5563	@rYesterday, when they were playing with Kuu-chan in the vacant lot, a number of elementary school boys noticed him and dashed over.
+5564	@rDid the sound of them running scare him?
+5565	@rOr maybe he was never a very sociable cat to begin with, and the girls are the only exception?
+5566	@rEven though all the boys did was reach out their hands to gently pet him… he threatened them with a growl they've never heard from him before.
+5567	@rTo the girls, who are so close to Kuu-chan as if he's their family, this was a little shocking.
+5568	@rKuu-chan is not the kind of cat who is friendly to just anyone.
+5569	@rHe's attached to the girls, but they are the only exception. He's otherwise a solitary cat.
+5570	@rIt seems like even though he's so sweet when they play together, that isn't how he normally is.
+5571	@rAccording to people in the neighborhood, even if you give him treats, he won't approach you, and he won't show you his sociable side.
+5572	@rIt's to be expected of a stray cat surviving in a harsh environment, so it's not worth being shocked over.
+5573	@rRather, people in the neighborhood are shocked that he's gotten so attached to these girls only…
+5574	Fuuka@r@vfuuka0974."You see, I… think that maybe Kuu-chan is a copy of Sora-kun's soul, or something."
+5575	Mina@r@vmina0952."Copy of his soul, what does that mean…?"
+5576	Fuuka@r@vfuuka0975."I think Sora-kun wouldn't have wanted to move away if he didn't have to."
+5577	Fuuka@r@vfuuka0976."So it's like, maybe those feelings split away from his soul… and took the form of a cat."
+5578	Karin@r@vkarin1027."Here they are. Fuuka's fantastical delusions."
+5579	Doremi@r@vdoremi0962."Seems like it. But I don't mind."
+5580	Karin@r@vkarin1028."Same here. I don't mind."
+5581	Mina@r@vmina0953."Being able to touch Kuu-chan like this… it would be nice if this feeling could be conveyed across the sky to Sora-kun, doing well somewhere…"
+5582	Fuuka@r@vfuuka0977."It's being conveyed. I'm certain of it."
+5583	Doremi@r@vdoremi0963."…Fuuka, you sometimes talk about Sora-kun in a way that seems unusually profound, don't you?"
+5584	Mina@r@vmina0954."Yeah, yeah, Mina noticed that too! She feels like Fuuka is the only one who still has a connection to Sora-kun."
+5585	Karin@r@vkarin1029."I've also secretly kinda thought Fuuka's connection to Sora-kun still hasn't been broken, even now, y'know?"
+5586	Mina@r@vmina0955."Right, right! Actually, I heard that when he moved away, she got Sora-kun's phone number!"
+5587	Karin@r@vkarin1030."It's totally like she's still trading texts with him night after night, even now!"
+5588	Fuuka@r@vfuuka0978."I-I'm not doing anything like that, I'm not! Jeez!"
+5589	Doremi@r@vdoremi0964."Are you really not? You're not hiding a secret long-running long-distance relationship with Sora-kun from us?"
+5590	Fuuka@r@vfuuka0979."I'm not, I'm not, I told you I'm not…!"
+5591	Karin@r@vkarin1031."Denying it like that and getting so flushed just makes you seem more suspicious!"
+5592	Mina@r@vmina0956."Let's check Fuuka-chan's contacts list in her smartphone! Sora-kun's contact info is definitely in there!"
+5593	Fuuka@r@vfuuka0980."I'm not showing you, I'm not showing you! Don't invade my privacy~♪"
+
+# 08_intZ02_06_その他（６度目） (et cetera, 6th time)
+5594	Karin@r@vkarin1032.@z150."UWAAaAAAAAAAAAAAAAH?!?!"
+5595	Fuuka@r@vfuuka0981.@z150."KUU-CHAN!! KUU-CHAAAAN!!!"
+5596	@rHearing the girls' shrieks, the residents of the neighborhood take a look to see what's going on…
+5597	Mina@r@vmina0957."C-can we get an ambulance?! It's 119, right?! Will they allow cats?!"
+5598	Doremi@r@vdoremi0965."There must be an animal ambulance or something…! I-I'll try calling one!"
+5599	Fuuka@r@vfuuka0982."Kuu-chan, hang on!! Kuu-chan, hang on!!"
+5600	Karin@r@vkarin1033."What's with this car?! How come it's still running with no one in it?!"
+5601	@rKarin is losing herself in her anger, repeatedly kicking the tire on the unmanned car that has crashed into the concrete-block wall.
+5602	@rThe unmanned car, whose parking brake was forgotten about, had slowly picked up speed as it rolled towards them, down a gentle hill.
+5603	@rIf only it had crashed into a side wall somewhere, it wouldn't have come all the way here…
+5604	Fuuka@r@vfuuka0983."This person says he'll take him to the nearby veterinary clinic in his car!"
+5605	Mina@r@vmina0958.@z150."THANK YOU SO MUCH, AAaAaAHN…!!!"
+5606	@rOne of the people gathered at the commotion got out his car.
+5607	@rEven in the car, everyone is shouting at Kuu-chan, but he has gone limp and lost consciousness.
+5608	@rBut, from holding his paw, they can still feel a soft, quick pulse that tries its best to keep him alive, as well as a faint warmth…
+5609	@rAfter 15 minutes that felt like an eternity, they finally arrive at a proper veterinary clinic.
+5610	@rLuckily, the devoted head doctor, who loves animals, saves all the difficult talk for later, and quickly takes him in.
+5611	@r…From that point on, no visitors are allowed.
+5612	@rAll they can do is believe in the doctor… and wait like this in the waiting room, their heads down…
+5613	Mina@r@vmina0959."…Kuu-chan will be okay, right? He'll be okay, right…?!"
+5614	Karin@r@vkarin1034."Th-there was no blood or anything…! It's gotta be a concussion or whatever, you know?! Maybe when he opens his eyes it'll be like nothing happened…?!"
+5615	Doremi@r@vdoremi0966."He flew… like a football…"
+5616	Fuuka@r@vfuuka0984."…And to think Kuu-chan was… trying to tell us about the danger we were in…!"
+5617	Mina@r@vmina0960."Can a car… really be that quiet…?!"
+5618	Mina@r@vmina0961."Mina had… no idea at all…!! She didn't notice…!!"
+5619	Doremi@r@vdoremi0967."A car with its parking brake disengaged, rolling down a hill without a sound… doesn't exactly seem like something that can't happen."
+5620	Karin@r@vkarin1035."We were just… having fun and playing around…!"
+5621	Karin@r@vkarin1036."But Kuu-chan… noticed something dangerous was approaching from behind us… and tried so hard to tell us…"
+5622	@rThey were going for a walk with Kuu-chan near the vacant lot.
+5623	@rIt's a tranquil alley no one uses except the residents in the area.
+5624	@rOnly the occasional bicycle came by… so they thought it was a safe road…
+5625	@rIn the middle of that pleasant walk, in an alley that made them let their guard down… Kuu-chan abruptly started playfully grabbing at them.
+5626	@r…Thinking back on it now, it was way too abrupt… it didn't feel at all like they were being playfully grabbed.
+5627	@rAnd the girls were just boasting about how close they normally were with Kuu-chan…
+5628	@r…But they didn't notice he was trying to tell them they were in danger…
+5629	@rThe girls were led away by Kuu-chan and they only had their shoulders grazed by the car.
+5630	@rHowever… at the same time, he himself was violently struck by the car's bumper and sent flying… he flew like a football for a few meters, and then tumbled…
+5631	Doremi@r@vdoremi0968."Ah… doctor!"
+5632	@rThe veterinarian came out of the examination room, quite a bit faster than the girls expected him to.
+5633	@r…Without a judgement on whether it would be good news, or the opposite of that… they braced themselves for the worst case scenario.
+5634	Mina@r@vmina0962."Doctor! How is Kuu-chan's condition?! Is he going to get better?!"
+5635	@rAs the doctor explains… luckily, he doesn't seem to have broken any bones or anything like that.
+5636	@rNo bleeding can be detected, but the damage to his internal organs and such will take some observation before a judgement can be made.
+5637	@rHis failure to regain consciousness may be a temporary symptom of his concussion.
+5638	@rHowever, as brain damage can, in some cases, take several hours before any severe symptoms appear, the circumstances do not allow for an exact prediction to be made today.
+5639	@rWhich means… that all they can do is keep him warm, let him rest, and pray for his safety.
+5640	Karin@r@vkarin1037."What about medicine or surgery! Is there nothing that can be done for him…?!"
+5641	Fuuka@r@vfuuka0985."…Don't be unreasonable. The doctor is doing the best he can for us…"
+5642	Doremi@r@vdoremi0969."That may be so…. We have to decide on an adult guardian for him."
+5643	Mina@r@vmina0963."N… not Mina's house… mom hates pets, so…"
+5644	@rHe was carried in as a stray cat, without any owner… but that won't do.
+5645	@rThey were told to decide on an owner, even if just a temporary one, as well as on an adult who will be responsible.
+5646	@rPut simply, they have to clarify who is going to be paying the fees for treatment and hospitalization.
+5647	@r…Truthfully, as long as this isn't cleared up, he can't be accepted as a patient.
+5648	@rThe veterinarian has only been saving this matter for later out of good will…
+5649	Doremi@r@vdoremi0970."…Unlike humans, insurance doesn't apply to pets."
+5650	Doremi@r@vdoremi0971."My family struggles with its finances every month. …I really can't go to them…"
+5651	Fuuka@r@vfuuka0986."At my house, my dad is still carrying around the sadness from losing an old pet…. There's no way he'd keep another animal…"
+5652	Karin@r@vkarin1038."It's not like he'd be keeping him! We'd only be temporarily borrowing his name!"
+5653	Fuuka@r@vfuuka0987."In that case, you go to your parents, Karin! They've said they wanted to keep a pet, haven't they?!"
+5654	Karin@r@vkarin1039."That's not it, they were talking about tropical fish, you know?! If I mentioned a cat, I'd just get yelled at…!"
+5655	Doremi@r@vdoremi0972."…Isn't your household wealthy, Mina?"
+5656	Mina@r@vmina0964."M-maybe her family is, but Mina isn't wealthy…"
+5657	@r…The topic of whose family should be Kuu-chan's owners has already come up countless times between the girls, and eventually it became a taboo subject.
+5658	@rAnyone would want to keep a pet if there were only the times when they can adore it and play with it.
+5659	@rBut… there's also cleaning up waste, and feeding it. If one considers the financial responsiblities, it starts to seem less like such a pretty thing.
+5660	@rEach of them may love him as much as the other, but when it comes to who's actually going to keep him, they'll just try to push it onto one another…
+5661	@rEventually, this subject became nasty, so it became the one taboo thing to talk about related to Kuu-chan.
+5662	@rHowever, they've finally gotten to a point where they need to come to a clear decision on this…
+5663	Fuuka@r@vfuuka0988."…Anyway, if everybody pools their money together…"
+5664	Karin@r@vkarin1040."My savings box right now is totally empty, so I'd need to borrow some…"
+5665	Doremi@r@vdoremi0973."There is no money lending or borrowing between us. We've agreed on that promise since a long time ago."
+5666	Mina@r@vmina0965."At Mina's house, she has to say what she used her allowance on…"
+5667	Mina@r@vmina0966."If she said she spent it on treatment fees for a stray cat, there's no way she wouldn't get scolded…!"
+5668	Karin@r@vkarin1041.@z150."KUU-CHAN'S NOT A STRAY CAT! HE'S OUR FRIEND!"
+5669	Doremi@r@vdoremi0974."You're the one who says she wants to keep him if she can, Fuuka."
+5670	Fuuka@r@vfuuka0989."That was quite some time ago…! Back then, I didn't know what had happened to my dad…"
+5671	Fuuka@r@vfuuka0990."Mina-chan, you're the one who said before that you wanted to keep him! It isn't fair to push this onto me now!"
+5672	Mina@r@vmina0967."The rules at home are strict, Mina is always saying so! Why won't Fuuka-chan understand!!"
+5673	Doremi@r@vdoremi0975."You don't have the excuse of not having any allowance. So, Karin, the issue is how you will convince your parents."
+5674	Karin@r@vkarin1042."I said I'd repay it, didn't I?! This has nothing to do with my household, dammit!!"
+5675	Karin@r@vkarin1043."Anyway, isn't the owner of that car the one at fault? All we have to do is seize the treatment fees from that bastard, right?!"
+5676	Fuuka@r@vfuuka0991."Who's going to seize it, and how, and when?! The people in this clinic don't know anything about that, right?!"
+5677	Doremi@r@vdoremi0976."It's because you weren't paying attention that Kuu-chan was dragged into this in the first place!"
+5678	Mina@r@vmina0968."Doremi-chan always says she understands Kuu-chan's words, but she doesn't understand them at all!!"
+5679	@rUntil a nurse came out to warn them, the girls kept escalating their hostile argument.
+5680	@r…Their voices reached Kuu-chan's ears in the treatment room.
+5681	@rThe numbers displayed on the medical equipment… now indicate that with all his efforts, he's firmly on the boundary between life and death.
+5682	@r…However… that firm stance is, little by little… being dragged toward the side opposite from life…
+5683	@rThe veterinarian, standing by his side, folds his arms and hangs his head with a downcast look…
+5684	@rHaving watched over many small lives departing, he understands this… he's given up…
+5685	@rOn that boundary between life and death, the voices of the beloved girls can be heard trading insults.
+5686	@rAnd that has brought Kuu-chan deep sadness.
+5687	@rSeeing the girls' cruelty is unpleasant and sad… or maybe not.
+5688	@r…It's the sadness of feeling responsible for inviting this sad situation, as the cause of it.
+5689	@rWhat if they had noticed the car sooner?
+5690	@rWhat if the girls had tried harder to notice the car?
+5691	@r…All of that is wrong.
+5692	@rWhat torments him… is that he had to meet them in the first place…
+5693	Me@r@vm_boku0047.——I thought being together with everyone was fun.
+5694	@rI had fun, everyone had fun.
+5695	@rSo, even when I have to part ways with them, I thought I would be able to leave behind only those feelings of having fun.
+5696	@r…I am well aware of how fleeting my own life was, being born as a stray cat.
+5697	@rI could have been attacked by a large animal, or maybe contracted a disease… or sent flying by a car.
+5698	@rI've seen cats die so many times, myself.
+5699	@rIt's always abrupt when it happens, so it wasn't even strange when death finally came for me.
+5700	@rSince I've always been aware of this ever since I was born… I've never been afraid of death.
+5701	@rBut that's exactly why, when death does come for me, I won't have any regrets. …I'll make sure I do everything genuinely and to the fullest.
+5702	@rFrom the time I was born, I've always thought this, and lived accordingly.
+5703	@rSo my own death is neither scary nor sad.
+5704	@rI was able to meet those girls. …Being together with these girls was fun. I wanna have fun together with them forever!
+5705	@rI've kept myself alive filled with these genuine feelings.
+5706	@rIt's too bad my fun time with everyone has to end, but… since I was able to spend that time having fun without any regrets… I'm satisfied.
+5707	@r…Or… I should have been.
+5708	@rNow, however… the girls are trading insults with each other in the hallway.
+5709	@rI don't understand the words of people but… I can imagine they're hurting each other with those insults, and hurting themselves too.
+5710	@rNone of the girls becomes happy, and the tragedy of them wringing each other's necks continues indefinitely…
+5711	@r…Do I make everyone I love so much feel this way? Is that the reason I meet them…?
+5712	@rI don't want that. I hoped I could part ways with everyone feeling like we had fun.
+5713	@rI want to part ways with everyone leaving them feeling like they had fun.
+5714	@rIn spite of that, because they had to meet me… everyone I love so much had to get hurt…
+5715	@r…I'm sure… this manner of parting ways is no good.
+5716	@rDying this way isn't rare or anything, for a stray cat.
+5717	@rBut… even though they had a fun time unlike any other, our parting has to be like this…
+5718	@rI refuse to think meeting them was a mistake.
+5719	@rBut that's why… I must part ways with them in such a way that they can be happy.
+5720	@r…I mean.
+5721	@rMy cat intuition… kept giving me an extremely bad feeling about this day.
+5722	@rBut my time playing with everyone was so fun, it was so fun, that I pretended not to notice…
+5723	@rIf only I had believed in my premonition that maybe today would be the day we part ways… and casually said goodbye…
+5724	@rEveryone would definitely have kept feeling the happiness of having played with me.
+5725	@rEveryone would have forgotten about me little by little… and kept living their lives normally…
+5726	@rI can't stand knowing that I've brought everyone misery… by leaving them my own death as a parting gift.
+5727	@rI can't stand it…
+5728	@rEven still… once again, I'll…
+
+# 08_intZ02_07_その他（７度目） (et cetera, 7th time)
+5729	Fuuka@r@vfuuka0992."Sora-kun, I suppose today marks your last day of school."
+5730	Sora@r@vm_sora0057."…Was it today?"
+5731	Sora@r@vm_sora0058."Transferring is a constant thing, so I didn't pay it any mind."
+5732	@rNot wanting to feel lonely, he acts as if it doesn't bother him.
+5733	Mina@r@vmina0969."…Does Sora-kun not feel lonely or anything?"
+5734	Sora@r@vm_sora0059."I've already had to bite the bullet on that feeling so many times. So I just stopped letting it bother me."
+5735	Karin@r@vkarin1044."That's pretty cool of you! Hyuhyu."
+5736	Doremi@r@vdoremi0977."Although this is our first time experiencing a friend transferring away from us, that's not how it is for you, Sora-kun."
+5737	Doremi@r@vdoremi0978."We would be imposing on you by asking you to feel the same way as we are."
+5738	Mina@r@vmina0970."Th-that's true. Sorry, Sora-kun."
+5739	Sora@r@vm_sora0060."…Being able to play with you girls in this school has been incredibly fun."
+5740	Sora@r@vm_sora0061."I thought girls would be harder to communicate with, but I was wrong."
+5741	Sora@r@vm_sora0062."If I can choose my sex in the next life, I think I'd like to be a woman next time."
+5742	Fuuka@r@vfuuka0993."Hahahaha. Aren't girls a handful in lots of ways~?"
+5743	Karin@r@vkarin1045."Right, right! The thing about how the grass is always something or other! Like, wouldn't being a girl be all kinds of trouble?"
+5744	Sora@r@vm_sora0063."Karin, you're like the one person who can't say that."
+5745	Karin@r@vkarin1046."What's this, the Juder Army has appeared?! I can't forgive making light of a maiden's heart!! Eat my holy sword, Saint Bamboo!!"
+5746	Sora@r@vm_sora0064."How impudent of you to try turning the tables on me, Kamen Kendooo!!"
+5747	@rThe pair starts their usual Kamen Kendo reenactment.
+5748	@rSora-kun shows them some splendid action only an actor could do, just like on TV.
+5749	@rKarin isn't showing her loneliness on the surface but… in reality, there's no doubt she feels lonely knowing today is the last day she'll be able to roughhouse with him like this.
+5750	Fuuka@r@vfuuka0994."…I suppose you're the one he got closest with, Karin."
+5751	Mina@r@vmina0971."That's not true. Sora-kun doesn't have any favorites with Mina and her friends."
+5752	Doremi@r@vdoremi0979."Don't be jealous, Fuuka. You should've just watched Kamen Kendo with them as well."
+5753	Fuuka@r@vfuuka0995."Ugh… but the monsters that come out are always kind of scary, so I don't know if I could have handled it, you know…? Teehee."
+5754	@rActually, Fuuka… did confess to him, and was turned down.
+5755	@r@z93.Sora, whose memories of being in a group of five good friends have been more fun than ever before, considered that having a different relationship with just one of them would make him feel guilty about the other kids.
+5756	@rHowever, he'd chosen his words very carefully when turning Fuuka down, thinking about how not to hurt her.
+5757	@rAlthough Fuuka understood him on that…
+5758	@rWatching him have fun roughhousing with Karin like this make her experience just a little bit of a stinging pain in her chest…
+5759	Karin@r@vkarin1047."How 'bouut it? I mean like, today's your last day of school. So show it to me already, all that good stuff!"
+5760	Mina@r@vmina0972."Mina would like to see it too at least once! Sora-kun's fighting!"
+5761	@rThey're talking about how Sora-kun practices fighting as part of his acting training.
+5762	@rBut those moves are for his job. So, those being professional moves, he is not to show them off when playing around, so he never did show them off for them.
+5763	@rSo, however much fun he has roughhousing, he never demonstrated those moves.
+5764	Sora@r@vm_sora0065."It's not like today is the day we part ways."
+5765	Sora@r@vm_sora0066."Anyway, I'll be a ninja swordsman in the performance tomorrow and the day after, so I'll show it to you there."
+5766	Karin@r@vkarin1048."Not like that! I want you to show off just for me!"
+5767	Sora@r@vm_sora0067."Showing you on the stage is the same thing."
+5768	Doremi@r@vdoremi0980."It's not the same at all. You still have a lot to learn, Sora-kun. Heh."
+5769	Fuuka@r@vfuuka0996."Tomorrow's performance. We'll all go and cheer you on, okay."
+5770	Mina@r@vmina0973."Mina's really looking forward to it too!"
+5771	@rThat day, Sora had to practice for the performance, so he was in a hurry to leave school.
+5772	@rHis final performances will be on Saturday — which is tomorrow — and Sunday. Then, he'll leave this town.
+5773	@rOver the weekend he'll be very busy with packing everything up and saying his farewells to everyone.
+5774	@rThe only time he has to himself will be today after school.
+5775	Sora@r@vm_sora0068."…It was fun, being in this town."
+5776	@rWherever he goes to school, he'll be exposed to the cold gazes and stiff atmosphere of the boys sizing him up.
+5777	@rBut when he came here, for the first time, he was able to meet friends who were indifferent about that and welcomed him warmly.
+5778	@rHe became ashamed of his previous assumption… that girls are aliens who he can't understand.
+5779	@rThey've been his first and best friends.
+5780	@r…He prays that they'll always, always be friends from now on…
+5781	@rSo he wants them to remember him until they're reunited.
+5782	@rHe has been secretly preparing parting gifts for each of the four of them.
+5783	@rHe's busy over the weekend. It's possible he won't have any time for them.
+5784	@rSo he intended to give them the gifts on Friday, which is today.
+5785	@rHe has already prepared the presents for them.
+5786	@rHe tried to prepare, for the four of them, the thing they've wanted the most.
+5787	@rAnd he's prepared messages to convey his gratitude to everyone for their friendship.
+5788	Sora@r@vm_sora0069."…I'm sure they'll be happy about it."
+5789	Sora@r@vm_sora0070."Since the times we spent together were the only times I smiled like that. Even when we part ways, I want to do it with my best smile."
+5790	Sora@r@vm_sora0071."I hope my presents… will make all four of them happy, always."
+5791	@rFuuka, who's always been kind and cordial.
+5792	@rSince you say you love borrowing your parents' smartphones and taking pictures with them, I bought you a cute digital camera for girls.
+5793	@rI splurged a little on it, but I haven't had time to spend the allowance I've been pointlessly saving up, so it's not a problem.
+5794	@rThe adorable Mina, who has always made things lively for me.
+5795	@rI bought you the latest transformation stick that just came out from that Layers Five anime.
+5796	@rYou said your stick is from before the Miracle Transformation ones, which means it's getting old, so I think this will definitely make you happy, Mina.
+5797	@rDoremi, who's always patiently explained things to me if there was something I didn't understand.
+5798	@rThere's a talking stuffed animal you said you wanted, so I looked it up online.
+5799	@rI worried about not knowing which color to get, but I tried my best to decide on one.
+5800	@rAnd Karin, who's always played Kamen Kendo together with me.
+5801	@rI thought I'd get you some present from Kamen Kendo, so I looked around at a lot of different things, but,
+5802	@rFor someone like you, this would probably be better than anything like that. Without a doubt.
+5803	@rIt breaks dad's rules, but since it's a parting gift to a dearly beloved friend…
+5804	@rIf I told you about it directly, you'd end up prying into it, asking, ‘What is it? What is it?’"
+5805	@rIt won't exactly be a surprise, but I'd like to keep this kind of thing a secret until the right moment.
+5806	@rSo, I entrusted Fuuka with a message to give to you, Karin.
+5807	@r…But… man, it was still a surprise.
+5808	@rI didn't expect Fuuka to confess to me.
+5809	@rI felt incredibly glad, but… I didn't know how I could accept it.
+5810	@rIs it because I'm a child? Is it because I'm an animal-like boy who's never thought about anything like that?
+5811	@rAt any rate… I'm still too inexperienced to respond to your serious feelings.
+5812	@rAnd being in a group of five good friends has made me more glad than anything has ever before, so…
+5813	@rI felt worried that if I accepted your feelings, the other kids could feel betrayed.
+5814	@rSorry about that, Fuuka.
+5815	@rBut you didn't let it bother you at all, and you gave me a cheerful laugh. I'm really glad you didn't seem hurt…
+
+# 08_intZ02_08_その他（８度目） (et cetera, 8th time)
+5816	Fuuka@r@vfuuka0997."…Eh?"
+5817	Karin@r@vkarin1049."He… talked… didn't he…?"
+5818	@rThe boy inside the cage, who they suspected didn't have any awareness, just talked… he definitely just talked.
+5819	@rIt's just, it was very sudden, so whatever he said, they missed it.
+5820	Mina@r@vmina0974."Wh… what did he say just now…?"
+5821	Boy@r@vm_shou0043."…There's something I'd… like to ask everyone."
+5822	Doremi@r@vdoremi0981."So you were able to talk…"
+5823	Boy@r@vm_shou0044."I can now! So answer what I'm about to ask…!"
+5824	@rHe's scratching his head, trying frantically to connect some pieces of something inside his mind.
+5825	@rThe girls, unable to make any sense of this, can only watch him…
+5826	Boy@r@vm_shou0045."Each one of you… has something you still can't forgive, from back in elementary school, right…?"
+5827	Fuuka@r@vfuuka0998."…What is this about…? I have no idea!"
+5828	Boy@r@vm_shou0046."For example, Fuuka… back in elementary school, you gave Karin a message from Motoki Sora calling her over to him, but she didn't come, and you still can't forgive her for that."
+5829	Fuuka@r@vfuuka0999."Eh…, ………"
+5830	Karin@r@vkarin1050."Wh-what the heck is this about…?"
+5831	Boy@r@vm_shou0047."Karin, at the same time, in elementary school… Mina promised you she would come with you to confront that thug at his house, but she didn't come, and you still can't forgive her for that."
+5832	Karin@r@vkarin1051."…H… how, do you…"
+5833	Mina@r@vmina0975."C-can't forgive… eh? Karin-chan can't forgive… Mina…? Eh?"
+5834	Boy@r@vm_shou0048."And you, Mina, back in elementary school. Although Doremi called you over to her house, she was out, and you still can't forgive her for that."
+5835	Mina@r@vmina0976."………"
+5836	Mina@r@vmina0977."How… can you know… something like that…?"
+5837	Doremi@r@vdoremi0982."I-I called her over and then I was out…?"
+5838	Doremi@r@vdoremi0983."There's no way I'd do something like that…!"
+5839	Mina@r@vmina0978."There is."
+5840	Mina@r@vmina0979."…You did… Doremi-chan…"
+5841	Doremi@r@vdoremi0984."………"
+5842	Boy@r@vm_shou0049."And likewise, Doremi, back in elementary school…"
+5843	Boy@r@vm_shou0050.@z92."Even though you needed to obey your parents and watch the house while they were out… Fuuka wouldn't stop badgering you, so you left the house unattended and got harshly reprimanded by your parents for it."
+5844	Boy@r@vm_shou0051."And you still can't forgive her for that…"
+5845	Fuuka@r@vfuuka1000."…D-Doremi…"
+5846	Doremi@r@vdoremi0985."Yeah… that's right."
+5847	Doremi@r@vdoremi0986."…That day, there was a delivery coming that I had to accept no matter what, and I was told to stay and watch the house no matter what."
+5848	Doremi@r@vdoremi0987."And yet you cried so much, telling me you wanted me to come over and listen to you! So I left the house unattended!"
+5849	Doremi@r@vdoremi0988."But actually, that's not the only thing I can't forgive you for!!"
+5850	Doremi@r@vdoremi0989."Because of you, Fuuka, the present I got from Sora-kun was damaged…!!"
+5851	Doremi@r@vdoremi0990."Because it suddenly started raining that day…! The present and letter that Sora-kun left in front of my unattended house got completely soaked…!"
+5852	Fuuka@r@vfuuka1001."…D-Doremi…. I wouldn't have…"
+5853	Karin@r@vkarin1052."J… just who the hell are you…?! How do you know things like this about us?!"
+5854	Boy@r@vm_shou0052."Karin, you went to Butagawa's house, didn't you? And there, you waited for Mina to come."
+5855	Boy@r@vm_shou0053."In the end, she didn't come. You fought Butagawa alone. …And then, the next day,"
+5856	Boy@r@vm_shou0054."Mina was gleeful about the post-evolution Miracle Transformation Stick she'd gotten, wasn't she?"
+5857	Karin@r@vkarin1053."…I… I guess she was."
+5858	Karin@r@vkarin1054."Back then, I realized… that Mina doesn't give a crap about me…!"
+5859	Boy@r@vm_shou0055."Although, Mina… that Miracle Stick… was a parting gift from Motoki Sora, wasn't it?"
+5860	Mina@r@vmina0980."Y-yeah."
+5861	Mina@r@vmina0981."That day… when Mina got home, her mom… gave her the present Sora-kun had entrusted to her…"
+5862	Mina@r@vmina0982."It was inside. The Miracle Transformation Stick…"
+5863	Boy@r@vm_shou0056."Mina, when you say ‘when you got home,’ right? Where did you get home from?"
+5864	Mina@r@vmina0983."………"
+5865	Mina@r@vmina0984."…Doremi-chan's house…"
+5866	Boy@r@vm_shou0057."Right. Mina, wasn't that the day Doremi was out, even though she called you over?"
+5867	Mina@r@vmina0985."I-it was…"
+5868	Boy@r@vm_shou0058."Why did you go to Doremi's house?"
+5869	Mina@r@vmina0986."…Doremi-chan… had the same transformation stick that Butagawa took from Mina, so… she said to come so she could give it to Mina…"
+5870	Boy@r@vm_shou0059."Doremi. …You remember that day, don't you?"
+5871	Doremi@r@vdoremi0991."…That day was…"
+5872	Boy@r@vm_shou0060."Mina was coming over, so you were going to stay and wait for her."
+5873	Boy@r@vm_shou0061."That's not all. Your parents also sternly told you to stay home and take the delivery for them."
+5874	Boy@r@vm_shou0062."But then… you got a phone call from Fuuka."
+5875	Doremi@r@vdoremi0992."…That's right."
+5876	Doremi@r@vdoremi0993."Fuuka was crying. She was rejected by Sora-kun and the one he actually loved was Karin, and she was crying about it…"
+5877	Fuuka@r@vfuuka1002."…Th-that day…"
+5878	Fuuka@r@vfuuka1003."…Right. That was my bad. That day, I… wanted to cry on someone's shoulder. I wanted to vomit out all of my feelings."
+5879	Fuuka@r@vfuuka1004."And I thought my best friend, Doremi, would take that on."
+5880	Fuuka@r@vfuuka1005."Even though she said she was told by her parents to stay home… I still called her and made her come out."
+5881	Fuuka@r@vfuuka1006."Doremi seemed like she wanted to refuse. …I was being emotional and going on to her about how if she didn't come, I would just die."
+5882	Doremi@r@vdoremi0994."…That's right. …I remember it quite well."
+5883	Fuuka@r@vfuuka1007."To think that because of me… Doremi was cruelly reprimanded by her parents… and furthermore, she broke her promise to Mina, and Mina started to resent her…"
+5884	Fuuka@r@vfuuka1008."…I was at fault… I'm the main cause of all of this…"
+5885	Boy@r@vm_shou0063."And then, Fuuka, you left Doremi. …You went to the vacant lot to see Motoki Sora, didn't you?"
+5886	Fuuka@r@vfuuka1009."Right…. I thought there was no doubt that Sora-kun called Karin over so he could confess to her."
+5887	Fuuka@r@vfuuka1010."So I wanted to really put an end to those feelings… by seeing that confession with my own eyes."
+5888	Boy@r@vm_shou0064."And then, Motoki Sora stood waiting for Karin in the vacant lot…"
+5889	Fuuka@r@vfuuka1011."Karin didn't come. …She never came…!"
+5890	Fuuka@r@vfuuka1012."Even when the cold rain came down and soaked him from head to foot… Sora-kun kept waiting for Karin to come!!"
+5891	Karin@r@vkarin1055."H-how would I have known that…?! This is the first I'm hearing of Sora-kun calling for me, y'know?!"
+5892	Karin@r@vkarin1056."If I'd known Sora-kun was calling for me, I absolutely would've gone!"
+5893	Karin@r@vkarin1057."That day, you didn't tell me it was Sora-kun who was calling for me, did you…?!"
+5894	Boy@r@vm_shou0065."…Right. And that was Motoki Sora's fault."
+5895	Karin@r@vkarin1058."Eh…?"
+5896	Boy@r@vm_shou0066."Motoki Sora intended to show you his fighting, Karin… as a parting gift to you."
+5897	Boy@r@vm_shou0067."He wanted to surprise you… Motoki Sora wanted Fuuka to call you over instead of himself, so she intentionally didn't mention his name."
+5898	Fuuka@r@vfuuka1013."…Right."
+5899	Fuuka@r@vfuuka1014."…Sora-kun entrusted me with… giving you a message from him without mentioning his name."
+5900	Fuuka@r@vfuuka1015."But! But still, you broke your promise! You… didn't come, Karin…!"
+5901	Karin@r@vkarin1059."Th… that's because…! ………!"
+5902	Boy@r@vm_shou0068."Fuuka. …I want you to let me defend Karin."
+5903	Fuuka@r@vfuuka1016."Eh…?"
+5904	Boy@r@vm_shou0069."That day… Karin had an errand come up that her sense of justice told her absolutely had to come first."
+5905	Boy@r@vm_shou0070."Isn't that right, Karin? …After all, that day was when Mina confided in you about Butagawa stealing her transformation stick."
+5906	Karin@r@vkarin1060."…Look, I'm sorry…"
+5907	Karin@r@vkarin1061."Obviously, like, if you'd mentioned Sora-kun's name, I would've kept my promise no matter what…"
+5908	Karin@r@vkarin1062."But that day… I ended up making another promise… that absolutely had to come first."
+5909	Fuuka@r@vfuuka1017."Come first? So a promise to Sora-kun comes before a promise to me…?!"
+5910	Mina@r@vmina0987."That was Mina's fault…!!!"
+5911	Mina@r@vmina0988."Mina was the one at fault, Fuuka-chan…!!"
+5912	Mina@r@vmina0989."Mina confided to Karin-chan about Butagawa taking her transformation stick and cried to her…"
+5913	Mina@r@vmina0990."Mina was a bad girl, a super bad girl…! She thought that since Karin-chan was strong in a fight, she might get it back for her…!"
+5914	Mina@r@vmina0991."Mina got Karin-chan all fired up… so she would get my stick back from Butagawa…!"
+5915	Karin@r@vkarin1063."M… Mina…"
+5916	Mina@r@vmina0992."Forgive me, Karin-chan…!! Mina really was a bad girl…!!"
+5917	Mina@r@vmina0993."And then, Karin-chan got angry for real because of Mina's fake crying…! And she promised she would go get the transformation stick back in my place…!!"
+5918	Boy@r@vm_shou0071."Fuuka. I want you to somehow forgive Karin."
+5919	Boy@r@vm_shou0072.@z92."She may have made a promise to you first, but you didn't know about her errand. …Her burning righteous indignation caused her to make another promise, to Mina, who was crying about her precious toy being stolen."
+5920	Fuuka@r@vfuuka1018."…I suppose I can see that."
+5921	Fuuka@r@vfuuka1019."In Karin's case… she made the judgement that her promise with me wasn't as urgent. I guess that's not so strange."
+5922	Fuuka@r@vfuuka1020."I didn't tell her what my promise was for, and I didn't mention Sora-kun's name…"
+5923	Fuuka@r@vfuuka1021."And more importantly. Thinking that she wanted to lend her strength to her crying best friend… is so much like Karin. I think that's where she shines."
+5924	Karin@r@vkarin1064."…Fuuka…"
+5925	Karin@r@vkarin1065."But I was wrong too…!! Whatever promises I made, I made the one with you first, Fuuka!"
+5926	Karin@r@vkarin1066."I should've at least called you to say something about how something urgent came up, and apologized!"
+5927	Karin@r@vkarin1067."But I… got carried away in my excitement at being able to act like an ally of justice… and forgot all about it…"
+5928	Karin@r@vkarin1068."I hurt you… and Sora-kun too… I was an idiot…!"
+5929	Boy@r@vm_shou0073."…And then you went to Butagawa's house and waited for Mina."
+5930	Karin@r@vkarin1069."Even if it's me who does the fighting… I at least wanted Mina nearby to give me courage, or so I was selfishly thinking."
+5931	Mina@r@vmina0994."…But… Mina didn't come…"
+5932	Karin@r@vkarin1070."Of course you didn't come! You didn't wanna fight to begin with, Mina, so you probably didn't wanna watch either!"
+5933	Mina@r@vmina0995."No, the one at fault was Mina!!"
+5934	Mina@r@vmina0996."She got Karin-chan all fired up and wasn't even going to go with her!!"
+5935	Mina@r@vmina0997."That day, Doremi-chan said she had the same transformation stick and she'd give to to Mina, so… Mina went to Doremi-chan's house!!"
+5936	Doremi@r@vdoremi0995."…W-wait, hold it…"
+5937	Doremi@r@vdoremi0996."However you look at it, this story is strange. It's all connected…?!"
+5938	@rThe pieces have started fitting together inside Doremi's mind.
+5939	@rInside the boy's mind, too… and then, a powerful shine rises in his eyes.
+5940	Boy@r@vm_shou0074."I've been thinking about this all this time too."
+5941	Boy@r@vm_shou0075."Everyone's story always has rain coming down at the end."
+5942	@rFuuka watched over Motoki Sora waiting in vain at the vacant lot as it started raining.
+5943	@rKarin waited for Mina in front of Butagawa's house, and it started raining.
+5944	@rMina went to Doremi's house and waited at the entrance for her to come home, and it started raining.
+5945	@rDoremi was called over to Fuuka's house and went, and on the way home, it started raining.
+5946	Boy@r@vm_shou0076."The incidents that the four of you still can't forgive each other for, back in elementary school. All of those incidents were on the same day."
+5947	Boy@r@vm_shou0077."They were all on Motoki Sora's last day of school, after school…!"
+5948	Boy@r@vm_shou0078."And that's not all! All the occasions where the four of you missed each other formed a loop…!!"
+5949	Mina@r@vmina0998."Mina… did go to Doremi-chan's house…"
+5950	Doremi@r@vdoremi0997."But I wasn't there. Since I was called over by Fuuka and went to Fuuka's house."
+5951	Fuuka@r@vfuuka1022."Right after that, I went to the vacant lot and secretly watched over Sora-kun waiting for Karin."
+5952	Karin@r@vkarin1071."But no matter how much time passed, I didn't come…! I ended up breaking my promise with you, Fuuka, and the only reason was that I wanted to act like an ally of justice and fight…!"
+5953	Mina@r@vmina0999."That was exactly what Mina wanted, and Karin-chan rose to the occasion!"
+5954	Mina@r@vmina1000."But still, Mina made Karin-chan wait for nothing…!"
+5955	Doremi@r@vdoremi0998."…And also… I called Mina over to my house… and ended up going out."
+5956	Fuuka@r@vfuuka1023."That was my fault, Mina-chan! If you're going to resent anyone then resent me! Doremi wasn't at fault…!"
+5957	Doremi@r@vdoremi0999."No, I was the one in the wrong."
+5958	Doremi@r@vdoremi1000."I didn't just like you, Fuuka, I admired you. I developed a superiority complex from having someone as ladylike as you as a friend."
+5959	Doremi@r@vdoremi1001."Since I was like that… I called Mina over, then thoughtlessly put you first and broke my promise to her!"
+5960	Doremi@r@vdoremi1002."Mina and Fuuka, I weighed you against each other, and chose to betray my prior engagement with Mina… it was unforgivable…!"
+5961	Doremi@r@vdoremi1003."Mina…. It's too late for this, but I apologize!"
+5962	Doremi@r@vdoremi1004."Weren't you always calling me your best friend? I wasn't properly reciprocating those feelings…!!"
+5963	Doremi@r@vdoremi1005."I didn't even deserve to be called your friend…! My apologies, Mina… you have my sincere apologies…!!"
+5964	Fuuka@r@vfuuka1024."The one at fault was me! It wasn't you, Doremi!!"
+5965	Karin@r@vkarin1072."No, the one most at fault was me! I hurt not just Fuuka but even Sora-kun too!!"
+5966	Mina@r@vmina1001."That was Mina's fault!! If only Mina hadn't fake cried to get Karin-chan all fired up…!!"
+5967	Mina@r@vmina1002."Karin-chan could have gone to the vacant lot!! And she wouldn't have made Sora-kun and Fuuka-chan sad!!"
+5968	Doremi@r@vdoremi1006."…Fuuka. At least let me apologize for something else."
+5969	Fuuka@r@vfuuka1025."Something else…?"
+5970	Doremi@r@vdoremi1007."That day. When I listened to you over the phone, I had a doubt that I didn't tell you about."
+5971	Doremi@r@vdoremi1008."Remember how you said the one Sora-kun loves the most was Karin?"
+5972	Boy@r@vm_shou0079."…Why did you think that, Fuuka?"
+5973	Fuuka@r@vfuuka1026."…Because Sora-kun had the nicest present for her."
+5974	Boy@r@vm_shou0080."Eh…?"
+5975	Fuuka@r@vfuuka1027."When Sora-kun came to each of our four houses with presents for us. He came to my house first."
+5976	Fuuka@r@vfuuka1028."So, I saw the presents he had for Karin, Mina-chan, and Doremi."
+5977	Doremi@r@vdoremi1009."Back then… did he say his present to Karin would be especially nice?"
+5978	Fuuka@r@vfuuka1029."Yeah… it was completely different in size and feeling from his presents to Doremi and Mina-chan."
+5979	Fuuka@r@vfuuka1030."It was an incredibly nice piece of craftsmanship, a sword. …It must have been from that Kamen Kendo show you love so much, Karin…"
+5980	Karin@r@vkarin1073."The Saint Bamboo Sword?!"
+5981	Fuuka@r@vfuuka1031."That must be it. It was in a nice sheath and seemed high quality. It looked super expensive…"
+5982	Karin@r@vkarin1074."Sheath? Wait just a minute. The Saint Bamboo Sword has no damn sheath!"
+5983	@rThe Saint Bamboo Sword is a fencing stick. A fencing stick has no sheath.
+5984	Boy@r@vm_shou0081."Fuuka… Karin was always pestering Motoki Sora that she wanted him to show her his fighting and action… right?"
+5985	Fuuka@r@vfuuka1032."Y-yeah…"
+5986	Fuuka@r@vfuuka1033."…Eh… then… the vacant lot was for…"
+5987	Boy@r@vm_shou0082."It's like I said earlier. …Motoki Sora called Karin over to the vacant lot to show her his fighting."
+5988	Boy@r@vm_shou0083."The sword you thought was his present to Karin… wasn't actually a present."
+5989	Boy@r@vm_shou0084."It was a prop for Motoki Sora to use when acting in fight scenes."
+5990	Fuuka@r@vfuuka1034."…An acting… prop…"
+5991	Doremi@r@vdoremi1010."If it's an acting prop, it should look decorated and be made sturdily enough to not break when it's handled in a flashy way…"
+5992	Boy@r@vm_shou0085."You got a completely different feeling from it compared to the gifts for the other girls… so it's not strange that it looked to you like only Karin's present would be expensive."
+5993	Doremi@r@vdoremi1011."…Fuuka, didn't you always say that since only Karin's present was expensive, she's the one Sora-kun loves?"
+5994	Doremi@r@vdoremi1012."When I heard you say that, I thought… that sword might not have been intended as a present…"
+5995	Doremi@r@vdoremi1013."But I swallowed that doubt…"
+5996	Doremi@r@vdoremi1014."If only I'd said something, you wouldn't have held on to such complicated feelings towards Karin, and you probably wouldn't have resented her so much…"
+5997	Boy@r@vm_shou0086."………"
+5998	Boy@r@vm_shou0087."…Fuuka. You confessed to Motoki Sora, didn't you?"
+5999	Fuuka@r@vfuuka1035."………"
+6000	Fuuka@r@vfuuka1036."…Yeah."
+6001	Fuuka@r@vfuuka1037."Back then, I thought that Karin was the one he loved most, and that's why I got an ‘I'm sorry’ from him, but…"
+6002	Fuuka@r@vfuuka1038."…Maybe I just wanted somebody to hate out of shock."
+6003	Fuuka@r@vfuuka1039."Hating Karin… because of that… was really the wrong approach, wasn't it…?"
+6004	Fuuka@r@vfuuka1040."What made Sora-kun happier than anything else was being in a group of five good friends."
+6005	Fuuka@r@vfuuka1041."But in spite of that, I singled him out and confessed to him. …I didn't consider Sora-kun's feelings at all!"
+6006	Fuuka@r@vfuuka1042."Ultimately… I hurt Sora-kun by selfishly singling him out… and myself too!"
+6007	Fuuka@r@vfuuka1043."I'm the one who initially created this chain reaction of hatred…!"
+6008	Fuuka@r@vfuuka1044."That's it! This was all started by me…!!"
+6009	@rI selfishly hurt them!!
+6010	@rWhen I called Doremi over because I wanted to vomit out my sob story on her, I hurt her. And furthermore, that led to her being resented by Mina!
+6011	@rSora-kun told me to keep it a secret, but I should have told Karin it was a message from Sora-kun!
+6012	@rIf I'd done that, Karin would have gone to the vacant lot. And she wouldn't have made that promise with Mina-chan to fight for her.
+6013	@rAnd then Karin wouldn't have started to resent Mina-chan…!!
+6014	@rIf only I had just understood Sora-kun's feelings!! I wouldn't have had this weird jealousy for Karin… and I probably wouldn't have resented her all this time…!!
+6015	Fuuka@r@vfuuka1045."The beginning of this entire chain reaction… was me…!!!"
+6016	Fuuka@r@vfuuka1046."That day… I drove a thorn into everyone's hearts…!! It's all my fault…!!"
+6017	Fuuka@r@vfuuka1047."Sorry about that… sorry, everyone…!! Aaaaaaaaaah…!!"
+6018	Boy@r@vm_shou0088."Don't even think I'd let you take the blame."
+6019	Boy@r@vm_shou0089."Although Motoki Sora received your feelings, he needed to properly convey his own feelings to you."
+6020	Boy@r@vm_shou0090."But Motoki Sora couldn't do that."
+6021	@rAnd to think he kept saying he admired how girls could be so considerate and wanted to be reborn as a girl in the next life.
+6022	@rHe didn't have enough consideration at all… he didn't even consider how his own behavior and words would be received, and how they could hurt others…!
+6023	Boy@r@vm_shou0091."He couldn't convey how he wanted to always be together with everyone as a group of five good friends!"
+6024	Boy@r@vm_shou0092."So he left a thorn in Fuuka's feelings… and with that, he continued to hurt her for such a long time."
+6025	Boy@r@vm_shou0093."You said you were the original cause of this entire chain reaction."
+6026	Boy@r@vm_shou0094."But if that were really true, the beginning of it all wouldn't be you, Fuuka. It would be me…!!"
+6027	@rI can't believe it…
+6028	@rAnd I just wanted to leave parting gifts for everyone… to convey my feelings of gratitude and happiness!
+6029	@rIn the end, those presents became… the main thing that hurt everyone…!
+6030	@rAnyone would be happy to receive a present, I thought… but that childish way of thinking was one-sided and superficial…!
+6031	@rThinking back on it, didn't people tell me about that from time to time?
+6032	@rThat when you have certain feelings toward someone, they won't necessarily return those same feelings.
+6033	@rThat people don't just have one personality. All kinds of personalities exist, and from time to time, people will express conflicting personalities.
+6034	@rAnd that girls are completely different from men.
+6035	@rWhile men live simply, thinking only about one thing, girls can think in various ways at the same time, and they can even hold conflicting emotions at the same time.
+6036	@rEven though they said the exact same thing. Did the exact same thing. Had the exact same thing done to them.
+6037	@rThis means they may display completely contradictory reactions depending on the situation.
+6038	@rBut things like that are an everyday occurrence, and they live in a world where they can't get caught up on each and every thing like that.
+6039	@rThat's the world of girls… and everyone went to such lengths to teach me about it, didn't they?!
+6040	@rIf only I had been taught better, I wouldn't have had such misconceptions!
+6041	@rWhy did I deliver presents to each of their doors? Did I think that was a polite way to convey my feelings of gratitude?
+6042	@rThat's such a self-righteous way of thinking, typical of men! All it did was create such strange misunderstandings!
+6043	@r@z93.For example, I could've gathered all of them together and given them their presents all at once, and if I had done that, there wouldn't have had to be any missed meetings or misunderstandings or anything!
+6044	@rI mean, aren't we a group of five good friends?! If so, why didn't I give them all their presents somewhere that all five of us were together?!
+6045	@rI wasn't thinking at all! How is that any different from all those males I hate!
+6046	@rAnd I was still only looking at their world on the surface and feeling envious of it…!
+6047	@rAnd moreover, I so brazenly said right in front of them that I wanted to be reborn as a girl in the next life…!
+6048	Boy@r@vm_shou0095."I was the one who didn't understand anything…!! @z150.I DON'T UNDERSTAND ANYTHING!!@z100."
+6049	Boy@r@vm_shou0096.@z111."I ONLY ADMIRED THE WORLD OF GIRLS ON THE SURFACE, AND THE ONLY REASON WAS BECAUSE I WAS TIRED OF THE WORLD OF MALES, I'M A FOOL…!!"
+6050	@rFrom their point of view, the world of men must look so simple and carefree, however they look at it!
+6051	@rHow absurd is it that such a man would only admire the surface of their world one-sidedly, without knowing anything about it?!
+6052	@rI thought that delivering parting gifts to everyone would bring them happiness, but that was just me selfishly projecting my own feelings onto them!
+6053	@rI wasn't thinking at all! Telling them that I hate men and I want to be born as a girl in the next life was so inconsiderate!!
+6054	Fuuka@r@vfuuka1048."…It's alright."
+6055	Boy@r@vm_shou0097."Eh…?"
+6056	Doremi@r@vdoremi1015."A boy doesn't need to worry about something like that."
+6057	Karin@r@vkarin1075."…It's specifically because boys are straightforward, and not two-faced like us, that we look so dang radiant to them…"
+6058	Mina@r@vmina1003."Men and women are different creatures all the way down to their souls."
+6059	Fuuka@r@vfuuka1049."That's why not being able to understand girls' feelings 100% is… not superficial of you or anything like that."
+6060	Karin@r@vkarin1076."To us girls, boys are very simple but genuine and honest creatures."
+6061	Doremi@r@vdoremi1016."And they're very, very mysterious creatures who occasionally surprise us and transcend our expectations."
+6062	Mina@r@vmina1004."But, y'see? That's why… they look so radiant to us."
+6063	Fuuka@r@vfuuka1050."Every girl is a kaleidoscope."
+6064	Fuuka@r@vfuuka1051."We're always changing forms in complicated ways while we continue sparkling."
+6065	Fuuka@r@vfuuka1052."None of those individual moments means anything. …We'll keep turning and turning, never showing you the same shape as before even once."
+6066	Karin@r@vkarin1077."And yet, none of what's inside that tube we call a kaleidoscope will ever spill out."
+6067	Karin@r@vkarin1078."Those kinds of contradictions, both limited and endless, existing at the same time, are our world."
+6068	Mina@r@vmina1005."It's a complicated, strange, swirly kaleidoscope that we can't even understand ourselves."
+6069	Doremi@r@vdoremi1017."…So we can respect a boy who makes the effort to understand us."
+6070	Karin@r@vkarin1079."A boy that'll do everything he can to understand something we don't even understand ourselves."
+6071	Mina@r@vmina1006."So don't feel bad for not understanding."
+6072	Fuuka@r@vfuuka1053."Because, we don't even understand ourselves."
+6073	Doremi@r@vdoremi1018."But that's exactly why."
+6074	@rYou must think the elusive kaleidoscope that we are… shines beautifully…
+6075	@rYou can't understand it. We can't.
+6076	@rAccepting all of the things we can't understand is just how we live.
+6077	→4010
+6078	@rYou still met us halfway and tried to understand.
+6079	@rWe're glad that you did your best to understand these things…
+6080	Mina@r@vmina1007."From now on, we'll always, all of us,"
+6081	Doremi@r@vdoremi1019."Love you dearly."
+6082	Karin@r@vkarin1080."After all, aren't we a group of five good friends?"
+6083	Fuuka@r@vfuuka1054."However far we may be separated in body, or in spirit,"
+6084	Fuuka@r@vfuuka1055."We'll always, always, from now on, be together like we always have been…"
+6085	Doremi@r@vdoremi1020."So don't beat yourself up."
+6086	Mina@r@vmina1008."Rather, letting that happen to you was our sin."
+6087	Boy@r@vm_shou0098."…Was that really a sin?"
+6088	Karin@r@vkarin1081."I guess not. It wasn't really one."
+6089	Karin@r@vkarin1082."I think a relationship like this where we can have so much fun with everything… must be something for men and women to share."
+6090	Doremi@r@vdoremi1021."If, say… you were guilty of one sin."
+6091	Fuuka@r@vfuuka1056."…Understand? Sora-kun?"
+6092	@r…Yeah. I do understand now.
+6093	Boy@r@vm_shou0099."This world is a world where completely different souls called men and women live together."
+6094	Boy@r@vm_shou0100."Even though the worlds of the two sexes differ to an unbelievable extent,"
+6095	Boy@r@vm_shou0101."The two worlds can't live without nestling up close to one another."
+6096	@rWhat's important is continuing to make the effort to understand the opposite world.
+6097	@rDisparaging my own world out of self-deprecation in order to admire a different world… is blasphemy against half of the world.
+6098	@rThat is my sin.
+6099	Boy@r@vm_shou0102."…I didn't even get to see my life as a man through, and I so carelessly denied my own world."
+6100	Boy@r@vm_shou0103."And I admired the opposite world one-sidedly even though all I saw was its surface."
+6101	Boy@r@vm_shou0104."The world of men may be filled with anguish, but… even that might only be on the surface, and there might be way, way more to it."
+6102	Boy@r@vm_shou0105."If the world of women looks like it's filled with kindness… that must also be only based on surface level evidence."
+6103	@rI'm in no position to wish for a different sex in the next life.
+6104	Boy@r@vm_shou0106."That's my answer."
+6105	Voice@r@vm_koe0168."…Are you sure that's okay with you? You've done well to rise above this trial, little one."
+6106	Voice@r@vm_koe0169."You are aware that if you desire it, I can have you reborn as a different sex, yes…?"
+6107	Boy@r@vm_shou0107."No, it's alright."
+6108	Boy@r@vm_shou0108."And, right now… I feel grateful for being able to meet them as a man."
+6109	Boy@r@vm_shou0109."I think it's exactly because I'm a man that I can always, always feel the the radiance of girls even more than they can themselves."
+6110	Voice@r@vm_koe0170."…According to a certain legend, it seems that in the beginning God created only men."
+6111	@rMen with a sense of curiosity, as the story goes, solved all the world's mysteries, and then were afflicted with the illness of boredom and almost became extinct.
+6112	Voice@r@vm_koe0171."Then God, as it goes, created women, which men could never fully understand for all eternity."
+6113	Voice@r@vm_koe0172."And ever since then, as it goes, men have given birth to many cultures in an effort to understand women and attract her attention."
+6114	@r@z93.They wrote poems. They sang songs. With their words, and with their feelings. They tried to convey their hearts to the opposite sex and understand the hearts of their own opposite, and this was the beginning of the eternal story.
+6115	Voice@r@vm_koe0173."But, you see, men are not ones to be defeated so easily."
+6116	Voice@r@vm_koe0174."For it seems men continue to make the women of the world think of them as simple and easy to understand. Ho-ho-ho-ho…"
+6117	Voice@r@vm_koe0175."Oh my. It's time to go, is it not?"
+6118	Boy@r@vm_shou0110."Yes. …Thank you very much, for all of this. I think I will now let myself drift away to where I must go."
+6119	Voice@r@vm_koe0176."Live, my boy."
+6120	Voice@r@vm_koe0177."Man and woman simply are. After all, there is never to be boredom in this world, for all eternity…"
+6121	@rThe boy's form, at some point, returned to being that mysterious, slippery something.
+6122	@rThen, he is hoisted up out of the elderly fellow's boat… and plunges into the great river, becoming part of its flow and disappearing.
+6123	Voice@r@vm_koe0178."Take care now, Sora-kun. That is, Kuu-chan."
+6124	@rAt the time the nurse scolded the girls with a ‘be quiet.’ @rThe examination room suddenly became hectic.
+6125	@rThe machines, one by one, started to display @rKuu-chan's lost heartbeat returning to him.
+6126	@rThe girls rush in through the door, which was left open.
+6127	@r@vmix0004.Kuu-chan…!!!
+6128	@rTo this name the girls call out… there is a faint but clear response…

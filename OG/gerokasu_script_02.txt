@@ -1,0 +1,620 @@
+# 02_intA02_01_初めての、ゲーム開始 (game start)
+659	@rIt happened in an instant… with a terrifying sound.
+660	@rThe chain on the collar of the @b.@<Condemned@> was reeled in with a painfully loud sound, dragging her body along with it.
+661	@rAs the @b.@<Condemned@> is forced to sit in the ominous chair, some kind of mechanism is activated.
+662	@rThe arm and leg shackles close with a terrifying sound, forcing her to sit upright in the chair and restraining all four of her limbs…
+663	Voice@r@vm_koe0035."With that, let us begin the trial to test your fates."
+664	Voice@r@vm_koe0036."You have 5 minutes. There is no time for idling."
+665	Voice@r@vm_koe0037."You had best fully expose your true selves if you want to survive."
+666	@rAt this point, the metal plates making up the floor slide sideways and vanish into the walls with a violent sound…
+667	@rBecause the mesh fence is still spread out over the floor, the girls are not affected by this.
+668	@rHowever, this has revealed the pitch-black darkness underneath the mesh at their feet.
+669	@rBut that darkness is soon illuminated by blue flames lighting up underneath the floor.
+670	@rAn ominous system of pipes can now be seen spread out below, along with the blue flames bursting out of them.
+671	Mina@r@vmina0128."Eek?! Hey, heyy heyy heyy, what's happening, what's happening?!?!"
+672	@rThe blue flames remind them of the kind of burners used in science experiments, or the flames on a gas stove.
+673	@rThat's right. This entire room is basically a giant crematorium. Or to put it another way, it's on top of the grill at a human barbecue…
+674	Doremi@r@vdoremi0111."…Th-this… is no joke or anything…"
+675	Karin@r@vkarin0124.@z122."S, S-S, STOP FUCKING WITH UuUuS!! STOP IT!! AAAaAAaAAAaH!!"
+676	Fuuka@r@vfuuka0099."…*Huff*, *huff*, *huff* *huff*!!!"
+677	@rAt once, the temperature in the room has begun to rise.
+678	@rIf the 5 minute time limit were to run out… well, at this rate, anyone could guess what would happen to them…
+679	Voice@r@vm_koe0038."Everything in the room is made of a special metal with exceptional thermodurability and heat insulation capability."
+680	Voice@r@vm_koe0039."Including the collars and chains binding you, the boy's cage, and the elevator to exit the room."
+681	Voice@r@vm_koe0040."They will not be damaged by heat, so you'd best not depend on bending them while they're hot or anything."
+682	Voice@r@vm_koe0041."That will be all from me. You had all best fully expose your true selves."
+
+# 02_intA02_02_初めての、ゲーム開始２ (game start 2)
+683	@rThe chain is reeled in, forcing the @b.@<Condemned@> to sit in the ominous chair.
+684	@rAll four of her limbs are shackled by some mysterious mechanism, and she loses the ability to move her body…
+685	Voice@r@vm_koe0042."With that, let us begin the trial. You have 5 minutes."
+686	Voice@r@vm_koe0043."You had best fully expose your true selves if you want to survive."
+687	@rWith a violent noise, the flooring underneath the mesh at their feet slides sideways and is swallowed into the walls.
+688	@rThen, the girls notice… that the mesh they're standing on is located right above the erupting blue flames.
+689	Karin@r@vkarin0125."D-dammit, c-come on out, director!! Maybe TV is getting extreme these days, but… th-this is, w-way overdoing it!!"
+690	@rThe strength starts draining even out of Karin's scolding as she feels the fierce heat rising beneath her feet…
+
+# 02_intA02_03_初めての、ゲーム開始３ (game start 3)
+691	@rThe torture chair captures its prey with its chain tongue, swallowing it mercilessly into its maw…
+692	@rThe @b.@<Condemned@> can no longer escape from this chair.
+693	Voice@r@vm_koe0044."With that, let us begin the trial."
+694	Voice@r@vm_koe0045."You had best reveal your true forms and talk it out thoroughly within these precious 5 minutes."
+695	@rThe girls thought this was a locked room, but… in just an instant, it is turned into a barbecue plate to grill the girls to death…
+696	@rThere's nowhere to run. Even in the best case scenario, only 3 of them will survive.
+
+# 02_intA02_04_初めての、ゲーム開始４ (game start 4)
+697	@rThe disgusting torture chair's mechanism seizes and traps the @b.@<Condemned@> in an instant.
+698	@rThe only way the @b.@<Condemned@> can survive… is to put the @b.@<Joker@> in her own position.
+699	Voice@r@vm_koe0046."You have 5 minutes. Let us begin the trial."
+700	Voice@r@vm_koe0047."There is no time to continue deceiving yourselves. You had best fully expose your true selves, from the bottom of your hearts."
+701	@rThe locked room is quickly turned into a human incinerator.
+702	@rThe time when they could believe this is some kind of joke is long in the past.
+703	@rNow… they have to survive…
+
+# 02_intA02_05_初めての、ゲーム開始５ (game start 5)
+704	@r…There's a proverb that says a person is like a mirror.
+705	@rHave you heard it before…?
+706	@rWhen faced with a smile, you'll return that smile.
+707	@rWhen faced with scorn, you'll return the scorn; when faced with anger, you'll return the anger.
+708	@rIt's a lot like a mirror, from one person to another; that's what the proverb is about.
+709	@r…Eh? You say that's a good analogy?
+710	@rDo you… honestly think so?
+711	@rIf so then… I'd say the world you all inhabit is refreshingly simple to the point of being enviable — as straightforward as a monocellular organism.
+712	Voice@r@vm_koe0048."With that, let us begin the trial."
+713	Voice@r@vm_koe0049."You have 5 minutes. You had best fully expose your true selves."
+
+# 02_intA02_06_初めての、ゲーム開始６ (game start 6)
+714	@rEhh? Are you for real?
+715	@rI don't get at all what you envy so much about me.
+716	@rRather, aren't you the one who always, always made everyone else so envious?
+717	@rYeah, I guess I just didn't know how to say it.
+718	@rDo you think that, when you made friends with others, you became their friend at 100%?
+719	@rYou don't get what I mean? Well, I was told that too, and I didn't think it made any sense either.
+720	@rLike, here's an example. Let's say you make friends with that kid at school.
+721	@rBut here's the thing: you only see that ‘friend’ in the isolated space known as school.
+722	@rHypothetically, let's say you also go to cram school. You're stupid, so you get low grades. But that ‘friend’ of yours has high grades, and rises to the top spot at the cram school…
+723	@rAt times like these, do you still think of that kid as your ‘friend’ in the space known as cram school, the same as you would at school?
+724	@rOn the contrary, meeting up with them at cram school might even change your relationship with them at school… do you understand now?
+725	@r…Incomprehensible, you say?
+726	@rAhaha, you're right! I said so too! I thought it was toootally incomprehensible!
+727	Voice@r@vm_koe0050."With that, let us begin the trial."
+728	Voice@r@vm_koe0051."You have 5 minutes. You had best fully expose your true selves."
+
+# 02_intA02_07_初めての、ゲーム開始７ (game start 7)
+729	@rHow come Mina refers to herself in the third person, you ask?
+730	@rRight, about that… I mean, it's because, this ‘Mina’ is just my little puppet.
+731	@rAh~n, no, it's not an edgy teenager thing or anything like that. It's more like, an avatar or an icon or something.
+732	@rAren't boys also like that?
+733	@rAt school they talk like men. But when their moms show up on parents' day, don't they always talk like little boys?
+734	@rAnd it's not just about their manner of speech.
+735	@rLike how they might act high and mighty at school, but at home they're all polite.
+736	@rOr how they might be the honor student in front of the teacher, but when the teacher isn't around, they become bullies.
+737	@rIt's almost like a split personality, doncha think?
+738	@rEh? It's not as if people's personalities are split just from a change in environment, you say?
+739	@rNope, you're wrong. We have good and proper split personalities too, even if only a little.
+740	@rThis is how ‘Mina’ came to be.
+741	@rInside of me is a ‘me’ who might think ‘maan, today's piano lessons are a pain in the ass.’
+742	@rAt the same time, there's ‘another me’ who just genuinely enjoys chatting, and ‘yet another me’ who thinks it's all a pain and wants to get it over with already.
+743	@rSo, you see, all of that, all of it, exists at the same time, see?
+744	@rBut I think others would get confused by this, so the puppet I call ‘Mina’ is seated at the reception desk and chats just like that.
+745	@r…You don't quite get it? Hmm, Is it really that difficult to understand?
+746	@rDon't we all get this kind of self awareness at some point, before we even start elementary schoool?
+747	Voice@r@vm_koe0052."With that, let us begin the trial."
+748	Voice@r@vm_koe0053."You have 5 minutes. You had best fully expose your true selves."
+
+# 02_intA02_08_初めての、ゲーム開始８ (game start 8)
+749	@rThis is just a hypothetical, but,
+750	@rWould you be able to enjoy a friendly chat with someone you hate, who shares the same interests as you?
+751	@r…What? If that was the case, you'd already be friends and you wouldn't hate them anymore, you say?
+752	@r@z95.I see, I see. If you couldn't even do that, you'd still find them unpleasant, but if you're able to enjoy a conversation with them, at that point you've already become friends. Is that what you mean?
+753	@rIf that is so, then it's just like I thought. Compared to us, the world you all inhabit is far simpler.
+754	@rThey often talk about someone's true feelings being covered by a single mask.
+755	@rThose who can only imagine these two things are remarkably simple. They aspire to be like the people they respect. Quite frankly, it's enviable.
+756	@rBut for us, it's more complex than that.
+757	@rMixed and piled up in between those are countless, countless, innumerable layers, like geological strata, or perhaps like a mille-feuille.
+758	@r@z93.And, from one moment to another, any of those layers might rise to the surface, as well as any of the layers underneath that one, and any other layer even further beneath that one… it's dizzying, the way they change.
+759	@rNo, it's not difficult to describe.
+760	@rEven you — if, say, you were in the same situation — might find that your behavior differs depending on your mood at the time, wouldn't you say?
+761	@rTo us, it's obvious that we live in that kind of world.
+762	@rEven though we said the exact same thing. Did the exact same thing. Had the exact same thing done to us.
+763	@rOur reactions are exact opposites at certain times.
+764	@rLike, it happens all the time that something we might have thought to be for the best will be taken the wrong way. And the opposite, as well.
+765	@r@z95.What I mean is, the same kid might be your best friend at certain times, and at other times might be someone you hate so much that you don't even want to see their face. For us, this isn't rare at all.
+766	@r@z93.So that's why your best friend of ten years might suddenly become someone you really hate, and even still, the next day you might forget all about it and make up again, and even this just seems obvious.
+767	@rEven if your best friend of ten years said something awful to you, I mean, of course you'd be shocked, but you'd just think ‘I guess today is that kind of day?’ and nothing more.
+768	@rActually, you'd only pretend to be shocked, since you'd gradually have been desensitized to this happening.
+769	@rMeanwhile, us girls could have a lively talk as best friends while holding onto grudges we won't let go of as long as we live.
+770	@r@z85.Even if you think we'll just let it go and forget about it the next day… we might abruptly remember a grudge we've been holding onto for ten years, and then it becomes evident that we've always felt that resentment for all these ten years and, as a result, act accordingly.
+771	@rFrom your point of view, we must seem almost like yokai.
+772	@rBut we think it's just being human.
+773	@rBeing intimate with each other, hating each other, even while being able to quickly forgive each other, even while holding onto a grudge.
+774	@rSo, even though it's all jumbled together, at a glance you can almost see it glittering and sparkling like a kaleidoscope…
+775	@rGazing vacantly into that glittering kaleidoscope, all you can do is admire us, Sora-kun.
+776	@rI am saying this for your sake.
+777	@rI'd recommend getting reborn as a man in the next life. Even I want to be one.
+778	@rSince I'm sure it must be easy.
+779	Voice@r@vm_koe0054."With that, let us begin the trial."
+780	Voice@r@vm_koe0055."You have 5 minutes. You had best fully expose your true selves."
+
+# 02_intA02_09_初めての、ゲーム開始９ (game start 9)
+781	Fuuka@r@vfuuka0100."Hey, you boys!! No fighting!!"
+782	Mina@r@vmina0129."Teacher, teacher! The boys are fighting over heeere!"
+783	@rSora-kun is being pushed around by a bunch of boys in the class.
+784	@rStartled by the teacher being called over, they quickly disperse.
+785	@rShe said fighting, but Sora-kun never actually laid hands on anyone.
+786	@rHe may be a child, but he's also a member of a traveling troupe.
+787	@rChildren are strictly forbidden from fighting at their performance venue. So Sora-kun will absolutely never lay a hand on anyone.
+788	Karin@r@vkarin0126."Sora-kun, you okay?! God, those losers are just the worst, ganging up on one person!"
+789	Doremi@r@vdoremi0112."But how could that be… I don't think you ever did anything to get mixed up with that crowd, Sora-kun."
+790	Sora@r@vm_sora0001."…Hmm."
+791	Sora@r@vm_sora0002."It's just monkeys ascertaining their pecking order… Men haven't evolved at all since they were monkeys."
+792	Fuuka@r@vfuuka0101."Hahahaha. It's almost like you aren't a boy yourself."
+793	Sora@r@vm_sora0003."…I don't regret being born a man."
+794	Sora@r@vm_sora0004."But… if I could choose in the next life, I would absolutely never want to be born a man ever again."
+795	Mina@r@vmina0130."What did Sora-kun mean earlier, by monkeys ascertaining their pecking ooorder…?"
+796	Karin@r@vkarin0127."Exactly what it sounds like, right? Isn't it like, the rank ordering in the pack, or something?"
+797	Doremi@r@vdoremi0113."…It seems that some kinds of animals maintain a strict hierarchy in their pack."
+798	Fuuka@r@vfuuka0102."But it would be much nicer if everybody could just get along and not worry about whether they're above or below others, y'know…"
+799	Sora@r@vm_sora0005."Hmph. Men can't do that, so in the end they're just monkeys."
+800	@rWhat Sora-kun is saying… is that since men are also animals with a pecking order, they have an animal instinct that makes them want to clearly determine the hierarchy in their pack.
+801	Sora@r@vm_sora0006."So like, for men, changing classes, or changing schools, or changing environments, makes everything suddenly unstable."
+802	Mina@r@vmina0131."Ah~, Mina might kinda get it."
+803	Mina@r@vmina0132."Boys might be able to open their hearts in the end, but they must always start out cold and mean, every single time."
+804	Karin@r@vkarin0128."So, in other words, there's instability if you don't clearly determine who's above or below whomever else?"
+805	Sora@r@vm_sora0007."The pecking order is determined by lots of stuff, like how strong you are in a fight, or how smart you are, or how reliable you are."
+806	Sora@r@vm_sora0008."But if they don't get that cleared up… who knows what kinds of things men might do to each other."
+807	@rSo, once boys are done being ranked, there's stability, since the pecking order is clearly determined.
+808	@rHowever, when there's a transfer student whose place in the pecking order is unclear… the pack of boys in the class is once again cast into disarray.
+809	@rSo, those guys raised their hands against Sora-kun, trying to rank him.
+810	@rBy the way, since Sora-kun is mature for his age, he doesn't involve himself in skirmishes with bratty, immature boys.
+811	@rThat's why the monkeys can't determine Sora-kun's place in the pecking order, and thus always mess with him.
+812	@rHe has coolly explained to them how this instability led to those guys stirring up fights like the one today.
+813	@rHe's had to be the transfer student over and over, so many times already.
+814	@rThus he gets dragged into skirmishes like this one… and finds himself fed up with the nature of those animals called boys.
+815	Fuuka@r@vfuuka0103."Do boys not have relationships as equals, without being on top or below…?"
+816	Sora@r@vm_sora0009."…You'd think the power of reasoning, which we just barely have as humans, would give us enough awareness to do so…"
+817	Sora@r@vm_sora0010."But in the end, if we don't have a good understanding of who's superior to the other, the awkwardness lingers."
+818	Karin@r@vkarin0129."Do you feel that way too, Sora-kun?"
+819	Sora@r@vm_sora0011."It's unfortunate, but, since I was born a man… I do, more or less."
+820	Sora@r@vm_sora0012."And that's… the most unfortunate part of all."
+821	Fuuka@r@vfuuka0104."Sora-kun…"
+822	Doremi@r@vdoremi0114."In prehistoric times, men were tasked with life-threatening jobs, like hunting and battling and such."
+823	Doremi@r@vdoremi0115.@z95."‘Who's stronger?’, ‘Who's the leader?’. It might all be left over from an era when you had to determine these things, because not establishing a chain of command could prove fatal…"
+824	Sora@r@vm_sora0013."I guess that's right… In the end, we're just cavemen who haven't outgrown our traditions from when we were monkeys. By ‘we’ I mean ‘men’."
+825	Mina@r@vmina0133."If Sora-kun hates boys, then… does he hate himself for being a boy?"
+826	Sora@r@vm_sora0014."If I have to choose between love and hate, I guess it would be hate."
+827	Sora@r@vm_sora0015."But I was born a man, so all I can do is live as a man."
+828	Sora@r@vm_sora0016."But that's why, if I could choose… I'd really want to be born a woman in the next life."
+829	Sora@r@vm_sora0017.@z92."I could have relationships without being above or below someone else, without having to wear a mask, without these shackles, and I could be close to others as their equal, just like you guys… I really want to get reborn as a girl."
+830	Fuuka@r@vfuuka0105."Sora-kun, you're fantasizing too much."
+831	Sora@r@vm_sora0018."…Eh?"
+832	Voice@r@vm_koe0056."With that, let us begin the trial."
+833	Voice@r@vm_koe0057."You have 5 minutes. You had best fully expose your true selves."
+
+# 02_intA02_10_初めての、ゲーム開始１０ (game start 10)
+834	Karin@r@vkarin0130."…I think Sora-kun's suspicious after all."
+835	Mina@r@vmina0134."Eh? wh-why's that…?"
+836	Karin@r@vkarin0131."He has a connection to us four. And this situation is so much like a play or a movie…"
+837	Doremi@r@vdoremi0116."…If you line up all the keywords here, an association with him isn't out of the question."
+838	Mina@r@vmina0135."T-that's totally it, it's gotta be Sora-kun!"
+839	Mina@r@vmina0136."This has all gotta be Sora-kun pulling a big surprise on everyone, all to give us four good friends a good shoock!"
+840	Fuuka@r@vfuuka0106."…I understand that this incomprehensible situation is breeding instability."
+841	Fuuka@r@vfuuka0107."And I do understand… that we want to settle on Sora-kun as a suspect so we can understand this, even if it's forced."
+842	Fuuka@r@vfuuka0108."But… I know he's definitely not the type of person who could even think of a tasteless prank like this."
+843	Fuuka@r@vfuuka0109."So, please don't hurt Sora-kun by suspecting him, even in a situation like this. If you'll excuse my saying so."
+844	Fuuka@r@vfuuka0110."And besides… he couldn't be the mastermind. It's absolutely unthinkable."
+845	Karin@r@vkarin0132."Absolutely?"
+846	Fuuka@r@vfuuka0111."Yeah. Absolutely. Absolutely, positively, for certain. There's just no way."
+847	@rEveryone already knows about Fuuka's single-minded devotion to Sora-kun for as long as she has known him.
+848	@rSo they can sense that having her beloved be treated like he's the mastermind would be very uncomfortable for her…
+849	@rBut still, however many times Fuuka asserts that it's absolutely unthinkable, the other three are instead getting an unsettling feeling about it….
+850	Karin@r@vkarin0133."I get how you feel, but what makes your assertion absolute?"
+851	Fuuka@r@vfuuka0112."………"
+852	Doremi@r@vdoremi0117."…Is it unthinkable that he would pull this kind of tasteless surprise?"
+853	Mina@r@vmina0137."By now, Sora-kun is a high schooler just like Mina and her friends, right?"
+854	Mina@r@vmina0138."Like, don't boys have dramatic changes in personality and stuff around the 2nd year of middle schoool?"
+855	Karin@r@vkarin0134."Ahhh, they do, that they do. I guess he must be afflicted with teen edginess. Maybe from his middle school or high school debut, or something."
+856	Doremi@r@vdoremi0118."He's probably still transferring a lot. He must get a lot of opportunities to change his persona."
+857	Karin@r@vkarin0135."Right, right. So he probably got into locked room death game horror. That has to be it."
+858	Mina@r@vmina0139."…Then who is the boy in that cage?"
+859	Karin@r@vkarin0136."It must be… it must be a friend of Sora-kun he met as a transfer student…. Yeah…"
+860	Fuuka@r@vfuuka0113."That's enough. I told you Sora-kun is absolutely not the mastermind."
+861	Fuuka@r@vfuuka0114."I still love Sora-kun, even now."
+862	Fuuka@r@vfuuka0115."…That's why, however many years have gone by, I won't allow anybody to slander him!"
+863	Mina@r@vmina0140."May Mina ask you something, Fuuka-chan…? Why is Fuuka-chan able to make an ‘absolute’ assertion about this?"
+864	Doremi@r@vdoremi0119."I feel the same… Fuuka, we've heard you're ‘absolutely’ certain Sora-kun could never be the mastermind."
+865	Karin@r@vkarin0137."You're absolutely certain he's not he mastermind… but like, why? How can that be?"
+866	Fuuka@r@vfuuka0116."………"
+867	Fuuka@r@vfuuka0117."…To be honest, I don't want to say it."
+868	Fuuka@r@vfuuka0118."But… it seems that if I don't say it out loud, the slander won't end…. So I'll say it."
+869	Fuuka@r@vfuuka0119.——He's dead. @r……Sora-kun died, a very long time ago.
+870	Karin@r@vkarin0138."…Eh. Ehhh?!?!"
+871	Mina@r@vmina0141."M-Mina never knew that! When?! When did he die?!"
+872	Fuuka@r@vfuuka0120."…The day Sora-kun left us. Do you remember?"
+873	Doremi@r@vdoremi0120."Uhh…"
+874	@rAt last. The day came when Sora-kun's troupe was done performing here, and he was to leave the area…
+875	@rFriday was to be his last day at school.
+876	@rAfter school that day, Sora-kun went to the houses of all four of his good friends, and left each of them a present…
+877	@rHowever, in actuality, the day he would leave town wasn't that day.
+878	@rThe day after, and the day after that — Saturday and Sunday — the troupe was to put on their final performance.
+879	@rOnce that was over, the troupe would depart from this area.
+880	@rOf course, Sora-kun's four good friends were going to watch his final stage performance…
+881	Karin@r@vkarin0139."…I remember now. Right, Sora-kun was playing some ninja swordsman prodigy."
+882	Doremi@r@vdoremi0121."He was supposed to do all these fights and action scenes and stuff, but I'm pretty certain he never got to show any of it to us."
+883	Mina@r@vmina0142."He was a professional, so he always said he wouldn't show off any of it except when he was onstage."
+884	Doremi@r@vdoremi0122."He was a true artisan; that was so cool about him…"
+885	Mina@r@vmina0143."Karin-chan always, always said that she wanted Sora-kun to show off his fighting."
+886	Karin@r@vkarin0140."Sora-kun thought he would finally, finally get to show us his fighting in the lead role… he was really looking forward to it, I remember…"
+887	Fuuka@r@vfuuka0121."Right…. But we weren't able to watch Sora-kun perform onstage."
+888	@rFriday. We'd all carefully saved up our allowances so we could watch Sora-kun's performance…
+889	@rBut somehow, the program was changed.
+890	@rEven still, we entered the venue to see Sora-kun and patiently waited for him to apear.
+891	@rBut Sora-kun never came out onto the stage…
+892	Mina@r@vmina0144."They said he'd… suddenly caught a cold, right?"
+893	Doremi@r@vdoremi0123."That's right… When we all went to ask what happened to Sora-kun, that's what they told us…"
+894	Karin@r@vkarin0141."In the end, his cold lasted through Sunday. We couldn't even come to visit him, because they didn't want us to catch his cold."
+895	Fuuka@r@vfuuka0122."…Right. All of us elementary schoolers made a flower bouquet and left it with his mom at his house."
+896	Fuuka@r@vfuuka0123."But that… was to be our parting with Sora-kun."
+897	Mina@r@vmina0145."Eh… n-no way, it wasn't a cold…?!"
+898	Fuuka@r@vfuuka0124."………"
+899	@rAlthough he'd gotten a sudden onset of fever, it seemed he was able to keep his consciousness.
+900	@rNormally, if there are no other obvious symptoms, you'd be advised to watch and wait for the time being, and be prescribed a fever medicine. And that would be the end of it.
+901	@rHis parents were busy with his final performance and courtesy calls, and with dismantling the equipment.
+902	@rThey occasionally checked in on Sora-kun sleeping in his futon, but since they thought he was just sleeping quietly, they left him alone…
+903	Fuuka@r@vfuuka0125."…I thought it sounded like… he vomited or something while he was asleep, and suffocated from the vomit in his throat."
+904	Karin@r@vkarin0142."Th-this has gotta be the first I've heard of this!!"
+905	Doremi@r@vdoremi0124."Who did you hear that from?!"
+906	Fuuka@r@vfuuka0126."Sora-kun's mom…. Sora-kun had given me his mom's cell number."
+907	Fuuka@r@vfuuka0127."I mean, I loved Sora-kun. I would have wanted to exchange parting words with him."
+908	Fuuka@r@vfuuka0128."I thought he'd at least call me and talk to me once he was feeling better…"
+909	@rSo she thought, and when Monday night came, sure enough, Fuuka received a phone call.
+910	@r‘He… passed away’…
+911	Fuuka@r@vfuuka0129."Do you remember the day I took off that week? That was the day I went to his funeral."
+912	Mina@r@vmina0146."W-why didn't you tell Mina and her friends about this?!"
+913	Karin@r@vkarin0143."So, you went to the funeral alone, Fuuka?!. …Without saying a word about it to any of us?"
+914	Fuuka@r@vfuuka0130."…It must have been heartless of me. But I didn't want to tell anybody. Sorry."
+915	Karin@r@vkarin0144."‘S-sorry’ you say…? Don't try to downplay this shit! How come you didn't tell any of us?!"
+916	Doremi@r@vdoremi0125."………"
+917	Doremi@r@vdoremi0126."…So you hoped to keep him all to yourself by going to his funeral on your own?"
+918	Fuuka@r@vfuuka0131."………"
+919	Fuuka@r@vfuuka0132."…That's right. Sorry."
+920	Mina@r@vmina0147."Mina… doesn't really get it…"
+921	Doremi@r@vdoremi0127."I know this is not satisfying, but… try not to torment Fuuka any more over this situation."
+922	Fuuka@r@vfuuka0133."Thank you, Doremi."
+923	Karin@r@vkarin0145."…I just don't fucking get it. Oh well, I'll just call it water under the bridge."
+924	Karin@r@vkarin0146."In any case, do you know for certain that Sora-kun is dead?"
+925	Fuuka@r@vfuuka0134."Yeah. I even saw him lying in his casket."
+926	Fuuka@r@vfuuka0135."So that's why there's no way Sora-kun could be the mastermind."
+927	Karin@r@vkarin0147."Say that was a fake to make you think he was dead. Or maybe it was someone else who looked just like him…"
+928	Fuuka@r@vfuuka0136."That's enough. This is why people say behind your back that you don't understand other people's feelings, Karin."
+929	Karin@r@vkarin0148."Eh, wh-who said that about me?!"
+930	Mina@r@vmina0148."In any caaase, there's no way Sora-kun could be the mastermind, it's impossible."
+931	Karin@r@vkarin0149."…Hm. I see…"
+932	Karin@r@vkarin0150."Even still, I think it absolutely has to be him."
+933	Mina@r@vmina0149."How can Karin-chan be so certain that it has to be Sora-kun?"
+934	Karin@r@vkarin0151."…Because of, like, this whole situation."
+935	Karin@r@vkarin0152."Like, Sora-kun… Didn't he always say he wanted to be reborn as a woman?"
+936	Doremi@r@vdoremi0128."He did say that. Although, deep down, I felt like his dream of living as a girl was going a little too far."
+937	Karin@r@vkarin0153."Right, right. Like, that's why. That's why we're in this situation."
+938	Karin@r@vkarin0154."This situation is like, us four being confined. Doesn't this almost make you feel like a death game is going to start?"
+939	Karin@r@vkarin0155.@z92."A death game is, well, you force people into the most extreme situation, you force them to rip off the skin of their disguise, you make them show their innermost human emotions… doesn't this feel exactly like that?"
+940	Mina@r@vmina0150."…Mina would rather not think about it, but…. If Mina really is in a death game…"
+941	Mina@r@vmina0151."If Mina and her friends want to survive, they have to say and do terrible things to each other, don't they…"
+942	Doremi@r@vdoremi0129."…Indeed. If Sora-kun were to see that unfold, he'd undoubtedly be disillusioned."
+943	Karin@r@vkarin0156."That's what I'm saying! Sora-kun, who aspires to be a girl, must've locked us up in here to make us play a death game so we'd show him the reality of being a girl-"
+944	Fuuka@r@vfuuka0137."God, that's enough! I said Sora-kun has nothing to do with this, did I not?!"
+945	Mina@r@vmina0152."If it's like Karin-chan says… If Sora-kun is alive, that should be him in the cage."
+946	Boy@r@vm_shou0005."………"
+947	Doremi@r@vdoremi0130."But the kid in the cage isn't Sora-kun."
+948	Mina@r@vmina0153."To begin with, Mina doesn't know if words will even get through to him…"
+949	Boy@r@vm_shou0006."………"
+950	Fuuka@r@vfuuka0138."In any case. Instead of wasting time on this worthless conversation, it would be better if we search this room."
+951	Doremi@r@vdoremi0131."You're right…. I would absolutely never want to be dragged into a death game, so…"
+952	Mina@r@vmina0154."The kid in this cage. Just who could he be…"
+953	Karin@r@vkarin0157."I dunno…"
+954	Karin@r@vkarin0158."…Yo, little boy. Be honest, okay? …You're Sora-kun… aren't you?"
+955	Boy@r@vm_shou0007."………"
+956	Voice@r@vm_koe0058."With that, let us begin the trial."
+957	Voice@r@vm_koe0059."You  have 5 minutes. You had best fully expose your true selves."
+958	Voice@r@vm_koe0060."You, boy. I will show you all of it, without leaving anything out."
+959	Voice@r@vm_koe0061."That is what you wished for, the trial you wished for. @rOr perhaps, the punishment."
+960	Boy@r@vm_shou0008."…………"
+961	Fuuka@r@vfuuka0139."…What?"
+962	Doremi@r@vdoremi0132."You'd be better off worrying about yourself rather than other people…!"
+
+# 02_intA02_11_初めての、ゲーム開始１１ (game start 11)
+963	@rI was drifting.
+964	@rLike a fish. Or maybe like smoke.
+965	@rI allowed my body to drift with the flow as if in a gently rippling stream…
+966	@rIf that flow is like a river… then I think I was fished out of it… by a fisherman on a small boat.
+967	@rI'm probably not in the form of a cat right now.
+968	@rFrom what I can tell, it seems more like a fish than anything else, but that's probably wrong.
+969	@rI'd be slimy and slippery… of course, I don't know exactly what form I'm in.
+970	@rThe fisherman picked me up, turned to face me, and stared fixatedly at me…
+971	@rAlthough I don't even know whether or not I have eyes right now.
+972	@rFrom his aura, the person who fished me up, grabbed me, and looked at me felt human to me, but… something was off.
+973	@rIt was overflowing with warmth and radiance…
+974	@rJust from that feeling, I was filled with a sublime sensation that made me want to fall asleep like a baby…
+975	Voice@r@vm_koe0062."What do we have here. I've caught something rare."
+976	Me@r@vm_boku0001."…Hello. I am not a thing. I have a name. It's Kuu-chan."
+977	Voice@r@vm_koe0063."Well, well, this is even more of a rarity."
+978	Voice@r@vm_koe0064."A thing that can talk, and on top of that, it has a name. Ho-ho-ho-ho…"
+979	Me@r@vm_boku0002."…That's right. I thought I was a cat."
+980	Me@r@vm_boku0003."But, I have no hands, and no feet, and no tail…"
+981	Me@r@vm_boku0004."Just what am I? If I'm not a cat, maybe I really am just a thing…?"
+982	Voice@r@vm_koe0065."…Hmm. Weell, it appears some kind of destiny has brought you to my fish hook, long though it has been since it was last used."
+983	Voice@r@vm_koe0066."Now then, I'll take a look."
+984	Voice@r@vm_koe0067."To your existence as Kuu-chan the cat."
+985	@rAs he said that, that person picked me up and stared fixatedly at me.
+986	@rThen, after just a little while, he let out a hearty laugh, conveying to me that he'd finished admiring my existence.
+987	@rI thought I'd done enough as myself, and that my life hadn't been too short, so it felt only a little bit unfortunate that it had been ended so abruptly.
+988	Voice@r@vm_koe0068."Ho-ho-ho. You needn't worry."
+989	Voice@r@vm_koe0069."The length of your life is of no great importance. What's important is how full it was."
+990	Voice@r@vm_koe0070."And yet, still…. Are you not satisfied with it, little one?"
+991	Voice@r@vm_koe0071."Maybe you aren't satisfied now, but even before then, you did lose your life while you were still young."
+992	Voice@r@vm_koe0072."Ho-ho-ho. You must want to be together with your dearly beloved friends again. I suppose that lingering regret is the form you take on…"
+993	Me@r@vm_boku0005."…I don't quite understand. It's too complicated."
+994	Voice@r@vm_koe0073."Hmm. In the life before you became a cat, there was much suffering, wasn't there?"
+995	Voice@r@vm_koe0074.@z92."You died of an illness while you were still young but like you wished at the time of your death of a body who would never have to move around, you were able to return once more to the place of the girls you loved so much…"
+996	Me@r@vm_boku0006."…You mean, even before I was a cat, I already loved them?"
+997	Voice@r@vm_koe0075."It certainly seems so. And so, when those girls were in danger, you sacrificed your own life to save theirs, and thus once again, your life was cut short…"
+998	Voice@r@vm_koe0076."Hmm…. Such may be the meaning of your existence but… alas, how pitiable."
+999	@rThe person set me down gently in the boat's hull, folded his arms, and groaned out a ‘yees.’
+1000	Voice@r@vm_koe0077."Your life was cut short twice. And what's more, your time with your friends was cut short, as well…"
+1001	Voice@r@vm_koe0078."And to add to that pity, you sacrificed yourself to save your friends, a display of your ultimate devotion to them…"
+1002	Voice@r@vm_koe0079."I mustn't let this go unlauded. For my fishing rod to have caught you in the first place — it must have been some kind of destiny."
+1003	Voice@r@vm_koe0080."Very well, Kuu-chan… go ahead and tell me of your desire."
+1004	Me@r@vm_boku0007."Eh? May it be anything?"
+1005	Voice@r@vm_koe0081."Ho-ho-ho. Even if you say ‘please bring me back to life,’ it's fine with me, you know? I'd say this evening calls for a lavish reward."
+1006	Voice@r@vm_koe0082."You may once again join your dearly beloved friends' circle, and this time you may live your life to the fullest, without lingering regret."
+1007	Me@r@vm_boku0008."If that's so, then, um…"
+1008	Voice@r@vm_koe0083."Whatever it is, go ahead and say it."
+1009	Me@r@vm_boku0009."It's very selfish of me, but… um!"
+1010	Me@r@vm_boku0010."It isn't being brought back to life. I want to be reborn."
+1011	Voice@r@vm_koe0084."Ho-ho-ho. Do you dislike being a cat after all? Would you like to be a human?"
+1012	Me@r@vm_boku0011."I want to be reborn as a human… girl…"
+1013	Voice@r@vm_koe0085."Into a different sex, huh…"
+1014	@rDespite the person even having enough power to resurrect the dead… from his response, it seemed like even just that meager thing I'd brought up was utterly bewildering.
+1015	@rThen again, I'm bewildered myself, that I have said something so outlandish and selfish…
+1016	Voice@r@vm_koe0086."…Actually, the soul itself has a sex."
+1017	Voice@r@vm_koe0087."You are a male, little one. A man. Whatever you might be reborn into, you will always be reborn as a male, a man."
+1018	Me@r@vm_boku0012."…I didn't know. …So, my sex can never be changed."
+1019	Voice@r@vm_koe0088."That's correct. If it weren't so, wouldn't people just end up preferring to be one sex over the other as it goes in and out of style?"
+1020	Me@r@vm_boku0013."I see…. If there were an extreme preference for one sex over the other, it would become pretty difficult to create future generations…"
+1021	Voice@r@vm_koe0089."Certain lifeforms may appear to change their sex during their life, but I'm afraid that won't quite change the sex of their soul."
+1022	Voice@r@vm_koe0090."After a great amount of trial and error with humans, I decided the sex distribution of souls should be strictly predetermined."
+1023	Me@r@vm_boku0014."………"
+1024	Voice@r@vm_koe0091."Kuu-chan… why do you want to be reborn into a woman, little one?"
+1025	Voice@r@vm_koe0092."Ho-ho-ho, isn't it good to be a man?"
+1026	Voice@r@vm_koe0093."The only flower in a swarm of bees, getting fussed over by girls in a harem mode, u-hoho-ho."
+1027	Me@r@vm_boku0015."…I do hate… being the male sex, a man."
+1028	Voice@r@vm_koe0094."Hoh."
+1029	Me@r@vm_boku0016."Males are always… competing with other males over something."
+1030	Me@r@vm_boku0017."When they first meet, the first thing they do is compete with each other. Determine who's above or beneath the other, who's the superior."
+1031	Me@r@vm_boku0018."When you lose just once, you will be oppressed forever."
+1032	Me@r@vm_boku0019."If you don't like it, you just have to compete all over again. You have to look for an opponent you think you can win against and then compete with him…"
+1033	Voice@r@vm_koe0095."That is the law of wild animals…. It isn't just male animals; it's the same for human men."
+1034	Me@r@vm_boku0020."There is no friendship between males, that is, men."
+1035	Me@r@vm_boku0021."The very first thing they do when they meet, every time, is compete to see who's above or below who."
+1036	Me@r@vm_boku0022."Every time I meet men, I'm forced to compete forever and ever…"
+1037	Voice@r@vm_koe0096."So you're saying friendships between men are never on equal terms…?"
+1038	Me@r@vm_boku0023."That's right…. They clearly establish a pecking order that they both accept, and an emotion they call friendship blossoms on the surface."
+1039	Me@r@vm_boku0024."However, because of the established pecking order and the power dynamics at that time, even if they are friends on the surface, a twisted relationship is imposed on them…"
+1040	@rIt may appear from the outside to be a group of boys who get along.
+1041	@rBut, it's well established that the lowest boy in the pecking order takes on the persona of being bullied, and has to wear the label of punching bag.
+1042	@rThere is but one difference between the bullied kid and the persona of being bullied. That is, whether or not all concerned parties agree to it.
+1043	@rGetting saddled with the role of backpack carrier when it's time to go to school, having his things hidden, getting caviled and made fun of.
+1044	@r@z93.Since I'm the bullied persona myself, there's not much I can do about playing this role. So, I can just laugh along with everyone else, and that lets me believe that it's fun, and of course, that I agreed to it….
+1045	@rWhen I got fed up with this… at that point, the label of bullied kid falls onto me.
+1046	@rIn the world of social animals, this describes a type of specimen called the omega.
+1047	@r@z91.Naturally, the specimen with the lowest position in the pecking order will have everyone's problems taken out on him at every opportunity, more than anyone else, and in most cases, he'll remain weak, no one will think or care about him, and he'll quietly die…
+1048	Me@r@vm_boku0025."That's… my greatest fear, that cuts into me the most, about being male."
+1049	Voice@r@vm_koe0097."So you keep competing. The fear of falling down the pecking order pushes you to do so… is that it."
+1050	Me@r@vm_boku0026."Whatever kind of creature I'm reborn as, I'll always have this fear as a male, so I can never escape the hell of eternal competition…"
+1051	Voice@r@vm_koe0098."But girls are different… is that it?"
+1052	Me@r@vm_boku0027.@z150."YES!"
+1053	Me@r@vm_boku0028."I always, always got along really well with the others, whom I loved so much!"
+1054	Me@r@vm_boku0029."It isn't just a superficial friendship where we reassert who's superior at every opportunity like it would be in our world!"
+1055	Me@r@vm_boku0030."I want to be a human girl… so this time, I can truly be friends with the others who I love so much-!!"
+1056	Voice@r@vm_koe0099."I see…"
+1057	Voice@r@vm_koe0100."…Say, Kuu-chan."
+1058	Voice@r@vm_koe0101."I, too, take an occasional gander at the human world's… ‘internet,’ see?"
+1059	Voice@r@vm_koe0102."I do know that people say things like, ‘men are degenerate losers unless they're hot,’ or ‘women live life on easy mode.’"
+1060	@rIf a man fails to find employment right after graduating from school, his place with the outcasts of society is set. He will never have another chance to make a comeback.
+1061	@rHowever, it's different for a woman. She has a second chance called marriage. Even if she fails to find employment, she has the option to find happiness in the household.
+1062	@rMen don't have that.
+1063	@rThe ones who fail to find employment don't have the option to build a household.
+1064	@rThe ones who fell through the cracks still want to avoid plummeting to the bottom of the barrel.
+1065	@rSo they reaffirm that they're not at the bottom of the barrel by seeking out humans with a lower position than themselves, and roaming about in a world of suffering.
+1066	@rIt is like the crucible of hell, simmering with departed souls dragging each other down…
+1067	Me@r@vm_boku0031."When boys first meet, they're enemies! Every new meeting is a brand new competition!"
+1068	Me@r@vm_boku0032."And then when one of them succumbs and submits, they call it friendship between men! Some friendship…!"
+1069	Me@r@vm_boku0033."But girls are different! When they first meet, they're able to get close to each other and hang out it's as if they've always been friends!"
+1070	Me@r@vm_boku0034."They're always overflowing with kindness and care! They have sincerity, and thoughtfulness, and unconditional love……-!!"
+1071	Me@r@vm_boku0035."Why must a man always be reborn as a man?!"
+1072	Me@r@vm_boku0036."I want to be born a girl! I want to try living as a girl!!"
+1073	Me@r@vm_boku0037."I want to rejoin Fuuka, and Karin, and Mina and Doremi… as a group of five good friends!!"
+1074	Me@r@vm_boku0038."I want to be part of a group of five good friends, this time for real, as a girl!!!"
+1075	Voice@r@vm_koe0103."………"
+1076	Voice@r@vm_koe0104."Very well."
+1077	Me@r@vm_boku0039."Eh?"
+1078	@rI'd thought for certain I'd be refused.
+1079	@rSo at first, I was more taken aback than happy about how easily I got what I wanted.
+1080	Voice@r@vm_koe0105."After hearing all that, it would be too heartless of me if I told you I can't do it. Ho-ho-ho…"
+1081	Voice@r@vm_koe0106."So, it shall be. The world of girls it shall be. Fluffy, chattery, and giggly. Butterflies among flowers, the chirping of little birds…"
+1082	Voice@r@vm_koe0107."Ho-ho-ho-ho. I shall make it come true for you, Kuu-chan."
+1083	Voice@r@vm_koe0108."Having you reborn as a human is no problem for me."
+1084	Voice@r@vm_koe0109."And furthermore! I shall have you reborn as a girl. Ho-ho-ho-ho."
+1085	Me@r@vm_boku0040."Th-thank you so much! I'm so happy!"
+1086	@rSo now… now I'll finally…!
+1087	@rI'll be released from the world of men, full of feuding with each other and sizing each other up!
+1088	@rI'll be reborn in the world of girls, where I can have a fair, kindhearted relationship with anyone as their equal…!!
+1089	Voice@r@vm_koe0110."However, Kuu-chan. My power alone is not sufficient for the secret art of changing the sex of a soul."
+1090	Me@r@vm_boku0041."It is my wish, so if there is anything I may do, please allow me to do it…!"
+1091	Voice@r@vm_koe0111."Hm. A good answer."
+1092	Voice@r@vm_koe0112."Nevertheless, if I can give you a fair warning?"
+1093	Voice@r@vm_koe0113."What you seek, Kuu-chan, will never be an easy thing."
+1094	Voice@r@vm_koe0114."It will certainly be what you'd call a trial."
+1095	Me@r@vm_boku0042."…Is it something very troublesome?"
+1096	Me@r@vm_boku0043."No. Of course it'd be troublesome. …I am not so na@u239.ve."
+1097	Voice@r@vm_koe0115."The arts of a Hermit will always require a tough trial for those who seek them."
+1098	Voice@r@vm_koe0116."That is why I gave you a clear refusal earlier."
+1099	Voice@r@vm_koe0117."It will be a painful trial, you know? You may come to regret taking it on…"
+1100	Me@r@vm_boku0044."If it means I can be reunited with the others who I love so much, this time as a girl. I will endure any kind of trial until the end."
+1101	Voice@r@vm_koe0118."I understand. Your strong willpower has gotten through to me."
+1102	Me@r@vm_boku0045."What kind of trial is it?"
+1103	Voice@r@vm_koe0119."Even if I were to tell you now, you would forget when the trial begins."
+1104	Voice@r@vm_koe0120."But even though you will forget about it… you will have to realize it by remembering it yourself, little one."
+1105	Me@r@vm_boku0046."…A trial to remember something… to realize something…"
+1106	Voice@r@vm_koe0121."That's right. If you can accomplish that successfully. Your wish shall be granted without fail, little one."
+1107	Voice@r@vm_koe0122."Well then. Let's give you a form with human ears that can hear human words."
+1108	Voice@r@vm_koe0123."In other words, a human form."
+1109	@rMy slippery body is lifted up and grows to a size to match, heating up and expanding before my eyes.
+1110	@rInto a comfortable… human form…
+1111	Voice@r@vm_koe0124."Once you're reborn as a human, your memories will be buried."
+1112	Voice@r@vm_koe0125."In all likelihood, little one… you will not be able to remember why this trial has been imposed on you."
+1113	Boy@r@vm_shou0009."………"
+1114	Voice@r@vm_koe0126."But you will have to recall that, too. …Little one, you will have to recall that there is something to recall."
+1115	Voice@r@vm_koe0127."Once you've realized that thing, you will be released from it."
+1116	Voice@r@vm_koe0128."When you've accomplished that, little one. Your wish shall be fulfilled…"
+1117	Boy@r@vm_shou0010."………?"
+1118	@rThe boy looks around dimly at his surroundings.
+1119	@rWho he is, where this is, what's happening… he doesn't understand any of this at all.
+1120	@rWhen one is reincarnated, their memories are buried.
+1121	@rIn most cases, the buried memories are gradually lost.
+1122	@rBut… even reborn as a cat, he never forgot the girls he loved so much.
+1123	@r…Sometimes, if one's feelings are strong enough… those can bring about the miracle called revival…
+1124	Voice@r@vm_koe0129."And that miracle, little one, is the cooperation I seek from you, the cost it takes…"
+1125	Voice@r@vm_koe0130."In that sense, it's a punishment… Motoki Sora-kun."
+1126	Boy@r@vm_shou0011."………"
+1127	Voice@r@vm_koe0131."Now, go and enter that cage."
+1128	@rHe noticed that at some point, a cage hanging by chains opened its mouth.
+1129	@rThe boy, still in a state of dimness, enters the cage.
+1130	@r…When he does, a violent metallic sound rings out and the cage is sealed shut, trapping the boy inside.
+1131	@rThe boy is neither startled nor panicked. …It's like he really doesn't understand the current circumstances.
+1132	Voice@r@vm_koe0132."Hmm…"
+1133	Voice@r@vm_koe0133."Now. With that, little one,"
+1134	Voice@r@vm_koe0134."Let us begin your trial."
+1135	Voice@r@vm_koe0135."The trial will be repeated 12 times."
+1136	Voice@r@vm_koe0136."There is one thing you must realize after the 12th time."
+1137	Voice@r@vm_koe0137."If you cannot do it, this trial will end in failure…"
+1138	Boy@r@vm_shou0012."………"
+1139	Voice@r@vm_koe0138."I will always be watching over you. Go."
+1140	@rIn the next instant, the boy's cage is plunged into the darkness below with tremendous speed, and disappears…
+1141	Voice@r@vm_koe0139."…I will pray for a miracle, boy."
+1142	Voice@r@vm_koe0140."So you want to be a girl, hm?"
+1143	Voice@r@vm_koe0141."And to think, if only your wish were to be surrounded by girls, be fussed over by them, and flirt with them all lovey-dovey, I could have easily granted it. Ho-ho-ho-ho…"
+1144	Voice@r@vm_koe0142."With that, let us begin the trial."
+1145	Voice@r@vm_koe0143."You have 5 minutes. You had best fully expose your true selves."
+1146	Voice@r@vm_koe0144."Boy. This is the 11th time. The time for the end of this trial is near."
+1147	Voice@r@vm_koe0145."I, too, am praying that you can bring about this miracle…"
+
+# 02_intA02_12_初めての、ゲーム開始１２ (game start 12)
+1148	@rI've already searched all four of their houses.
+1149	@rFirst, I went to Fuuka's house.
+1150	@rShe didn't expect that there would be a parting gift, so she was very happy about it.
+1151	@rAlso, she was surprised by the present I prepared for Karin.
+1152	@rIt's not something I can hand over. It's one of my precious tools of the trade.
+1153	@rIt's an acting prop. The katana I was to use as a ninja swordsman tomorrow.
+1154	@rIt's well made enough to look real onstage, so it looks to be of a different quality from the gifts for the other three.
+1155	Sora@r@vm_sora0019."Did you tell Karin to come to the vacant lot?"
+1156	Fuuka@r@vfuuka0140."…Of course!"
+1157	Fuuka@r@vfuuka0141."She said ‘I'll be there no matter what’ so I think it'll be alright."
+1158	@rAfter that, I went to Doremi's house.
+1159	@rRegardless of the fact I looked it up beforehand, I got lost, and it took me some time.
+1160	@rI rang the doorbell, but there was no response.
+1161	@rShe must have gone out.
+1162	@rThere was nothing to be done about it, so I thought I'd put her present in the mailbox or something.
+1163	@rBut there wasn't any kind of slot for mail, so I ended up having to leave it in front of the door.
+1164	@rDoremi's house felt like an old apartment complex, or maybe shared housing, so it had no eaves or awnings or whatever you'd call it.
+1165	@rIt felt like if you opened one of the front doors, it would just open out into an alleyway or something.
+1166	@rI had a few misgivings about leaving her present in front of the entrance, subjected to the elements, but I couldn't do much about it.
+1167	@rI leaned it gently against the door and then headed to the next place.
+1168	@rNext was Mina's house.
+1169	@rThis time it was rather the opposite, a very nice single-family house with a garden.
+1170	@rWhen I rang the doorbell, her mother came out to see me.
+1171	@rShe looked like a strict parent who was extremely serious about education, the total opposite of Mina's small animal-like cuteness.
+1172	@rShe said it seemed like Mina had plans with some friend and had run out in a hurry.
+1173	@r@z95.The mother looked at me with deep puzzlement, but she'd heard today was the day I'd be transferring to a different school, so, with a pleasant smile, she took the present to hold onto.
+1174	@rWith that I'd delivered all of their presents.
+1175	@rAfter that, all that was left was to go to the vacant lot Karin had called me to and wait.
+1176	@rMy present to Karin… wasn't something you can put in a box with a bow on top.
+1177	@rIt was something Karin had always kept on begging me for.
+1178	@rIt was action, with backflips and fights.
+1179	@rMy acting techniques were my work techniques.
+1180	@rMy father always told me to never show them to anyone except for times when I was at work.
+1181	@rBut… this is a special occasion.
+1182	@rAs my parting gift to Karin, I intended to show off the fighting and action she'd always begged me for.
+1183	@rKarin hadn't shown up to the vacant lot yet.
+1184	@rWaiting there with my prop sword, like Kojirou waiting for Musashi on Ganryuujima.
+1185	Sora@r@vm_sora0020."…I wonder if Karin will like this."
+1186	@rHowever much Karin clumsily tries to act self-important, it seems something is really holding her back, so she must be scared.
+1187	@rThe people in Kamen Kendo's action scenes are all professional actors trained to do action. On top of that, their acting is paired with super flashy CG.
+1188	@rMaybe if she's expecting that kind of level from me, she might just end up being disappointed after all…
+1189	@r…I'm nervous.
+1190	@rNow that I'm this nervous, I feel like I should just have bought Karin a regular present instead of going to this much trouble…
+1191	@r…………
+1192	@r………
+1193	@rSuddenly, the wind became cooler.
+1194	@rAt some point, the sky became gray.
+1195	@rSo much time has already passed, but Karin hasn't shown up.
+1196	@rKarin seemed like the type who could be nonchalantly late… even so, quite a bit of time has passed.
+1197	@rKarin… why aren't you coming…?
+1198	@r………
+1199	@rIt'll be time for my rehearsal soon. It's the last rehearsal before the real thing tomorrow, so I absolutely must not be late for it.
+1200	@r…Then, at last… rain begins to fall.
+1201	@rAnd it's pouring down in heavy drops.
+1202	@rA heavy rain is coming down, first with a pitter patter, then a continuous splash.
+1203	@rI keep waiting for Karin, even as I was showered in the rain…
+1204	@r…It's strange. The way my body is cooling down is strange.
+1205	@rA cold? …It doesn't feel like one.
+1206	@rIt feels like this is probably all the fatigue I've been holding at bay, coming back to bite me all at once.
+1207	@r…I see. …I think if I wait any more than this… I'll reach my limit.
+1208	@r………
+1209	@r…I shouldn't be doing this much just to seem cool. …I should just have bought Karin a normal present.
+1210	@rIt's already… time.
+1211	@rKarin is the only one… I couldn't give a present to.
+1212	@rThe letter I wrote to Karin is all soggy and running from the rain.
+1213	@r…The other three all have presents, but only Karin doesn't.
+1214	@rKarin, if you find out about this later, you'll probably be hurt…
+1215	@rBut you said you'd come here, and you didn't, so you're the one at fault, Karin…
+1216	@r…No, she must have had some sudden errand.
+1217	@rEveryone said they'd come see me perform tomorrow.
+1218	@rI should apologize when I see Karin there tomorrow…
+1219	@r…I trudged home with my head down.
+1220	@r………
+1221	@r…That night.
+1222	@rAs expected, I came down with a fever.
+1223	@rEven though I had to endure the performance fatigue until after the show was over, I could already feel it coming on.
+1224	@rDad scolded me harshly, saying that ‘taking care of your health is part of your job as a professional.’"
+1225	@rI didn't want to rest. No matter how bad my fever got, I wanted to stand onstage and perform for everyone.
+1226	@rBut the high fever made my consciousness faint, so I wasn't even able to do that much… and the most I could do was curl up in my futon.
+1227	@r…I'm feeling so sick. Now and then, I feel nauseous.
+1228	@rMaybe it'd be better if I leave a washbowl next to my pillow, in case I suddenly vomit…
+1229	@r…But my mind is dizzy and foggy… I can't get up…
+1230	@r…………
+1231	@r………
+1232	@rAnd then.
+1233	@rBy the time I realized, at some point I had… let myself be carried away in a mysterious great river.
+1234	@rI didn't know where this was or how I got there.
+1235	@rBut I knew just one thing.
+1236	@r…I was being taken further and further away from any place I'd been before.
+1237	@rI'm going away…. I need to return.
+1238	@rI need to return to the others I'm close with.
+1239	@rI'll return once more. And then I'll become the fifth close friend in the group.
+1240	@rFuuka. Karin. Mina. Doremi.
+1241	@rFrom here on, I'll return, so… I want to have fun with you again…
+1242	@rA warm and soft, very big, very calming something caressed me over and over.
+1243	@rA tongue.
+1244	@rIt was the tongue of a mother cat licking me, her newborn, over and over.
+1245	@r…That's right. I'm a cat, huh.
+1246	@rBut.
+1247	@rThe place I was to return to… had already been decided before I was born.
+1248	Voice@r@vm_koe0146."With that, let us begin the trial."
+1249	Voice@r@vm_koe0147."You have 5 minutes. You had best fully expose your true selves."
+1250	Voice@r@vm_koe0148."Boy. We have reached the end. This is the 12th trial."
+1251	Voice@r@vm_koe0149."You should now be able to recall what it is that you must soon realize."
+1252	Boy@r@vm_shou0013."………"
+1253	Voice@r@vm_koe0150."You should already have recalled it."
+1254	Voice@r@vm_koe0151."Moreover, there is still something you have to do, have you recalled it."
+1255	Boy@r@vm_shou0014."………"
