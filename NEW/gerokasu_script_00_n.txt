@@ -53,13 +53,13 @@
 52	Fuuka@r@vfuuka0006."...There's no handle on it."
 53	Karin@r@vkarin0009."Hng, ghh, gh...!!"
 54	Doremi@r@vdoremi0008."Don't strain yourself... Clearly, it's no use."
-55	@rIt seems to be a tightly shut elevator door, so Karin is using her nails to try to get it open.
-56	@rHowever, as this situation was clearly designed to confine them, …this certainly won't be enough to open it.
-57	@rAnd even if, say, she were to get it open… there'd still be nothing she could do about the chain on her collar…
-58	@rAt this point, suddenly, an eerie mechanical sound can be heard somewhere far away, perhaps from something metallic.
-59	@rWhatever kind of machine it is, it must be running now. And its sound is getting loud enough to notice…
-60	@rSuddenly, something gigantic fell from the ceiling…!!!
-61	@rThe four of them are rendered speechless at this sudden drop-in…
+55	@rIt appeared to be a tightly shut elevator door, with Karin using her nails to try to get it open.
+56	@rHowever, this room was clearly designed to confine them... This certainly wouldn't be enough to open it.
+57	@rAnd even if she were to get it open...there'd still be nothing she could do about the chain on her collar...
+58	@rAt that moment, an eerie mechanical sound, perhaps from something metallic, could be heard somewhere far away.
+59	@rWhatever kind of machine it was, it must be running now. And its sound is getting loud enough to notice...
+60	@rSuddenly, something gigantic fell from the ceiling...!
+61	@rThe four of them are rendered speechless at this sudden drop-in...
 62	Mina@r@vmina0008.@z150."WHAT? WHAT, WHAT? …I CAN'T TAKE THIS ANYMOORE, aAaAaAAAHN…!!"
 63	Fuuka@r@vfuuka0007."A… cage…?"
 64	Karin@r@vkarin0010."…Someone's inside! There's someone there…!"
