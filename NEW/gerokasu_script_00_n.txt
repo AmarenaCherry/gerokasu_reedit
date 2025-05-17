@@ -3,7 +3,7 @@
 2	Mina@r@vmina0001."Hmm...can't eat another bite..."
 3	Doremi@r@vdoremi0001."...Where...are we...?"
 4	Karin@r@vkarin0001.@z194."Wh-What the heeeeeell?!?!"
-5	Karin@r@vkarin0002."Wha-what's this!? I-It won't come off!"
+5	Karin@r@vkarin0002."Wha-What's this!? I-It won't come off!"
 6	Mina@r@vmina0002.@z144."EEK?!?! What's going on, what's going on?! I'm scared, I'm scaaaaaared!!"
 7	Doremi@r@vdoremi0002."Mina, you're all jumpy..."
 8	Mina@r@vmina0003."What happened to Doremi-chan?! Oh no, Mina too?!?!"
@@ -23,7 +23,7 @@
 22	@rThat trait is completely absent here.
 23	@rThe collars stuck on their necks, the chains attached to them...are not fake, but uncompromising restraints made of genuine, solid steel.
 24	Karin@r@vkarin0005."Wait, don't tell me this is, like, for real?!"
-25	Karin@r@vkarin0006."Don't tell me we're, like, actually...locked up by some psychopath like in those horror movies?!"
+25	Karin@r@vkarin0006."Are we, like, actually...locked up by some psychopath like in those horror movies?!"
 26	Doremi@r@vdoremi0004."...Oh, you mean the ones where a video starts playing and the mastermind goes ‘let's play a game’?"
 27	Fuuka@r@vfuuka0004."Hahaha... Well, it sure does seem that way..."
 28	Mina@r@vmina0005."So this is...not a joke…? It's really, actually...real?"
@@ -32,9 +32,9 @@
 31	@rThere are no windows, and it's unclear whether they're above or below ground.
 32	Karin@r@vkarin0007."Wh-Where even are we? ...A factory?"
 33	Doremi@r@vdoremi0005."...That was my first guess too. From the smell and atmosphere and stuff."
-34	@rIt's a dreary room with walls, floors, and ceiling all covered by a metallic patchwork.
+34	@rIt's a dreary room with the walls, floors, and ceiling all covered by a metallic patchwork.
 35	@rHowever, there's also an uncharacteristic warmth.
-36	@rFrom somewhere far away, a boiler groans out a message of warmth. …At least, one can be felt.
+36	@rFrom somewhere far away, a boiler groans out a message of warmth... At least, one can be felt.
 37	@rAlthough the floor — just like the walls — is covered by the patchwork, a metallic mesh spreads out above it like a chain link fence.
 38	@rThe girls have seen a mesh fence used as a barrier before, but this is the first time they've seen one spread out across the floor...
 39	Mina@r@vmina0006.@z150."Hey, hey, hey! What's with those chairs?! Those creepy looking chairs?!"
@@ -53,70 +53,70 @@
 52	Fuuka@r@vfuuka0006."...There's no handle on it."
 53	Karin@r@vkarin0009."Hng, ghh, gh...!!"
 54	Doremi@r@vdoremi0008."Don't strain yourself... Clearly, it's no use."
-55	@rIt appeared to be a tightly shut elevator door, with Karin using her nails to try to get it open.
+55	@rIt appeared to be a tightly shut elevator door, Karin used her nails to try to get it open.
 56	@rHowever, this room was clearly designed to confine them... This certainly wouldn't be enough to open it.
-57	@rAnd even if she were to get it open...there'd still be nothing she could do about the chain on her collar...
+57	@rAnd even if she were to succeed...there'd still be nothing she could do about the chain on her collar...
 58	@rAt that moment, an eerie mechanical sound, perhaps from something metallic, could be heard somewhere far away.
 59	@rWhatever kind of machine it was, it must be running now. And its sound is getting loud enough to notice...
 60	@rSuddenly, something gigantic fell from the ceiling...!
-61	@rThe four of them are rendered speechless at this sudden drop-in...
-62	Mina@r@vmina0008.@z150."WHAT? WHAT, WHAT? …I CAN'T TAKE THIS ANYMOORE, aAaAaAAAHN…!!"
-63	Fuuka@r@vfuuka0007."A… cage…?"
-64	Karin@r@vkarin0010."…Someone's inside! There's someone there…!"
-65	Doremi@r@vdoremi0009."…A child…"
-66	@rThe thing that suddenly appeared is, …a big cage.
-67	@rIt came down from the ceiling, hanging from chains, and is now swaying about a meter above the floor….
+61	@rThe four of them were rendered speechless at this sudden drop-in...
+62	Mina@r@vmina0008.@z150."WHAT? What's going on?! ...I can't take this anymoooore, waaaaaah!"
+63	Fuuka@r@vfuuka0007."Is...that a cage?"
+64	Karin@r@vkarin0010."...Someone's inside! There's someone there!"
+65	Doremi@r@vdoremi0009."...A child."
+66	@rWhat suddenly appeared was...a giant cage.
+67	@rIt came down from above, now still hanging from chains, and is now swaying about a meter above the floor...
 68	@rAnd inside of it is the figure of a child lying down.
-69	@rNo older than an elementary schooler. …And they can't tell much about the child aside from the white robe, like the ones they make you wear for an examination in a hospital.
-70	Fuuka@r@vfuuka0008."…Hey, you there… are you okay…?!"
-71	Mina@r@vmina0009."T-they're moving… they're alive…!"
-72	@rThe child sits up at a leisurely pace. The girls are bracing themselves without quite realizing it.
-73	@rIt's probably… a boy.
-74	@rHe has an expression of childlike innocence, his eyes displaying a severe drowsiness, as if he has just awoken from a deep slumber.
-75	@rIt's as if he doesn't even realize where he is, much less what extreme circumstances these are…
-76	Doremi@r@vdoremi0010."…This kid's cage… has no entrance or exit…"
-77	Karin@r@vkarin0011."I-it's true…. But then, like, how'd he get in there?!"
-78	Fuuka@r@vfuuka0009."…Maybe it was welded shut… after he was put inside…?"
-79	Mina@r@vmina0010."Hey, hey… is the little boy okay? Is he hurt or anything…?"
-80	Boy@r@vm_shou0001."………"
-81	@rThe boy in the white robe looks around at his surroundings vacantly, with a blank expression on his face.
-82	@rIs it possible his consciousness is still dulled from some powerful anesthetic, or something like that?
-83	@rHe's confined in a cage. And even as he peers at the girls' concerned faces through the bars, there's no emotions to be seen underneath his blank face…
-84	Boy@r@vm_shou0002."………"
-85	Fuuka@r@vfuuka0010."Hey you, what's your name…? Why're you here…?"
-86	Boy@r@vm_shou0003."………"
-87	Doremi@r@vdoremi0011."…Can he, not hear us…?"
-88	Karin@r@vkarin0012."Something's not right with this kid…"
-89	Mina@r@vmina0011."It's kinda… scary…"
-90	@r@z95.Although they're sure they've met the boy's gaze several times now, their concern is starting to feel foolish, and he doesn't display the slightest emotion or acknowledgement in response.
-91	@rHis mild eeriness aside, he, too, is probably a prisoner here just like the girls, no, definitely….
-92	Karin@r@vkarin0013."If this were that kind of movie, this kid would end up being the final boss, right?"
-93	Mina@r@vmina0012."Noo, don't say things like that! Mina's scaaaared…"
-94	Doremi@r@vdoremi0012."…Karin's lips seem to have finally loosened…"
-95	Fuuka@r@vfuuka0011."Let's calm down, everyone."
-96	Fuuka@r@vfuuka0012."Where are we? …Actually, how did we end up in a place like this?"
-97	Karin@r@vkarin0014."………"
-98	Doremi@r@vdoremi0013."…I have no memory of anything after we all left school together."
-99	Mina@r@vmina0013."Eh? Left school? Mina can't remember anything since around lunch break…"
-100	Fuuka@r@vfuuka0013."I certainly remember getting to homeroom on Tuesday…"
-101	Karin@r@vkarin0015."Man… we can't even remember when or by who we got kidnapped…"
-102	Fuuka@r@vfuuka0014."Let's put our heads together and think, everybody. Whatever the case may be, we've gotta think of a way out of here…!"
-103	Voice@r@vm_koe0001.@z150."ALLOW ME TO TELL YOU THE WAY."
-104	@rIt's a sinister voice they suddenly heard from somewhere, augmented by a voice changer.
+69	@rThey were no older than an elementary schooler... And they can't tell much about the child aside from their clothing — a white robe like the ones worn by hospital patients.
+70	Fuuka@r@vfuuka0008."...Hey, you there. Are you okay?!"
+71	Mina@r@vmina0009."T-they're moving... They're alive...!"
+72	@rThe child sat up at a leisurely pace. The girls unconsciously braced themselves up.
+73	@rIt was...a boy. Most likely.
+74	@rHis face inspired a child-like innocence, his eyes displaying a severe drowsiness — as if he had just awoken from a deep slumber.
+75	@rIt's as if he wasn't aware of where he was, or how strange the circumstances were...
+76	Doremi@r@vdoremi0010."This kid's cage...has no entrance or exit."
+77	Karin@r@vkarin0011."T-That's true... But then, how'd he get in there?!"
+78	Fuuka@r@vfuuka0009."Maybe it was welded shut...after they put him inside...?"
+79	Mina@r@vmina0010."Hey, hey...is the little boy okay? Is he hurt or anything...?"
+80	Boy@r@vm_shou0001."........."
+81	@rThe boy in the white robe vacantly looked at his surroundings, a blank expression on his face.
+82	@rCould his mind be perhaps dulled by the aftereffects of a strong anesthetic?
+83	@rEven though he's trapped in a cage, and looking at the worried faces of those around him...his face doesn't budge an inch."
+84	Boy@r@vm_shou0002."........."
+85	Fuuka@r@vfuuka0010."Hey, you, what's your name? Why are you here...?"
+86	Boy@r@vm_shou0003."........."
+87	Doremi@r@vdoremi0011."Can he, not hear us...?"
+88	Karin@r@vkarin0012."Something's not right with this kid..."
+89	Mina@r@vmina0011."It's...kinda scary."
+90	@r@z95.Although their eyes have met several times now, he has yet to display the slightest hint of emotion of acknowledgement.
+91	@rBut, his mild eerieness aside, he was likely in the same boat as everyone else — a captive...
+92	Karin@r@vkarin0013."If this were a movie, this kid would end up being the main antagonist, right?"
+93	Mina@r@vmina0012."Noooo, don't say things like that! Mina's scaaaared..."
+94	Doremi@r@vdoremi0012."...Glad to see you're still able to make jokes like this."
+95	Fuuka@r@vfuuka0011."Everyone, calm down."
+96	Fuuka@r@vfuuka0012."What is this place? ...Actually, how did we end up here?"
+97	Karin@r@vkarin0014."........."
+98	Doremi@r@vdoremi0013."...I have no memory of anything after we left school together."
+99	Mina@r@vmina0013."Eh? Left school? Mina can't remember anything since around lunch break..."
+100	Fuuka@r@vfuuka0013."I at least remember getting to class on Tuesday..."
+101	Karin@r@vkarin0015."Man...we can't even remember when or by who we got kidnapped..."
+102	Fuuka@r@vfuuka0014."Everyone, let's put our heads together and think. In any case, we have to find a way out of here!"
+103	Voice@r@vm_koe0001.@z150."Allow me to tell you the way."
+104	@rA sinister voice, seemingly altered by a voice changer, suddenly appeared.
 105	@rIn response to this voice, the caged boy's whole body shivers, and for the first time, his movements suggest the presence of emotion…
-106	Karin@r@vkarin0016."Hehe… that's… kind of a clich@u233.d villain voice if you ask me…"
+106	Karin@r@vkarin0016."Hehe...that's...kind of a clich@u233.d villain voice if you ask me..."
 107	Fuuka@r@vfuuka0015."Shhh, quiet…"
-108	Voice@r@vm_koe0002."You four girls. I've prepared two possible fates@rfor you."
-109	Voice@r@vm_koe0003."The first fate: everyone in this room dies."
-110	Mina@r@vmina0014.@z172."N-NOOOoOOOOoOO!!!"
-111	Voice@r@vm_koe0004."The other fate: only three of you girls are saved."
-112	Doremi@r@vdoremi0014."…Three of us…?"
-113	Fuuka@r@vfuuka0016."P-please, wait! Can the child in this cage not be saved…?!"
-114	Voice@r@vm_koe0005."This is a trial to test the fates of you girls."
-115	Voice@r@vm_koe0006."No matter what fate you choose,@rit will have no effect on the fate of that boy."
-116	Voice@r@vm_koe0007."When the time comes, only death awaits, for every one of you in the room."
-117	Karin@r@vkarin0017."…R-right, riight. So it's a death game with a time limit, is that it?"
-118	Karin@r@vkarin0018."That's totally it, you see this dumb plot everywhere. What a cheap scenario…. W-we should complain to the sponsors…"
+108	Voice@r@vm_koe0002."Two possible fates stand before you four."
+109	Voice@r@vm_koe0003."The first one: everyone in this room dies."
+110	Mina@r@vmina0014.@z172."N-NOOOOOOOOO!!!"
+111	Voice@r@vm_koe0004."The second one: only three among your four will be saved."
+112	Doremi@r@vdoremi0014."...Only three?"
+113	Fuuka@r@vfuuka0016."P-Please, wait! What about the child in the cage...?!"
+114	Voice@r@vm_koe0005."This trial was made to test you four only."
+115	Voice@r@vm_koe0006."No matter what fate you choose,@rit will not influence his."
+116	Voice@r@vm_koe0007."When the time comes, only death awaits for those left in this room."
+117	Karin@r@vkarin0017."...R-Right, riiiight. So, a death game with a time limit, eh?"
+118	Karin@r@vkarin0018."Yep, must be that, you see this dumb plot everywhere. What a cheap scenario... W-We should go complain to the sponsors..."
 119	@rThe boy inside the cage, no matter how much he struggles, won't be given a fate where he survives.
 120	@rHe's listening intently to the sinister voice with a seeming meekness, but… he doesn't look like he understands how precariously his own life hangs in the balance.
 121	@r…But now is the time to worry about yourself instead of other people.
