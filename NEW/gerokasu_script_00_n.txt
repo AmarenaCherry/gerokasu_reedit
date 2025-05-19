@@ -172,9 +172,9 @@
 170	@rBut they were now assaulted by terror...a terror powerful enough to shatter even the strong-willed Karin's confidence.
 171	@rThey all felt their legs rattling under the fear.
 172	@rDeath games and the like were a pretty trendy genre lately...by now, everyone would've seen seen at least one of in a manga or something.
-173	@rThey might have thought… that this kind of thing is getting half-assed and stale lately, but… this time it's their own lives on the line.
+173	@rThey might have thought the genre was becoming half-assed and stale but...now their lives were really on the line.
 174	@r…The terror of that is immeasurable….
-175	Voice@r@vm_koe0033."With that out of the way, I will now set the timer for five minutes."
+175	Voice@r@vm_koe0033."With that out of the way, I will now start the timer."
 176	Fuuka@r@vfuuka0018.@z150."P-Please, wait! You haven't explained everything!"
 177	Fuuka@r@vfuuka0019."What does the @b.@<Joker@> do? And what about the @b.@<Condemned@>?!"
 178	Voice@r@vm_koe0034."Nothing is required of the @b.@<Joker@>. At most, all she can do is try and hold on to her role as best as she can." 
