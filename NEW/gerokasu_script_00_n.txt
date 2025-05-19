@@ -8,15 +8,15 @@
 7	Doremi@r@vdoremi0002."Mina, you're all jumpy..."
 8	Mina@r@vmina0003."What happened to Doremi-chan?! Oh no, Mina too?!?!"
 9	Fuuka@r@vfuuka0002."W-We've been...collared and chained...?"
-10	@rThe four girls notice an unusual feeling at the base of their necks.
-11	@rFastened there is a rigid collar made of solid metal.
-12	@rAnd fastened to those are cruel looking chains,@reach stretching into the darkness of the four corners of the square room.
-13	@rRight under the part to which each chain is fastened,@ris what looks like a windup device.
-14	@rNo matter what trick they might think of to take it off,@rit won't budge an inch…
+10	@rThe four girls noticed an unusual feeling at the base of their necks.
+11	@rFastened there was a rigid collar made of solid metal.
+12	@rAnd fastened to those were cruel looking chains,@reach stretching into the darkness of the four corners of the square room.
+13	@rRight under the part to which each chain is fastened,@rwas what looks like a windup device.
+14	@rNo matter what trick they might think of to take it off,@rit wouldn't budge an inch...
 15	Karin@r@vkarin0003."W-what kind of sick joke is this...?!"
 16	Karin@r@vkarin0004."Where's the camera?! Isn't that what this is? Isn't this a prank?! Of course they'd go way overboard like this! Dammit, come on out, director!!"
 17	Mina@r@vmina0004."...This collar hurts... It won't come off...someone, get it off..."
-18	Doremi@r@vdoremi0003."It doesn't... feel like a joke..."
+18	Doremi@r@vdoremi0003."It doesn't...look like a joke..."
 19	Fuuka@r@vfuuka0003."...Calm down, everyone. Let's take a look around."
 20	@rKarin seemed convinced this was but a tasteless prank, but Fuuka didn't share her opinion.
 21	@r...After all, no matter how elaborate a haunted house might be, a certain feeling of ‘cheapness’ should still come through.
@@ -32,22 +32,22 @@
 31	@rThere are no windows, and it's unclear whether they're above or below ground.
 32	Karin@r@vkarin0007."Wh-Where even are we? ...A factory?"
 33	Doremi@r@vdoremi0005."...That was my first guess too. From the smell and atmosphere and stuff."
-34	@rIt's a dreary room with the walls, floors, and ceiling all covered by a metallic patchwork.
-35	@rHowever, there's also an uncharacteristic warmth.
-36	@rFrom somewhere far away, a boiler groans out a message of warmth... At least, one can be felt.
-37	@rAlthough the floor — just like the walls — is covered by the patchwork, a metallic mesh spreads out above it like a chain link fence.
-38	@rThe girls have seen a mesh fence used as a barrier before, but this is the first time they've seen one spread out across the floor...
+34	@rA dreary room with walls, floors, and ceiling all covered by a metallic patchwork.
+35	@rHowever, there was also an uncharacteristic warmth to it.
+36	@rFrom somewhere far away, a boiler groaned out a message of warmth... At least, one can be felt.
+37	@rAlthough the floor — just like the walls — were covered by patchwork, a metallic mesh spread out above it like a chain link fence.
+38	@rThe girls had seen a mesh fence used as a barrier before, but this was their first time seeing one spread out across the floor...
 39	Mina@r@vmina0006.@z150."Hey, hey, hey! What's with those chairs?! Those creepy looking chairs?!"
 40	Fuuka@r@vfuuka0005."...Our chains are connected to it."
-41	@rIn the four corners of the room are standing ominous chairs.
+41	@rIn the four corners of the room were standing ominous chairs.
 42	@rThe simplest description would be to say they're shaped like dentist chairs.
 43	@rBut without any of the soft cushioning.
-44	@rThe unsettling chairs appear to be made of rusted pieces of metal...giving them a cruel vibe.
-45	@rFurthermore, the chains on the girls' collars, each extending into the four corners of the room, connect to those chairs.
-46	@rSince the chains have a good deal of length to them, the girls can still freely move around.
+44	@rThe unsettling chairs appeared to be made of rusted pieces of metal...giving them a cruel vibe.
+45	@rFurthermore, the chains on the girls' collars, each extending into the four corners of the room, connected to those chairs.
+46	@rSince the chains had a good deal of length to them, the girls could still freely move around.
 47	@r...However, if there were a device to reel in these chains...they would be forced to sit in them.
 48	Doremi@r@vdoremi0006."...These chairs have arm and leg shackles."
-49	Doremi@r@vdoremi0007."If you sat down, they'd likely snap shut, like ‘clank!’..."
+49	Doremi@r@vdoremi0007."If one sat down, they'd likely snap shut, like ‘clank!’..."
 50	Karin@r@vkarin0008."I've never seen such nasty looking chairs before...except in manga...haha..."
 51	Mina@r@vmina0007."Hey, hey! This has to be a door, right?!"
 52	Fuuka@r@vfuuka0006."...There's no handle on it."
@@ -60,7 +60,7 @@
 59	@rWhatever kind of machine it was, it must be running now. And its sound is getting loud enough to notice...
 60	@rSuddenly, something gigantic fell from the ceiling...!
 61	@rThe four of them were rendered speechless at this sudden drop-in...
-62	Mina@r@vmina0008.@z150."WHAT? What's going on?! ...I can't take this anymoooore, waaaaaah!"
+62	Mina@r@vmina0008.@z150."WHAT? WHAT'S GOING ON?! ...I can't take this anymoooore, waaaaaah!"
 63	Fuuka@r@vfuuka0007."Is...that a cage?"
 64	Karin@r@vkarin0010."...Someone's inside! There's someone there!"
 65	Doremi@r@vdoremi0009."...A child."
@@ -69,7 +69,7 @@
 68	@rAnd inside of it is the figure of a child lying down.
 69	@rThey were no older than an elementary schooler... And they can't tell much about the child aside from their clothing — a white robe like the ones worn by hospital patients.
 70	Fuuka@r@vfuuka0008."...Hey, you there. Are you okay?!"
-71	Mina@r@vmina0009."T-they're moving... They're alive...!"
+71	Mina@r@vmina0009."T-They're moving... They're alive...!"
 72	@rThe child sat up at a leisurely pace. The girls unconsciously braced themselves up.
 73	@rIt was...a boy. Most likely.
 74	@rHis face inspired a child-like innocence, his eyes displaying a severe drowsiness — as if he had just awoken from a deep slumber.
@@ -103,10 +103,10 @@
 102	Fuuka@r@vfuuka0014."Everyone, let's put our heads together and think. In any case, we have to find a way out of here!"
 103	Voice@r@vm_koe0001.@z150."Allow me to tell you the way."
 104	@rA sinister voice, seemingly altered by a voice changer, suddenly appeared.
-105	@rIn response to this voice, the caged boy's whole body shivers, and for the first time, his movements suggest the presence of emotion…
+105	@rIn reaction, the boy in the cage's whole body shivered, and for the first time, his movements suggest the presence of emotion…
 106	Karin@r@vkarin0016."Hehe...that's...kind of a clich@u233.d villain voice if you ask me..."
-107	Fuuka@r@vfuuka0015."Shhh, quiet…"
-108	Voice@r@vm_koe0002."Two possible fates stand before you four."
+107	Fuuka@r@vfuuka0015."Shhh, quiet..."
+108	Voice@r@vm_koe0002."Two possible fates stand before you."
 109	Voice@r@vm_koe0003."The first one: everyone in this room dies."
 110	Mina@r@vmina0014.@z172."N-NOOOOOOOOO!!!"
 111	Voice@r@vm_koe0004."The second one: only three among your four will be saved."
@@ -114,80 +114,80 @@
 113	Fuuka@r@vfuuka0016."P-Please, wait! What about the child in the cage...?!"
 114	Voice@r@vm_koe0005."This trial was made to test you four only."
 115	Voice@r@vm_koe0006."No matter what fate you choose,@rit will not influence his."
-116	Voice@r@vm_koe0007."When the time comes, only death awaits for those left in this room."
+116	Voice@r@vm_koe0007."When the time comes, only death awaits those left in this room."
 117	Karin@r@vkarin0017."...R-Right, riiiight. So, a death game with a time limit, eh?"
 118	Karin@r@vkarin0018."Yep, must be that, you see this dumb plot everywhere. What a cheap scenario... W-We should go complain to the sponsors..."
-119	@rThe boy inside the cage, no matter how much he struggles, won't be given a fate where he survives.
+119	@rNo matter how much he would struggle, the boy in the cage's fate was already sealed.
 120	@rHe's listening intently to the sinister voice with a seeming meekness, but… he doesn't look like he understands how precariously his own life hangs in the balance.
-121	@r…But now is the time to worry about yourself instead of other people.
-122	Voice@r@vm_koe0008."Boy. Search the pocket of your garment. You should find four cards."
-123	Boy@r@vm_shou0004."………"
-124	@rThe boy's first response to this voice is to search the pocket of his white robe, as ordered.
-125	@r…They're a little startled. They thought maybe words wouldn't reach him, or maybe he couldn't even hear at all.
-126	@rHowever, his eyes kept their dulled appearance.
-127	@rIt's almost as if he's under a curse so that he can't hear anything except the words of the sinister voice…
-128	Voice@r@vm_koe0009."So you've found them. Well then, deal out one to each of the girls."
-129	@rThe boy obeys the voice and passes out one card to each of them, his eyes keeping their dulled appearance.
+121	@r...But now was not the time to worry about other people.
+122	Voice@r@vm_koe0008."Boy. Search the pockets of your garment. You should find four cards."
+123	Boy@r@vm_shou0004."........."
+124	@rHis first act was to search the insides of his pockets, as the voice ordered him to.
+125	@r...The others are a little startled. They thought maybe words wouldn't reach him, or maybe he couldn't even hear at all.
+126	@rHis eyes, however, kept their dulled appearance.
+127	@rAlmost as if he was under a curse so that he can't hear anything except the words of the sinister voice…
+128	Voice@r@vm_koe0009."So you've found them. Now, give one to each of the girls."
+129	@rThe boy obeyed, passing out one card to each of them, without any change in his expression.
 130	@rIn spite of this… the girls can't sense any awareness from the boy.
 131	Doremi@r@vdoremi0015."…Weird cards. …They look like tarot cards…"
 132	Fuuka@r@vfuuka0017."No. …There aren't any tarot cards like this."
 133	Voice@r@vm_koe0010."There are three kinds of cards you've been given. Allow me to explain each of them."
-134	Voice@r@vm_koe0011."Two of them are @b.@<Judges@>."
-135	Voice@r@vm_koe0012."One of them is the @b.@<Joker@>."
-136	Voice@r@vm_koe0013."One of them is the @b.@<Condemned@>…"
+134	Voice@r@vm_koe0011."Two of them are @b.@<Judge@> cards."
+135	Voice@r@vm_koe0012."One of them is a @b.@<Joker@> card."
+136	Voice@r@vm_koe0013."One of them is a @b.@<Condemned@> card..."
 137	Voice@r@vm_koe0014."Your fates will be tested in accordance with the roles of each card, to determine whether or not you can survive."
-138	Voice@r@vm_koe0015."This will not be explained more than once. If you want even a small chance of survival, you had better not miss any detail."
-139	Voice@r@vm_koe0016."Firstly, the two @b.@<Judges@>."
-140	Voice@r@vm_koe0017."The @b.@<Judges@> play two roles. One of them is to declare the @b.@<Condemned@> either guilty or not guilty."
-141	Voice@r@vm_koe0018."If the @b.@<Condemned@> is declared guilty, a lever for torturing her will appear on her seat."
-142	Voice@r@vm_koe0019."If the @b.@<Condemned@> is declared not guilty, she will immediately switch places with the @b.@<Joker@>."
-143	Voice@r@vm_koe0020."She may be declared guilty or not guilty at any time, any number of times."
-144	Voice@r@vm_koe0021."This means, for example, that even if a guilty verdict is handed down, it may be changed to a not guilty verdict."
-145	Voice@r@vm_koe0022."However, the right to declare her guilty or not guilty lies only with the @b.@<Judge@> who made the initial verdict."
-146	Voice@r@vm_koe0023."In other words, this means that when one @b.@<Judge@> makes her judgement, the other @b.@<Judge@> loses her right to make a verdict."
-147	Voice@r@vm_koe0024."In exchange, only the hand of the @b.@<Judge@> who loses the right to make that verdict may operate the lever for the torture."
-148	Voice@r@vm_koe0025."When the lever is pulled down, the torture device will bring the @b.@<Condemned@> to the brink of death, and she will feel all its agony."
-149	Voice@r@vm_koe0026."Then, with the lever pulled all the way down, keys will release the collars on three of you, excluding the @b.@<Condemned,@> and the door to the elevator will be opened."
+138	Voice@r@vm_koe0015."I will give this explanation only once. If you want even a small chance of survival, I suggest you do not miss any detail."
+139	Voice@r@vm_koe0016."First, the two @b.@<Judge@> cards."
+140	Voice@r@vm_koe0017."The @b.@<Judges@> play two roles. One is to declare the @b.@<Condemned@> either Guilty or Not Guilty."
+141	Voice@r@vm_koe0018."If the @b.@<Condemned@> is declared Guilty, a lever for torturing her will appear on her seat."
+142	Voice@r@vm_koe0019."If the @b.@<Condemned@> is declared Not Guilty, she will immediately switch places with the @b.@<Joker@>."
+143	Voice@r@vm_koe0020."She may be declared Guilty or Not Guilty at any time, as many times as desired."
+144	Voice@r@vm_koe0021."This means that, even if a Guilty verdict is handed down, it may be changed to a Not Guilty verdict."
+145	Voice@r@vm_koe0022."However, the right to make a verdict lies only with the @b.@<Judge@> who made the initial verdict."
+146	Voice@r@vm_koe0023."In other words, this means that when one @b.@<Judge@> gives her judgement, the other @b.@<Judge@> loses her power to give one."
+147	Voice@r@vm_koe0024."In exchange, only the hand of the @b.@<Judge@> who lost the right to make a verdict may operate the torture lever."
+148	Voice@r@vm_koe0025."If the lever is pulled down, the torture device will bring the @b.@<Condemned@> to the brink of death, and she will feel all its agony."
+149	Voice@r@vm_koe0026."Then, once the lever is pulled all the way down, keys will release the collars on three of you, excluding the @b.@<Condemned,@> and the door to the elevator will open."
 150	Voice@r@vm_koe0027."This is the only way by which three of you girls may survive."
-151	@rIn other words… it's like this.
-152	@rOne of the two @b.@<Judges@> will first make a guilty declaration.
+151	@rTo summarize...
+152	@rOne of the two @b.@<Judges@> must make a Guilty verdict.
 153	@rWhen she does, a torture lever will appear,@rwhich the other @b.@<Judge@> may operate.
 # ignore oversized
-154	@rIf the torture lever is pulled all the way down, three of the girls,@rexcluding the @b.@<Condemned,@> will be released from their collars, and the elevator door will be opened…
-155	Voice@r@vm_koe0028."In summary, this is a trial by which the two @b.@<Judges@> among you will make and carry out the decision to abandon one among you."
-156	Karin@r@vkarin0019."Like hell anyone would make a, d-decision like that!"
+154	@rIf the torture lever is pulled all the way down, three of the girls,@rexcluding the @b.@<Condemned,@> will be released from their collars, and the elevator door will be opened...
+155	Voice@r@vm_koe0028."In summary, this is a trial by which the two @b.@<Judges@> among you will make and carry out the decision to abandon one of you."
+156	Karin@r@vkarin0019."Like hell anyone would make a d-decision like that!"
 157	Voice@r@vm_koe0029."Naturally, if no decision is made, there is but one alternative."
-158	Voice@r@vm_koe0030."Bear in mind, the time allotted for making a decision is limited."
-159	@rAt this point, a metal plate above the elevator door topples down with a clanking sound.
-160	@rBehind it… an analog clock of rusted metal, which looks like it fits right in with this room, is revealed.
-161	@rHowever, it only has 1 hand, a long hand.
+158	Voice@r@vm_koe0030."But, bear in mind, the allotted time is limited."
+159	@rAt that moment, a metal plate above the elevator door toppled down with a clanking sound.
+160	@rBehind it...an analog clock in rusted metal, matching the aesthetic of the room.
+161	@rHowever, it only has one hand — a minute hand.
 162	@rAnd that hand is currently pointing to 11.
-163	Voice@r@vm_koe0031."That time is five minutes."
-164	Doremi@r@vdoremi0016."…That's way too short…"
-165	Mina@r@vmina0015."Wh-what if the five minutes run out…?"
-166	Voice@r@vm_koe0032."All of you are to die, obviously."
-167	Karin@r@vkarin0020."S… s,"
-168	Karin@r@vkarin0021."Stop fucking with—@z72.AGHH…@z100."
-169	@rStop fucking with us… That must've been what she wanted to say.
-170	@rHowever, they've all been assaulted by a kind of terror… that has broken and shattered even the normally strong-willed Karin's heart.
-171	@rThey all feel their legs rattling as they tremble.
-172	@rDeath games and the like are a pretty trendy genre lately… by now everyone must've seen seen at least one of these in a manga or something.
+163	Voice@r@vm_koe0031."You have five minutes."
+164	Doremi@r@vdoremi0016."...That's way too short."
+165	Mina@r@vmina0015."Wh-What if Mina and her friends run out of time?"
+166	Voice@r@vm_koe0032."Then you all die."
+167	Karin@r@vkarin0020."D... D—"
+168	Karin@r@vkarin0021."Don't mess with—@z72.argh…@z100."
+169	@rDon't mess with us... That must've been what she wanted to say.
+170	@rBut they were now assaulted by terror...a terror powerful enough to shatter even the strong-willed Karin's confidence.
+171	@rThey all felt their legs rattling under the fear.
+172	@rDeath games and the like were a pretty trendy genre lately...by now, everyone would've seen seen at least one of in a manga or something.
 173	@rThey might have thought… that this kind of thing is getting half-assed and stale lately, but… this time it's their own lives on the line.
 174	@r…The terror of that is immeasurable….
 175	Voice@r@vm_koe0033."With that out of the way, I will now set the timer for five minutes."
-176	Fuuka@r@vfuuka0018.@z150."P-PLEASE, WAIT! YOU HAVEN'T EXPLAINED EVERYTHING!"
-177	Fuuka@r@vfuuka0019."What does the @b.@<Joker@> do? What does the @b.@<Condemned@> do?!"
-178	Voice@r@vm_koe0034."The role of the @b.@<Joker@> demands nothing. Rather, she should try not to lose heart, and should see to it that she herself is not made the @b.@<Condemned@>."
-179	@rThe @b.@<Judges@> have to make a cruel decision about the @b.@<Condemned@>.
-180	@rEven if the @b.@<Joker@> is perchance made the @b.@<Condemned,@> the two @b.@<Judges@> will have to quickly torture and execute her…
-181	Fuuka@r@vfuuka0020."This is… so cruel…"
-182	Karin@r@vkarin0022."Um, hey, what about the @b.@<Condemned@>…?!"
-183	Doremi@r@vdoremi0017."…There is no need to ask…"
-184	Doremi@r@vdoremi0018."She has to push her own @b.@<Condemned@> role onto the @b.@<Joker@>, by convincing the @b.@<Judges@> to save her and kill the @b.@<Joker@> instead…. That's all she can do."
-185	Fuuka@r@vfuuka0021."In other words… the @b.@<Joker@> and the @b.@<Condemned@> each has to argue against the other, so that one survives and her opponent is killed in her place…"
-186	Mina@r@vmina0016."Wh… what is this…? Why…?"
-187	Mina@r@vmina0017."Even though Mina and her friends… have always, always been a group of 4 close friends… ever since elementary school…"
-188	Mina@r@vmina0018."How come… they have to do something so scaryyyyyy!!!"
-189	Karin@r@vkarin0023."S… s… s,"
-190	Karin@r@vkarin0024."stop… fucking… with… agh…"
-191	Fuuka@r@vfuuka0022."…How could this…"
+176	Fuuka@r@vfuuka0018.@z150."P-Please, wait! You haven't explained everything!"
+177	Fuuka@r@vfuuka0019."What does the @b.@<Joker@> do? And what about the @b.@<Condemned@>?!"
+178	Voice@r@vm_koe0034."Nothing is required of the @b.@<Joker@>. At most, all she can do is try and hold on to her role as best as she can." 
+179	@rThe @b.@<Judges@> have to take a cruel decision regarding the @b.@<Condemned@>.
+180	@rEven if the @b.@<Joker@> swapped roles with her, the two @b.@<Judges@> would still have to torture and execute her...
+181	Fuuka@r@vfuuka0020."This is...so cruel..."
+182	Karin@r@vkarin0022."Um, hey, what about the @b.@<Condemned@>...?!"
+183	Doremi@r@vdoremi0017."...It's obvious."
+184	Doremi@r@vdoremi0018."She has to push her own role onto the @b.@<Joker@>, by convincing the @b.@<Judges@> to save her and kill the @b.@<Joker@> instead... That's all she can do."
+185	Fuuka@r@vfuuka0021."In other words...the @b.@<Joker@> and the @b.@<Condemned@> each have to argue against the other, so that one of them may survive..."
+186	Mina@r@vmina0016."Wh...what's happening? Why...?"
+187	Mina@r@vmina0017."Even though Mina and her friends...have always, always been together...ever since elementary school..."
+188	Mina@r@vmina0018."Why must they...do something so scaryyyyyy!!!"
+189	Karin@r@vkarin0023."D...d...d,"
+190	Karin@r@vkarin0024."don't...mess...with...agh..."
+191	Fuuka@r@vfuuka0022."How could this..."
