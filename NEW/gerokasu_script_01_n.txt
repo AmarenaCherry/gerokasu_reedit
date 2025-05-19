@@ -1,0 +1,482 @@
+# 02_intA01_01_風華、初めての死刑囚 (the first time Fuuka is Condemned)
+192	Fuuka@r@vfuuka0023."Ahh... Such nice weather we've been having!"
+193	Karin@r@vkarin0025."Tch. No fair, Fuuka."
+194	Fuuka@r@vfuuka0024."What do you mean by that? What's no fair?"
+195	Karin@r@vkarin0026."This! Everything you do just makes you look, like, so ~picturesque~ like a perfect madonna!"
+196	Doremi@r@vdoremi0019."...True, nothing about you is fair, Fuuka."
+197	Mina@r@vmina0019."Such pretty and wavy hair. Mina wants to bunch it together, make a hammock out of it, and take a midday nap in it."
+198	Fuuka@r@vfuuka0025."Owowow, just imagining that makes my scalp hurt..."
+199	Doremi@r@vdoremi0020."...Ah, so YOU'RE the one who's hurt."
+200	Karin@r@vkarin0027."I mean, just look at you! Maybe God made you this way or maybe it's just good genes, but like, I'm telling you, it's totally unfaiiir!"
+201	Fuuka@r@vfuuka0026."That's not even true. I, for one, think your hair is very pretty, Karin."
+202	Fuuka@r@vfuuka0027."And I'm incredibly envious of your bubbly cuteness, Mina. As for Doremi, your... Doremi, your... Hmm."
+203	Doremi@r@vdoremi0021."No need to force yourself or anything..."
+204	Fuuka@r@vfuuka0028."S-Sorry... Teehee."
+205	Doremi@r@vdoremi0022."...Mina, let's make your dream come true."
+206	Doremi@r@vdoremi0023."We'll pull out all of Fuuka's gorgeous hair and make a hammock out of it, right here, right now."
+207	Fuuka@r@vfuuka0029."S-Aorry, ah-hahahahaha, stop it, that tickles"
+208	Mina@r@vmina0020."Yeah~ Fuuka-chan's hair smells sooo nice."
+209	Mina@r@vmina0021."What kind of shampoo did she use to make it smell so good?"
+210	Fuuka@r@vfuuka0030."I don't do anything special to it!"
+211	Karin@r@vkarin0028."There's no way that's true. Alright, it's way past time we find out your secret!"
+212	Doremi@r@vdoremi0024."Fuuka may say there's no trick to it, but she's exactly the kind of girl to lie about how hard she studies for exams..."
+213	Karin@r@vkarin0029."You totally studied how to make your hair so pretty! And on top of that, you secretly put so much work into it!"
+214	Karin@r@vkarin0030.@z134."JUST HOW SHAMELESS CAN YOU BE?! TIME FOR ‘KAMEN KENDO V6 STORM ARMY GO DELUXE!’"
+215	Fuuka@r@vfuuka0031."Stop it stop it, everybody stooop!"
+216	Fuuka@r@vfuuka0032."Ah—hahahahahaha, it tickles. Hahahaha, ahahahahahahahaha!"
+
+# 02_intA01_02_火凛、初めての死刑囚 (the first time Karin is Condemned)
+217	Karin@r@vkarin0031.@z149."DAMMIT, YOU BOYS!! IF YOU DON'T START CLEANING I'LL CHOP YOU UP INTO BITS!!"
+218	Karin@r@vkarin0032.@z132."The way of the sword is straight and narrow, it's the path of justice! Kamen Kendo V6 Storm! ON, THE, SCENE!!"
+219	Karin@r@vkarin0033.@z150."The Holy Sword to strike at the brow of evil — SAINT BAMBOO SLASH!!"
+220	@rKarin's finishing technique is no mere child's play. Rather, it seems like the real deal.
+221	@rEven the boys who are slacking off on their cleaning are applauding its sheer magnificence.
+222	Mina@r@vmina0022."Wooooooow, Karin is amazing!"
+223	Fuuka@r@vfuuka0033."She must be quite serious about her dream for the future after all, to be one of those people on Kamen Kendo, you know…"
+224	Doremi@r@vdoremi0025."…She might become the first female protagonist in the Kamen Kendo series, for all we know…"
+225	Doremi@r@vdoremi0026."Maybe if we get her signature now, we can sell it for a high price later on…"
+226	Mina@r@vmina0023.@z138."KARIN-CHAAAAAN￥!! GIVE MINA A SIGNATUURE, OR MAYBE 100 OF THEM￥!!"
+227	Fuuka@r@vfuuka0034."You've always been a fan of that, ever since elementary school. Kamen Kendo, I mean."
+228	Fuuka@r@vfuuka0035."Normally you don't take anything too seriously, but this seems like the one thing you're totally serious about. That's what's cool about you."
+229	Doremi@r@vdoremi0027."…I don't think your brain has changed a bit since elementary school."
+230	Karin@r@vkarin0034."Weell, I guess I'm just a big brother's girl after all. I've only ever been into boyish stuff since I was little, y'know?"
+231	Fuuka@r@vfuuka0036."The first time I went in your room, I was somewhat startled by all those scary monster figures and stuff you have lying around."
+232	Karin@r@vkarin0035."About that. Maybe they're a little scary to most people, but every one of those monsters has a good story to tell!"
+233	Karin@r@vkarin0036."I especially recommend the monster from Kamen Kendo V3 episode 12, @bLicking Pig.@<Namebutan@>!"
+234	Karin@r@vkarin0037.@z95."The lady in that episode works so hard for her family, but she's consumed by darkness and goes totally insane, and turns into a monster with a big belly made of A5-grade marbled meat!"
+235	Doremi@r@vdoremi0028."…That's so moving."
+236	Karin@r@vkarin0038."But then, V3 cuts up all her cellulite and fat with his Burning Gut Crusher, until her belly is slimmed down!"
+237	Mina@r@vmina0024."Mina wants to be consumed by darkness and slimmed down too!"
+238	Karin@r@vkarin0039.@z95."Then, he strikes back with his katana, melting away both her cold attitude and her swelling! Her troubled marriage becomes filled with love again too! Like, honestly, it really is a god-tier episode!!"
+239	Fuuka@r@vfuuka0037."I-I'm not sure I quite get it, but I'm sure it had good makeup and special effects."
+240	Karin@r@vkarin0040.@z150."KAMEN KENDO V6 STORM — ON THE SCENE!!"
+241	Karin@r@vkarin0041.@z130."TREMBLE BEFORE ME, EVIL ONES — THE HOLY SWORD, SAINT BAMBOO, WILL SLICE YOU BASTARDS RIGHT IN HALF!!"
+
+# 02_intA01_03_水無、初めての死刑囚 (the first time Mina is Condemned)
+242	Mina@r@vmina0025."Kuu-chan! Kuu-chan, where's Kuu-chan?!"
+243	@rThe white kitten that always hangs out in the vacant lot, in the shadow of the big pipe, leaps out.
+244	@rThe kitten jumps up and grabs onto Mina's skirt and quickly climbs up.
+245	@rThen, it skillfully curls itself around Mina's neck, cuddling her happily…
+246	Mina@r@vmina0026."Ah-hahahaha, Kuu-chan, Kuu-chan! Mina missed Kuu-chan soo much!"
+247	Doremi@r@vdoremi0029."*Huff*, *huff*… you run so fast, Mina…"
+248	Karin@r@vkarin0042."This is definitely, like, wayy faster than your running speed in P.E., no doubt about it…"
+249	Fuuka@r@vfuuka0038."Mina-chan, it seems like all you think about lately is Kuu-chan, even when we're in class."
+250	Mina@r@vmina0027."Kuu-chan, guess what? Mina brought an octopus wiener today~"
+251	Mina@r@vmina0028."And then, after that, there's even more stuff Mina thinks Kuu-chan will like, so she left plenty of food for Kuu-chaan."
+252	Doremi@r@vdoremi0030."…The Kuu-chan diet is nothing to take lightly…"
+253	Fuuka@r@vfuuka0039."That's a lot…. Leaving half of your lunch just for Kuu-chan."
+254	Karin@r@vkarin0043."But, um, isn't eating human food, like, bad for cats?"
+255	Mina@r@vmina0029."Gosh, Mina knows! She looked up a lot about that online too!"
+256	Mina@r@vmina0030."So, um, after today, Mina will stop splitting her lunch, okay?"
+257	Mina@r@vmina0031."Mina gets her allowance tomorrow! That's why, starting tomorrow, she'll be buying yummy kitty food just for Kuu-chan!"
+258	@rThe stray kitten named Kuu-chan lives in this vacant lot.
+259	@rThe girls are all obsessed with this friendly kitten.
+260	Doremi@r@vdoremi0031."…It's too bad nobody can take in the cat."
+261	Fuuka@r@vfuuka0040."We all have our own issues at home. Not much can be done about it."
+262	Karin@r@vkarin0044."Actually, this way it feels like we're doing it together as friends, so I can dig it."
+263	Mina@r@vmina0032."Yeah! Kuu-chan is good friends with aaall four of us! Isn't he~?"
+264	Doremi@r@vdoremi0032."…I see. If someone took the cat in, it would feel like losing the friend we all share."
+265	Mina@r@vmina0033."Kuu-chan, Kuu-chan! What should we do today? What should we do today?!"
+266	Mina@r@vmina0034."Mina will… hmmm… oh! She'll pretend to be a cat! We'll all pretend to be a cat family!"
+267	Mina@r@vmina0035."All of us are gonna become cats and be Kuu-chan's family!"
+268	Mina@r@vmina0036."Ah, does Kuu-chan like that idea? Ahahahaha, don't lick Mina's face~ ahahahahahahaha!"
+
+# 02_intA01_04_土麗美、初めての死刑囚 (the first time Doremi is Condemned)
+269	Doremi@r@vdoremi0033."………"
+270	Mina@r@vmina0037."…Doremi-chan has been gloomy since this morning."
+271	Fuuka@r@vfuuka0041."Something must be bothering her…. I feel like we should give her some space today."
+272	Karin@r@vkarin0045."Doremi is the reserved type. She must be agonizing over something we can't even imagine."
+273	Doremi@r@vdoremi0034.(…I think the best way to eat red pickled ginger would be in a beef bowl.)
+274	Fuuka@r@vfuuka0042."…I remember one issue she used to always be really sad about was too many pets being put in animal shelters."
+275	Karin@r@vkarin0046."I did hear about her agonizing over where to draw the line between animals to keep as pets, and livestock…"
+276	Mina@r@vmina0038."It would be strange to take care of a pet while eating Mrs. Cow and Mr. Pig, maybe…"
+277	Doremi@r@vdoremi0035.(…Plenty of red pickled ginger. And then plenty of shichimi. Letting that sublime savory beef flavor soak in…)
+278	Fuuka@r@vfuuka0043."We just merrily go about our lives without thinking about that kind of stuff."
+279	Karin@r@vkarin0047."If you get caught up on all the world's problems, like, you'd never be able to just prance around all carefree…"
+280	Mina@r@vmina0039."It feels like something about us is weighing down on Doremi-chan."
+281	Doremi@r@vdoremi0036.(…Incidentally, in the world of ginger lovers, using chopsticks on a beef bowl is simply the height of vulgarity.)
+282	Doremi@r@vdoremi0037.(You have to really savor the ginger. Just let the beef bowl sit, without touching it, let the ginger broth seep into it and dye it red. …That's it, such supreme bliss…)
+283	Karin@r@vkarin0048."…Doremi. I don't know what pains you so much, but…"
+284	Karin@r@vkarin0049."We're always on your side. Don't forget that."
+285	Doremi@r@vdoremi0038."………"
+286	Fuuka@r@vfuuka0044."You seem down and worried about something. Will you let us know what it is?"
+287	Mina@r@vmina0040."Even if no one can help…. Everyone wants to share Doremi-chan's burden."
+288	Doremi@r@vdoremi0039."………"
+289	Doremi@r@vdoremi0040."…Thank you… Okay, I'll tell you."
+290	Doremi@r@vdoremi0041."…One day, a lone woman entered an establishment."
+291	@rCalling it a beef bowl chain joint or anything like that would be the mark of an amateur.
+292	@rWe ginger lovers call it a beef bowl establishment to show our respect.
+293	Doremi@r@vdoremi0042."There… she ordered some meat."
+294	Karin@r@vkarin0050."Meat, huh. That's just sinful."
+295	Doremi@r@vdoremi0043."The woman only ate the shredded plant roots on top of the meat."
+296	Fuuka@r@vfuuka0045."So then, you might say this is about vegetarianism being the most important aspect of bioethics…"
+297	Doremi@r@vdoremi0044."Then, she paid the bill without taking a single bite of meat, and put the store behind her."
+298	Mina@r@vmina0041."That's such a waste of meat."
+299	Doremi@r@vdoremi0045."When she did, the establishment's chef came running after her, and said,"
+300	Doremi@r@vdoremi0046."‘This place is clearly not a good fit for you, so you will be banned from returning in the future.’"
+301	Karin@r@vkarin0051."Ahh, gotcha. The chef must've taken it as an insult to the restaurant, hm."
+302	Doremi@r@vdoremi0047."Did that woman make a mistake…?"
+303	Mina@r@vmina0042."She didn't make a mistake. Like, she paid up with her own money."
+304	Fuuka@r@vfuuka0046."But… it makes me feel kinda bad, thinking about how the meat must've felt to have its life taken only to not even get eaten…"
+305	Doremi@r@vdoremi0048."No, surely it served its purpose by providing the savory broth."
+306	Karin@r@vkarin0052."I don't quite get it… but I think we have to remember that people consume countless other lives in order to live."
+307	Mina@r@vmina0043."It isn't good to waste food, especially with all the poor and needy people in the world."
+308	Fuuka@r@vfuuka0047."Either way, I don't know if that was enough to ban her over…"
+309	Doremi@r@vdoremi0049."Yeah. I think so too. Mhm."
+
+# 02_intA01_05_風華、２回目の死刑囚 (the 2nd time Fuuka is Condemned)
+310	Fuuka@r@vfuuka0048."Ehh, it looks like sherbet color is in style again. This cape is wayy cute♪"
+311	@rShe reads the fashion magazines she likes whenever she has time, and always gets things the day they go on sale.
+312	@rDressing herself up in gorgeous clothes and looking at herself in them is always fun, no matter how many times she does it.
+313	@rShe feels like she could just try on everything, one by one.
+314	Fuuka@r@vfuuka0049."This amateur model has good fashion sense, doesn't shee. There's a certain brilliance to her, I suppoose."
+315	Karin@r@vkarin0053."…Hey, Fuuka. What's so fun about looking at photos of other people wearing clothes?"
+316	Fuuka@r@vfuuka0050."It's just fun~. In reality, if I wanted to buy clothes like these, I wouldn't have enough money no matter how much I saved up. But looking and fantasizing is free."
+317	Fuuka@r@vfuuka0051."And besides, seeing a lot of clothes and fashion helps me coordinate my own outfits."
+318	Karin@r@vkarin0054.@z132."…EH?! 20 THOUSAND YEN JUST FOR THIS BLOUSE?! OVER 100 THOUSAND FOR THE WHOLE OUTFIT?!"
+319	Karin@r@vkarin0055."Like, not even all the money from a summer job would be enough to dress for one season, so how do these kids afford any of this?!?!"
+320	Fuuka@r@vfuuka0052."What these kids are wearing is all brand name stuff. It's inevitable that there's a price to it."
+321	Karin@r@vkarin0056."So you mean, a lovely girl's style is all about how much money she can cough up?! Is that it?!"
+322	@rKarin makes an exaggerated gesture of amazement.
+323	Fuuka@r@vfuuka0053."You wanna look like one, right? In that case, you've gotta work at it."
+324	Karin@r@vkarin0057."You mean, I've gotta get a job and work hard if I want any lovely clothes?!"
+325	Karin@r@vkarin0058."I mean, it's just strange that all these clothes are so expensive! There's no way these girls don't have some high paying gig I don't know about!"
+326	Karin@r@vkarin0059."That's gotta be it, the sugar daddy stuff I've heard rumors about! I get it now, a sugar daddy isn't just about money, it's also about how you refine your womanly charm in loots of ways!"
+327	@rSmack.
+328	Karin@r@vkarin0060."Ow, that huuuurt…"
+329	Fuuka@r@vfuuka0054."Karin, do you have a serious desire to become a cute girl?"
+330	Karin@r@vkarin0061."I mean, heck yeaah I do…. But, if it takes that kinda money…"
+331	Fuuka@r@vfuuka0055."First of all, there's nothing lovely about thinking you can't even start without money!"
+332	Karin@r@vkarin0062."But like, fashion is money, right? And makeup is money, and hair is money too…"
+333	Fuuka@r@vfuuka0056."Alright. Can you try to think of it this way? Think of that Kamen Kendo show on TV that you love so much."
+334	Fuuka@r@vfuuka0057."Haven't you always pretended to be Kamen Kendo, for as long as I've known you? Well, have you been using the exact same clothes and sword as Kamen Kendo?"
+335	Karin@r@vkarin0063."…I can't use them, since I don't have them, so I've gotta use something else as a substitute."
+336	Fuuka@r@vfuuka0058."Exactly. Karin, when we were in elementary school, you'd bunch plastic wrap together and go, ‘saint something-or-other sword’ with it."
+337	Karin@r@vkarin0064."Wah, stop it, remembering it now is so embarrassing I could die…"
+338	Fuuka@r@vfuuka0059."It's not embarrassing. Rather, it's precious."
+339	Fuuka@r@vfuuka0060."Don't say you can't do anything just because you don't have money. You should be able to make something work for yourself using what you have right now."
+340	Karin@r@vkarin0065."Then you mean, even if I can't buy cute clothes like these… there are still things I can do?"
+341	Fuuka@r@vfuuka0061."Right. With some ingenuity and skill, you can use the clothes and accessories you have now and totally change your image."
+342	Karin@r@vkarin0066."I've got… nothing but boyish clothes."
+343	Karin@r@vkarin0067."And even when I did wear girly clothes, I played rough in them and ruined them, so my family stopped buying them for me."
+344	Fuuka@r@vfuuka0062."That's not exactly true. Take that denim jacket you were wearing before, for example. I think if you pair it with something it goes well with, it would bring out that Karin cuteness."
+345	Fuuka@r@vfuuka0063."Like, someone with nice fashion sense could buy the right accessory for just a few hundred yen and use it as an adorable highlight."
+346	Fuuka@r@vfuuka0064."And you know, improving your fashion sense by reading books like this is pretty fun."
+347	Karin@r@vkarin0068."Hmm…. Being a lovely girl is… a heck of a lot of work…"
+348	@rKarin has been starting to feel rather discouraged.
+349	Karin@r@vkarin0069."I guess you're right after all. I guess, it's not like you don't work to be so goddamn cute, Fuuka…"
+350	Karin@r@vkarin0070."So you read stuff like that book, and studied and studied, even up until now?"
+351	Karin@r@vkarin0071."Now that my inexperienced self has learned a thing or two from you, I figure I can't become lovely that easily… like, I'm not that na@u239.ve…"
+352	Fuuka@r@vfuuka0065."…When you put it that way… indeed, it may be true."
+353	Fuuka@r@vfuuka0066."But, Karin, you feel more strongly than anyone else that you want to be a cute girl."
+354	Fuuka@r@vfuuka0067."Karin, you may think you want to be just like me, but. No matter how well you imitate someone like me, it won't bring out your unique charm as Karin."
+355	Karin@r@vkarin0072."Then, I guess I can't be a lovely girl after all…"
+356	Fuuka@r@vfuuka0068."You're wrong. Being a lovely girl isn't something you push yourself for. It's something you just have fun doing."
+357	Fuuka@r@vfuuka0069."For example. …That new hairstyle of yours, Karin."
+358	Karin@r@vkarin0073."Eh… h…"
+359	Fuuka@r@vfuuka0070."It's incredibly cute."
+360	Karin@r@vkarin0074."………"
+361	Karin@r@vkarin0075."…Huh? Huh? Wha… oh no…… my eyes are… watering…"
+362	Karin@r@vkarin0076."It took so much courage… to get this… stupid hairstyle that doesn't suit me…"
+363	Karin@r@vkarin0077."But… even then… I just thought maybe I could be a cute girl…"
+364	Karin@r@vkarin0078."Even then, even then… no one… even said anything to me… about my new hair…"
+365	@rNo one imagined the normally masculine-looking Karin could have gotten such a cute hairstyle.
+366	@rThat's why even the boys Karin likes to play Kamen Kendo with… take care not to touch it.
+367	@r@z93.Of course, they figured she must've been forced to get a hairstyle like this by her parents… who'd probably have said something like, ‘for heaven's sake, you're in high school now, act more like a girl.’"
+368	@rIf they touched this hairstyle, it'd be embarrassing, and maybe Karin would even get angry at them. Of course, they figured Karin herself must not like it.
+369	@rEveryone around her blithely thought so… and ignored it.
+370	@rBut she didn't understand this.
+371	@rEveryone saw her hairstyle, filled with courage, filled with cuteness… and pretended not to see it. It was sad for her.
+372	@rBut that was Karin being strong. She just never consciously acknowledged it until today.
+373	Fuuka@r@vfuuka0071."You chose that hairstyle yourself, didn't you?"
+374	Karin@r@vkarin0079."…There's this cute idol girl. And I was thinking, I wanna be like her, too… so I told the hairdresser, ‘I want this same hairstyle’…"
+375	Fuuka@r@vfuuka0072."That's just it. I bet that's the kind of cute girl you want to be, Karin."
+376	Karin@r@vkarin0080."…Yeah."
+377	Fuuka@r@vfuuka0073."How about, when you get your allowance next month, we try looking around for some cute accessories and stuff for you?"
+378	Karin@r@vkarin0081."My allowance really isn't much…"
+379	Fuuka@r@vfuuka0074."Hey, I told you it's not about the money. We'll only be buying things you really want to buy, things that suit Karin, things that will make Karin happy to wear."
+380	Fuuka@r@vfuuka0075."Come shop around with me. Together we'll draw out the lovely girl you aspire to be, Karin."
+381	Karin@r@vkarin0082."………"
+382	Karin@r@vkarin0083.@z150."F-FUUKAaaa!! UUUU, THANK YOUUUUUU!!"
+383	Fuuka@r@vfuuka0076."Karin-chan, your nose is running, ahahaha…"
+384	Karin@r@vkarin0084.@z138."THANK YOUUUUU, FUUKAAA! YOU'RE MY BEST FRIEND FOREVER, FUUKA!! UUuuu!"
+
+# 02_intA01_06_火凛、２回目の死刑囚 (the 2nd time Karin is Condemned)
+385	Mina@r@vmina0044."Karin-chan, here! Thank you! Mina watched aaall of it~"
+386	Karin@r@vkarin0085."Ehh?! Seriously? I only lent it to you yesterday! You're so fast, Mina!"
+387	Mina@r@vmina0045."It was soo good, Mina watched it aaall at once. Mina can't wait to watch even more of it!"
+388	Karin@r@vkarin0086."Aren't there 8 episodes on here?! And you watched the whole damn thing in one night… incredible."
+389	Karin@r@vkarin0087."You binge watched all of it and your parents didn't even complain at you…"
+390	Mina@r@vmina0046."That's because Mina watched it secretly in her room with her headphones, so Mom wouldn't find out. Ehehe."
+391	Mina@r@vmina0047."Mom is policing what TV shows Mina watches wayyy too much. Mina is aaalways missing good shows, all because of Mom."
+392	Karin@r@vkarin0088."R-right, you have your own TV in your room. Incredible…"
+393	Karin@r@vkarin0089."Anyway! How was it?! Kamen Kendo V6 Storm!"
+394	Mina@r@vmina0048."He was soo cool, and such a hottie, Mina was happyyy!"
+395	Mina@r@vmina0049."Mina wants to watch more. That girl got kidnapped, so she must get some awwwful torture in the next episode."
+396	Karin@r@vkarin0090."Hehehe, torture, eh? So you want to watch more of it, eh? Then I'll bring it with me tomorrow!"
+397	Mina@r@vmina0050."Thank you, Karin-chan!!"
+398	Karin@r@vkarin0091."Mina, what's your favorite thing about Kamen Kendo?"
+399	Mina@r@vmina0051."When the hero has to appear then shows up with a ‘BAM’, that's reaaally good."
+400	Karin@r@vkarin0092."That's it! Just when you think ‘I'm done for’ or ‘he'll never make it’ he always shows up just in time!"
+401	Mina@r@vmina0052."That's where it's cathartic, it's sooo good…. Mina just loses herseelf in it…♪"
+402	Karin@r@vkarin0093."Ain't that right! Magical Fashion Star is good and all, but Kamen Kendo is good too, doncha think?!"
+403	Mina@r@vmina0053."Mina loves them both. Both of those have that feeling of being in a pinch and getting saved by the hero with perfect timing; it feels so good~"
+404	Karin@r@vkarin0094."But isn't it the BEST when he comes to the rescue and then a big fight breaks out?"
+405	Mina@r@vmina0054."Mm, Mina loves the part when he comes to the rescue even more than that."
+406	Karin@r@vkarin0095."Ehhh?! The cathartic part for you comes even before he fights off the enemies?!"
+407	Mina@r@vmina0055."Of course, Mina also really loves the part where Kamen Kendo fights off the enemies!"
+408	Mina@r@vmina0056."But, the most exciting part is the moment when he comes to the rescue."
+409	Karin@r@vkarin0096."Well, for me, it's gotta be the moment when he beats up the bad guys and knocks them over, and then hits them head-on with his finishing move, y'know?"
+410	@rWhen the heroine is in a pinch, the hero of justice makes it just in time. Then the burning hot theme song comes on, ‘Go All Out and Battle, Battle!’
+411	@rThen, once the Saint Bamboo Sword's energy is charged up to full power, he unleashes his explosive sizzling finishing technique with a zip and a kabooom!!
+412	Karin@r@vkarin0097."Justice, is, served!! Right here, y'know?! Isn't it the best?!"
+413	Mina@r@vmina0057."…Maybe Mina is weird? Maybe Karin-chan is right…"
+414	Mina@r@vmina0058."Most other people are probably with Karin-chan, and maybe they're riight…"
+415	@rA slight dejected expression rises to Mina's face.
+416	@rEven Karin realizes she's being insensitive and scratches her head, feeling remorseful.
+417	Karin@r@vkarin0098."Say, why is it that you love the scene where the hero of justice appears even more than the scene where he fights off the bad guys?"
+418	Karin@r@vkarin0099."Of course, I'm always gonna love the scene where he fights off the bad guys more. But that's only one I love."
+419	Karin@r@vkarin0100."If I can learn to love the scenes you love, I'll be able to enjoy Kamen Kendo even more."
+420	Karin@r@vkarin0101."So, hey. About those scenes you recommend. I'd be glad to hear you tell me about them…"
+421	Mina@r@vmina0059."Okay!"
+422	Mina@r@vmina0060."So, um… This is just what Mina thinks, but… It's likely that Mina and Karin-chan self-insert as different characters?"
+423	Karin@r@vkarin0102."So you mean, you self-insert as someone other than the main character? Who is it then?"
+424	Mina@r@vmina0061."Well… it's the cute heroine, of course."
+425	Karin@r@vkarin0103."Ehh?! The heroine?? Even though she's not strong at all, and can't transform, and can't even use a finishing technique?"
+426	Mina@r@vmina0062."It's not like Mina wants to use a finishing technique or anything. Or rather, it's the opposite, I guess?"
+427	Mina@r@vmina0063."Instead, Mina wants the hero to appear for when she's in a pinch, and then use the finishing technique just for Mina."
+428	Karin@r@vkarin0104."A… ahhh…"
+429	@rKarin finally understands.
+430	@rAny girl would have that dream, of being a princess.
+431	@rIt seems Mina was watching Kamen Kendo with that dream in mind.
+432	@rSo it's more like, the fragile and powerless but beautiful heroine remembers the catharsis she feels when the hero comes to save her.
+433	@r…Karin doesn't need that, so she's never considered it.
+434	@rEven though she's a girl herself, she can't quite bring herself to understand Mina's feelings…
+435	Karin@r@vkarin0105."…I'm supposed to be a girl, but my point of view has always been like a boy's, huh…"
+436	Mina@r@vmina0064."K-Karin-chan didn't do anything wrong! If anything, Mina thinks Karin-chan's way of having fun is correct."
+437	Mina@r@vmina0065."So, Karin-chan isn't weird."
+438	Karin@r@vkarin0106."I-is that so…?"
+439	Mina@r@vmina0066."If the current Karin-chan keeps doing what Karin-chan wants, and stays true to herself, forever and ever, that would be wonderful."
+440	Mina@r@vmina0067."Mina really loves that of her."
+441	Karin@r@vkarin0107."I-is that so. If Mina is glad then I'm glad too."
+442	Mina@r@vmina0068."Actually, what if Karin-chan were the heroine too? There'd be no one to come and save Mina."
+443	Mina@r@vmina0069."Mina is the heroine. Karin-chan is the hero. See?! Mina has perfect compatibility with her friends."
+444	@rMina is as cute as a kitten. Which makes her catch a lot of attention from boys.
+445	@rSo, naturally, there are plenty of them who give her a hard time by teasing and messing with her.
+446	@rThose are the times when boys really suck at expressing themselves.
+447	@rThere are lots of times when Mina really feels mistreated and gets upset, but since they don't understand how she feels, they keep escalating it.
+448	@rEver since elementary school, she's been on the receiving end of that kind of ‘mess with the kid you have a crush on’ mistreatment.
+449	@rAt times like those, Karin always came to Mina's rescue.
+450	@rWherever there's a heroine who needs saving, a hero will surely appear.
+451	@rTo Karin, who aspires to be like Kamen Kendo, that also means seizing every opportunity for heroic deeds in her everyday life…
+452	Karin@r@vkarin0108."Anyway, Mina, I understand your feelings of wanting to be a princess or a heroine, but."
+453	Karin@r@vkarin0109."When the boys are giving you trouble and I have to come to your rescue, it's kind of a pain, y'know?"
+454	Mina@r@vmina0070."Ehh? But if the heroine doesn't go ‘help me’ or something then the hero of justice can't appear, right?!"
+455	Karin@r@vkarin0110."W-well, it's not like the hero can't appear without someone asking for help."
+456	Mina@r@vmina0071."That's not true. In Kamen Kendo V6 Storm, from episode 1 all the way through episode 8, he never once appeared without someone going ‘help me’ or something!"
+457	Karin@r@vkarin0111."Huh… actually, you're right about that."
+458	Mina@r@vmina0072."Someone's in a pinch, so the hero comes rushing over. If he came without anyone calling him, he'd just be a bother."
+459	Mina@r@vmina0073."So the heroine who calls for help when she's in a pinch is the hero's valuable partner, see?"
+460	@rKarin is making a face af if she's shrouded in smoke. Mina pokes at Karin's cheeks with an ecstatic smile.
+461	Mina@r@vmina0074."Karin-chan, just keep being Karin-chan!"
+462	Mina@r@vmina0075."Mina is the heroine, soo, Karin-chan is the hero."
+463	Mina@r@vmina0076."So from now on, come save Mina when she's in a pinch, okay?"
+464	Mina@r@vmina0077."Mina reaally loves Karin-chan!"
+
+# 02_intA01_07_水無、２回目の死刑囚 (the 2nd time Mina is Condemned)
+465	Mina@r@vmina0078."Huh? Doremi-chan came reaaally early."
+466	Doremi@r@vdoremi0050."…You too, Mina, you came pretty early this morning, as well. Good morning."
+467	Mina@r@vmina0079."G-good morning. Mina is, um, on duty today."
+468	Mina@r@vmina0080."So, classroom duties are why Mina had to come to school so early today."
+469	Doremi@r@vdoremi0051."So you're on duty. …It's still early even for that. You could've still taken your time in getting here."
+470	Mina@r@vmina0081."Mina's mom was eager for me to go, even more than Mina waas."
+471	Doremi@r@vdoremi0052."…I guess she said something like ‘be certain not to be late’, and made you come to school so early…"
+472	Mina@r@vmina0082."By the way, how come Doremi-chan came to school so early?"
+473	@rSnip snip snip. Snip snip snip.
+474	@rDoremi is cutting one piece of origami after another, using a pair of scissors.
+475	@rThey look like the kind of decorations you'd see on Tanabata, or maybe at an elementary school fair.
+476	Doremi@r@vdoremi0053."…I intended to do this at home. But I had to help my family at work and got home late, so I couldn't."
+477	Mina@r@vmina0083."So then, Doremi-chan brought it to school? That's the total opposite of doing homework…"
+478	Doremi@r@vdoremi0054."Don't worry about me. Anyway, Mina, you're on duty, so you should have some work to do."
+479	Mina@r@vmina0084."Ah, that's riight. Once Mina is done, she'll help you with your work, Doremi-chan!"
+480	@rThere isn't that much to do for morning duty.
+481	@rPreparing the daily log, writing today's date on the blackboard, changing out the water in the vase…
+482	@rTo be perfectly honest, it really isn't that much work.
+483	@rSo most of the other students would come at the last minute and get it done quickly.
+484	Mina@r@vmina0085."See, it's already done…"
+485	Mina@r@vmina0086."No matter how much Mina tries to take it slower and say it's no problem, Mom just won't listen."
+486	Doremi@r@vdoremi0055."They do say the early bird gets the worm. See, now the two of us have the classroom to ourselves in this refreshing morning air."
+487	Mina@r@vmina0087."…It's true."
+488	@rThe classroom is overflowing with a refreshing morning light.
+489	@rWith the voices of students doing their morning training outside, it's starting to feel like this classroom is just for the two of them.
+490	Doremi@r@vdoremi0056."It's strange. I normally feel no attachment to this classroom, but… right now, it feels like a wonderful place."
+491	Mina@r@vmina0088."It does. It's strange."
+492	@rMina pulls over a chair, sets it down facing Doremi's desk, and sits down.
+493	@rShe has also procured a pair of scissors from somewhere. She's brimming with willingness to help.
+494	Doremi@r@vdoremi0057."…Hm. It's alright. I can do it alone."
+495	Mina@r@vmina0089."Doremi-chan is trying to do it quickly, riiight? Doing it as a pair would be better."
+496	Mina@r@vmina0090."And besiiides, Mina wants to do it as well. Going snip snip with origami feels so nostalgic♪"
+497	Doremi@r@vdoremi0058."…Is that so. Then, I'm counting on you."
+498	Doremi@r@vdoremi0059."Use these origami pieces. Cut them up into fun shapes for me."
+499	Mina@r@vmina0091."Can it be any shape? Like stars? And people?"
+500	Doremi@r@vdoremi0060."Any shape is fine, as long as it's fun."
+501	Mina@r@vmina0092."What is it for? Won't the shapes depend on that?"
+502	Doremi@r@vdoremi0061."………"
+503	Doremi@r@vdoremi0062."…I can't tell you. Apologies."
+504	Mina@r@vmina0093."Ehh~? why not?"
+505	Doremi@r@vdoremi0063."I just can't. …If you can't do it without me telling you, you don't have to help me."
+506	Mina@r@vmina0094."Don't say cold things like thaat. Okay, okay, Mina will heelp."
+507	@rSnip snip snip. Snip snip snip.
+508	Mina@r@vmina0095."Doremi-chan, what shape is that?"
+509	Doremi@r@vdoremi0064."…I can't tell you."
+510	Mina@r@vmina0096."So focused. …Such a finely detailed shape."
+511	Doremi@r@vdoremi0065."Cut like this, then like this… then unfold it, and…"
+512	Mina@r@vmina0097."Ah, Mina knows! It's the Layers Five transformation stick!!"
+513	Doremi@r@vdoremi0066."…I guess you got me."
+514	Mina@r@vmina0098."That's such a good job! Mina even wants to film Doremi-chan making these and turn it into a whole movie!"
+515	Doremi@r@vdoremi0067."…No matter how many I make, I still enjoy it, more or less."
+516	Mina@r@vmina0099."Eh?! That's amazing, Doremi-chan made this many?! M-Mina could never do that!!"
+517	Doremi@r@vdoremi0068."I only make what I feel like making. It's no pressure, Mina; you can just make the fun things you feel like making."
+518	Mina@r@vmina0100."How come Doremi-chan is making this many transformation sticks?"
+519	Doremi@r@vdoremi0069."…I can't tell you."
+520	Mina@r@vmina0101."Aww. Doremi-chan is so stingy~"
+521	@rBut Mina knows.
+522	@rToday is Mina's birthday. After school, the 4 good friends are going to gather at Doremi's house and have a birthday party.
+523	@rOf course, the decorations must be for decorating the room for the birthday party.
+524	Doremi@r@vdoremi0070."…I'm… not good at just rolling with things."
+525	Mina@r@vmina0102."How come?"
+526	Doremi@r@vdoremi0071."Well, this is the kind of stuff… you're supposed to keep secret until it's ready."
+527	Mina@r@vmina0103."Doremi-chan won't say what it is, so Mina still doesn't know."
+528	Doremi@r@vdoremi0072."Hahahaha…"
+529	Mina@r@vmina0104."Hey, look at this. Unfold it, and… there!"
+530	@rThe content of Mina's hands is now unfolded, revealing a beautiful snowflake crystal.
+531	Doremi@r@vdoremi0073."…From that time I went to your house for my birthday, Mina… you had decorated with those, I remember."
+532	Mina@r@vmina0105."Isn't it fun. Setting up for a birthday party."
+533	Doremi@r@vdoremi0074."………"
+534	Doremi@r@vdoremi0075."…Uh-huh. It is fun."
+535	Mina@r@vmina0106."Mina had a lot of fun decorating the room to celebrate Doremi-chan's birthday too."
+536	Mina@r@vmina0107."Thinking about how happy Doremi-chan would be made setting up soo much fun."
+537	Doremi@r@vdoremi0076."…I know."
+538	@rDoremi can't keep the act up.
+539	@rShe thought she'd get to decorate the room yesterday for Mina's birthday.
+540	@rBut she was stuck helping her family at work until late at night.
+541	@r@z94.She thought she'd get up early and give it her all, but in Doremi's small house, her family's stuff is laid around everywhere and takes up a lot of space, and even her own room is piled up with stuff.
+542	@rIt would have taken until past noon to get it all out of the way, and then even if you say she could just do it after school… well, there'd be no time left.
+543	@rSo that's why she came to school so early in the morning, hoping to make at least a few decorations.
+544	@rSo she did… but it had to be the same day Mina is on duty….
+545	@rMina could tell at a glance that these are decorations being made for her birthday.
+546	@rAnd Doremi… knows very well that she's been busted.
+547	Doremi@r@vdoremi0077."…I'm just… completely useless at rolling with things, whatever I try to do."
+548	Mina@r@vmina0108."Hey, this may sound clich@u233., but…"
+549	Doremi@r@vdoremi0078."Hm…?"
+550	Mina@r@vmina0109."Seeing Doremi-chan working with all her might, all for Mina's sake…"
+551	Mina@r@vmina0110."For Mina, this is already the best present today."
+552	Doremi@r@vdoremi0079."………"
+553	Doremi@r@vdoremi0080."…It almost seems like I'm doing this just so you'll tell me that. …I guess I'm useless after all…"
+554	Mina@r@vmina0111."Mina still really loves Doremi-chan, no matter how good or bad she is at rolling with stuff."
+555	Doremi@r@vdoremi0081."………"
+556	Mina@r@vmina0112."Mina reaaally loves Doremi-chan's honest and straightforward feelings."
+557	Doremi@r@vdoremi0082."I'm even more disgusted with myself, having to take such compliments from you, Mina…"
+558	@rDoremi's scissors stop… and she hangs her head.
+559	@rIn her eyes… tears have started to well up.
+560	@rAt this, suddenly, Mina shoves her own chair away and stands up.
+561	Mina@r@vmina0113.@z150."Doremi-chan!"
+562	Doremi@r@vdoremi0083."Uh, uh-huh…"
+563	@rDoremi suddenly finds her head being hugged to Mina's chest, startling her.
+564	Mina@r@vmina0114."The surprise isn't an obligation for you. You're doing it because of how you feel for me. And those feelings are getting through loud and clear."
+565	Mina@r@vmina0115."Thank you for working so hard and going to so much trouble to make Mina's birthday celebration wonderful."
+566	Mina@r@vmina0116."Mina reaally loves Doremi-chan, and always has, and always will!"
+567	Doremi@r@vdoremi0084."…Mina…"
+568	@rThe tears continue to well up in Doremi's eyes, but,
+569	@rThey sort of feel like they're filling her with warmth…
+
+# 02_intA01_08_土麗美、２回目の死刑囚 (the 2nd time Doremi is Condemned)
+570	@rAt lunchtime, the school's students are split into two groups: the lunchbox group and the cafeteria group.
+571	@rAs for the group of four friends, they all bring their own lunchboxes.
+572	@rThey find some empty seats in the cafeteria and share a friendly meal together.
+573	Doremi@r@vdoremi0085."…When are Mina and Karin coming back?"
+574	Fuuka@r@vfuuka0077."Ahaha. I feel like Karin let herself a little too loose this time… And, like, maybe Mina-chan got completely taken along for the ride."
+575	@rKarin is always stirring up a big fuss by dragging the boys into her Kamen Kendo reenactments, but breaking glass in the process is taking it too far.
+576	@rKarin, the boys, and even Mina who got dragged into it, are currently receiving a harsh scolding in the staff room.
+577	Fuuka@r@vfuuka0078."Should we just start eating without them?"
+578	Doremi@r@vdoremi0086."It's a rule that we can't start until all four of us are together. …Let's wait."
+579	Fuuka@r@vfuuka0079."Yeah, but we must all be hungry by now……"
+580	Doremi@r@vdoremi0087."…Then"
+581	Fuuka@r@vfuuka0080."Hm? Gonna eat after all?"
+582	Doremi@r@vdoremi0088."Wrong. This is,"
+583	Doremi@r@vdoremi0089."An air beef bowl."
+584	Fuuka@r@vfuuka0081."………"
+585	Fuuka@r@vfuuka0082."Air… being, full…?"
+586	Doremi@r@vdoremi0090."It's been said that Japanese full course meals began when zen practitioners would place a heated stone in their pockets to help them withstand hunger…"
+587	Doremi@r@vdoremi0091."The Way of the Beef Bowl also evolved to help withstand that hunger, but in a different form… That is,"
+588	Doremi@r@vdoremi0092."The air beef bowl."
+589	Fuuka@r@vfuuka0083."…I don't understand what you're saying."
+590	Doremi@r@vdoremi0093."Do not make light of it… In our industry, it is even said that those who have mastered this technique have surpassed the need for mere consumption."
+591	Fuuka@r@vfuuka0084."I-I have no idea what you're talking about…"
+592	Doremi@r@vdoremi0094.@z92."It is said that afterwards, the ascetic monk Gyuukai, known as the Beef Bowl Mountain Wizard, was able to convince the shoguns of the time to eat a beef bowl like this just by pretending to use an empty bowl."
+593	Fuuka@r@vfuuka0085."Jeez, I don't even know where to begin with this."
+594	Doremi@r@vdoremi0095."Well, I wouldn't expect the uninitiated masses to comprehend it from mere words."
+595	Doremi@r@vdoremi0096."…Why don't I show you how it's done."
+596	Fuuka@r@vfuuka0086."Wait, really?"
+597	Doremi@r@vdoremi0097."Very really."
+598	Doremi@r@vdoremi0098."But… I must caution you."
+599	Doremi@r@vdoremi0099."Once you have seen this… your boxed lunches will no longer satisfy you after today, Fuuka."
+600	Doremi@r@vdoremi0100."And even if you rush out to a beef bowl establishment right after school, it still won't be enough to release you from that feeling of dissatisfaction…"
+601	Fuuka@r@vfuuka0087."*Gulp*…"
+602	Doremi@r@vdoremi0101."Watch closely… Here I go…"
+603	Karin@r@vkarin0112."And we're back~! My tummy's done grumbling; it's now kowtowing at me now!"
+604	Mina@r@vmina0117."Mina's is kowtowing tooo… Ah, isn't that kinda like what a cow does?"
+605	Fuuka@r@vfuuka0088."Cow—"
+606	Karin@r@vkarin0113."Come to think of it, I brought grilled meat for lunch today! Of course, it's not pig; it's cow!"
+607	Fuuka@r@vfuuka0089.@z150."COW!!"
+608	Doremi@r@vdoremi0102."Both of you… Shh—"
+609	Mina@r@vmina0118."W-what is it? How come Fuuka-chan's eyes are all bloodshot…?"
+610	Karin@r@vkarin0114."Oh yeah. It's like you're in a bullfight, about to charge at the red cape,"
+611	Fuuka@r@vfuuka0090.@z150."COWWWWW!!! SNORT SNORT SNORT-, COW-, COWWWWWW!!!"
+612	Doremi@r@vdoremi0103."…Both of you. You must not say that word to Fuuka right now…"
+613	Mina@r@vmina0119."F-Fuuka-chan, you good?! Eh?! Hey, that's Mina's lunchbox! H-how can you just open that without asking!"
+614	@rFuuka has opened Mina's lunchbox without asking, and is sniffing the smells inside with a snorting sound like a dog, as if searching for something…
+615	@rNot finding that something, she goes on to mercilessly open Karin's lunchbox without asking.
+616	@rThen, having discovered the grilled meat, a strange, utterly unthinkable voice comes from Fuuka's mouth as she writhes around as if in pain.
+617	Karin@r@vkarin0115."H-hey, Fuuka! You know you can't just do that! You know I'm not giving it to you, right?!"
+618	Fuuka@r@vfuuka0091.@z132."LET ME EAT IiIIIIiT!! LET ME EAT THE GRILLED MEAT AND RICE TOGETHER, TOGETHER WITH YOU, IN A BOWwWWWL~~!!"
+619	Mina@r@vmina0120."Doremi-chan… No way… did you show Fuuka-chan THAT?"
+620	Doremi@r@vdoremi0104."…Apologies. It was just in the flow of the conversation…"
+621	Mina@r@vmina0121.@z127."DOREMI-CHAN PROMISED MINA SHE WOULD NEVER USE THAT TECHNIQUE AGAIN, THAT IT WAS SEALED AWAY, RIGHT?! GOOOOSH."
+622	Fuuka@r@vfuuka0092.@z127."GOoOOOOD, OH MY GOoOOOOOOoD!! BOVINE! COW!! LEMME EAT A BEEF BOWL, LEMME EAT IiIIIiT~~!!"
+623	Karin@r@vkarin0116."Hell no, I'm not letting you have it! I've been so looking forward to this grilled meat!"
+624	Karin@r@vkarin0117."Ah~n, choomp!!"
+625	@rKarin takes advantage of the pause created by denying Fuuka, and tosses the grilled meat right into her mouth.
+626	@rThen, she chews it, chomps it, and gulps it right down with a triumphant expression.
+627	Karin@r@vkarin0118."Toooo baaad. There's no more grilled meat leeeft. Beh~"
+628	Fuuka@r@vfuuka0093."…Tongue…"
+629	Doremi@r@vdoremi0105."Th-this is bad…! Karin, get out of here, run away…!"
+630	Fuuka@r@vfuuka0094."Delicious looking, cow tongue…"
+631	Mina@r@vmina0122."N-no, Fuuka-chan! That's not a cow tongue!"
+632	Karin@r@vkarin0119."Cow tongue? Where's that?"
+633	Fuuka@r@vfuuka0095."Karin… there's a soft, delicious loooking, cow tongue coming from your mouth… it was there and now it's hidden…"
+634	Doremi@r@vdoremi0106.@z150."G-GET OUT OF HERE, KARINNNN!!!"
+635	Karin@r@vkarin0120."N-no, no way, is the cow tongue… m-my toooongue?!"
+636	Fuuka@r@vfuuka0096.@z150.OH MY GOoOOOOOOD!!! L-L-LET ME EAT IiIIIiIT~~!!"
+637	Mina@r@vmina0123."F-Fuuka-chan, here, over here! Loook, it's a beef bowwl~~!"
+638	@rMina shows her the beef bowl she's drawn on a torn out piece of notebook paper.
+639	@rFuuka, displaying wild excitement just from this much, is skillfully lured out into the hallway by Mina.
+640	Mina@r@vmina0124."Look, Fuuka-chaan, here, over here. It's a beef bowwwwl…!"
+641	Fuuka@r@vfuuka0097.@z150."BEEF BOWL, BEEF, BOWwWWWwwwWWWL!!!"
+642	@rSkid, gallop, gallop-! Chaaaarge-, crash, shatter!!!
+643	@rFuuka impressively crashes into something, after which it looks like she fainted.
+644	Karin@r@vkarin0121."J-just, what the hell happened here…"
+645	Mina@r@vmina0125."Doremi-chan, this time, this time for sure, that technique is sealed away, okay"
+646	Doremi@r@vdoremi0107."…I'll repent."
+647	Doremi@r@vdoremi0108."But… I'm glad someone as close to me as Fuuka was able to understand the joy of a beef bowl."
+648	Fuuka@r@vfuuka0098."Auuu… there's so many staaars…"
+649	Doremi@r@vdoremi0109."Fuuka, I'll treat you to an extra-large portion today after school, as an apology."
+650	Karin@r@vkarin0122."S-sit your butt down and eat~! Gosh, my tummy is kowtowing at, wait, I mean it's grumbling at me~!"
+651	@rAt this point, a teacher's hysterical voice is heard from the hallway.
+652	@r‘Who did this to the cleaning cabinet?!’ it cries out.
+653	@rTheir dearly beloved classmates timidly respond to the teacher by pointing in their direction…
+654	@r‘Get the hell over here,’ the teacher shouts at them.
+655	Mina@r@vmina0126."Mina's lunchtime ended… before she even got to eat her lunch…"
+656	Karin@r@vkarin0123."Doremi. You'd better treat us someplace real nice after school. I'm expecting an extra large portion!"
+657	Doremi@r@vdoremi0110."It'll be cheap. I've saved up lots and lots of coupons for free stuff and discounts. You can even get an egg and miso soup with it."
+658	Mina@r@vmina0127."That technique of Doremi-chan's… really is cursed after all… Boo-hoo…"
